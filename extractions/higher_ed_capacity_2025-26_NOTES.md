@@ -31,6 +31,43 @@ The fit and projection are in `aishe_ug_discipline_extrapolated_2024-26.csv`. So
 - `aishe_ug_discipline_extrapolated_2024-26.csv` — projections to 2024-25 and 2025-26 for every discipline × gender × metric.
 - `higher_ed_capacity_2025-26_consolidated.csv` — **the headline file**: AICTE + NMC (where available) + AISHE-extrapolated (everywhere else), one row per (discipline, metric, year).
 
+## What AICTE actually publishes — and what it doesn't
+
+**Three AICTE source channels used:**
+
+1. **AICTE Annual Report 2024-25 PDF** (`sources/aicte_annual_report_2024-25.pdf`, 312 pages) — Table 2.1 lists approved-intake by programme for AY 2023-24 vs AY 2024-25. Engineering & Technology total = 26.14 lakh approved seats (UG+PG+Diploma combined). **No gender breakdown in the AR PDF** — the only gender-specific content is on AICTE's Pragati / Saraswati scholarship beneficiaries (small subset).
+
+2. **AICTE Dashboard** (`facilities.aicte-india.org/dashboard/...`) — *this is where the gender data lives.* The dashboard exposes a JSON API at `dashboard/pages/php/dashboardserver.php` that returns scalar `girls` / `boys` enrolment counts per (year, program, level, state, institution-type) filter combination, plus 11-year arrays for intake / enrolment / passed / placed. Coverage: **2012-13 through 2021-22 reliably; 2022-23 is incomplete in the live dashboard** (enrolment dropped to ~31K from ~826K — clearly partial reporting). 2023-24, 2024-25, 2025-26 are not yet in the dashboard (only intake / press-release figures available for those years).
+
+3. **AICTE press releases** — first announce AY-specific top-line numbers (15.98 lakh first-year B.Tech intake for 2025-26, 5,875 institutions, +7% YoY) before the Annual Report PDF lands.
+
+**What AICTE does NOT publicly publish:**
+
+- **SC / ST / OBC / EWS social-category breakdown** — the dashboard has no filter for this and the AR doesn't break enrolment out by category. AICTE collects category data via its DCF (Data Capture Format) but only publishes scholarship beneficiary counts under category. AISHE has SC / ST / OBC / Muslim / Other Minority / EWS / PwD breakdowns at programme level (Table 34a), so for that cut see the AISHE extracts.
+- **Family income / parental occupation / parental education** — these are collected on the DCF (specifically for fee-waiver and EWS-eligibility checks) but AICTE does **not** publish aggregates anywhere we can find. To get this you'd need either: (a) RTI request to AICTE for anonymised aggregate, (b) IHDS / NSS survey data which has tertiary-education by household characteristics, or (c) the Society of Women Engineers' India Tertiary Education research that occasionally cites AICTE pull-data.
+
+## Engineering UG female % — actual AICTE dashboard data 2012-22
+
+Pulled directly from `facilities.aicte-india.org` API (see `scripts/aicte_dashboard_pull_panel.py`, output in `extractions/aicte_dashboard_panel_2012-2023.csv`):
+
+| Year | Approved Intake | Enrolled | Girls | Boys | Female % |
+|---|---:|---:|---:|---:|---:|
+| 2012-13 | 15.49 lakh | 9.66 lakh | 320,284 | 645,913 | 33.1% |
+| 2013-14 | 16.34 lakh | 9.45 lakh | 260,050 | 684,342 | 27.5% |
+| 2014-15 | 17.05 lakh | 8.75 lakh | 240,179 | 635,058 | 27.4% |
+| 2015-16 | 16.31 lakh | 8.55 lakh | 238,347 | 616,665 | 27.9% |
+| 2016-17 | 15.57 lakh | 7.86 lakh | 228,165 | 557,797 | 29.0% |
+| 2017-18 | 14.76 lakh | 7.51 lakh | 219,774 | 530,573 | 29.3% |
+| 2018-19 | 14.05 lakh | 7.22 lakh | 212,320 | 509,643 | 29.4% |
+| 2019-20 | 13.29 lakh | 7.41 lakh | 217,171 | 524,016 | 29.3% |
+| 2020-21 | 12.87 lakh | 7.19 lakh | 213,408 | 500,074 | 29.9% |
+| 2021-22 | 12.53 lakh | 8.26 lakh | 231,435 | 500,088 | 31.6% |
+| **2025-26 (projected)** | **15.98 lakh** | — | — | — | **32.8%** (linear fit on 2014-22 trend) |
+
+The 2012-13 row's high 33.1% female is anomalous (likely data-quality issue in the early dashboard data) — the steady trend from 2014-15 onward is the reliable signal. Female % bottomed out at ~27% in the engineering-bubble peak (2014-15) and has climbed steadily ever since, breaching 31% in 2021-22. Linear fit on 2014-22 projects ~32.8% for 2025-26.
+
+**Note**: girls + boys enrolled does NOT equal approved intake (approved intake is seats; enrolled is actual students that filled them; vacancy was 25-45% historically, dropping to 16% in 2024-25). Female % is computed on enrolled, which is the more meaningful denominator for "who is actually doing engineering".
+
 ## Headline numbers (AY 2025-26)
 
 ### Engineering — from AICTE (authoritative, current)
@@ -38,7 +75,7 @@ The fit and projection are in `aishe_ug_discipline_extrapolated_2024-26.csv`. So
 - **15.98 lakh first-year B.Tech / B.E. seats approved across 5,875 institutions** (+7% YoY)
 - 2024-25 baseline: 14.90 lakh approved, 12.53 lakh filled (vacancy 16.4%)
 - Discipline mix in 2024-25 first-year fill: CSE 31% (3.90 lakh), Mech 19%, Civil 14%, ECE 13%, Electrical 10%, others 13%
-- AICTE doesn't break down enrolment by gender in publicly-available aggregates → use AISHE-derived ~29% female as the baseline (likely creeping up slightly given CSE-led growth)
+- AICTE Dashboard year-by-year gender splits (above) show female % climbing 27.4% (2014-15) → 31.6% (2021-22). Projection for 2025-26 = ~32.8%.
 
 ### MBBS — from NMC (authoritative, current)
 

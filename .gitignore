@@ -22,3 +22,7 @@ venv/
 # Temp/derived
 /tmp/
 *.log
+
+# AICTE 2023-24 annual report PDF: 201 MB, exceeds GitHub limit
+# Download from https://www.aicte.gov.in/downloads/annual-reports/English-Annual%20Report%202023-24.pdf
+sources/aicte_annual_report_2023-24.pdf

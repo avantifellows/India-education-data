@@ -59,6 +59,19 @@ Index page: https://kvsangathan.nic.in/en/annual-reports/
 | `kvs_annual_report_2022-23.pdf` | https://cdnbbsr.s3waas.gov.in/s32d2ca7eedf739ef4c3800713ec482e1a/uploads/2023/12/2023122733.pdf |
 | `kvs_annual_report_2023-24.pdf` | https://cdnbbsr.s3waas.gov.in/s32d2ca7eedf739ef4c3800713ec482e1a/uploads/2025/01/2025012096.pdf |
 
+## AICTE annual reports + dashboard
+
+The AICTE 2024-25 Annual Report Table 2.1 has total approved intake by programme (UG+PG+Diploma combined). For year-by-year **gender splits** the data lives at AICTE's interactive dashboard, not the PDF — extracted via `scripts/aicte_dashboard_pull_panel.py`.
+
+| File | Source URL | Notes |
+|---|---|---|
+| `aicte_annual_report_2024-25.pdf` | https://www.aicte.gov.in/downloads/annual-reports/English_AICTE-Annual%20Report-2024-25.pdf | 74 MB, 312 pages |
+| `aicte_annual_report_2023-24.pdf` | https://www.aicte.gov.in/downloads/annual-reports/English-Annual%20Report%202023-24.pdf | 201 MB — **gitignored** (exceeds GitHub limit), download URL above |
+| AICTE Dashboard API | https://facilities.aicte-india.org/dashboard/pages/php/dashboardserver.php (params: `year`, `program`, `level`, `state`, `institutiontype`, `Minority`, `Women`) | JSON endpoint backing facilities.aicte-india.org dashboard. Coverage 2012-13 through 2021-22; 2022-23 partial. |
+
+**What's NOT in AICTE publications:** SC/ST/OBC/EWS, family income, parental education aggregates. AICTE collects these via DCF for fee-waiver / EWS / Pragati eligibility but does not publish aggregate breakdowns. For social-category breakdown at programme level, see AISHE Table 34a (already in `extractions/aishe_2021-22_outturn_programme_by_social_category.csv`).
+
+
 ## NVS annual reports — gitignored (too large)
 
 Index page: https://navodaya.gov.in/nvs/en/Downloads/

@@ -1,48 +1,57 @@
 discipline,metric,target_year,value,source_type,source_authority,female_share_pct,notes
-Engineering & Technology,approved_intake,2025-26,1598000,sectoral_regulator,AICTE,,"AICTE — first-year B.E./B.Tech intake (5,875 institutions)"
-Engineering & Technology,approved_intake,2024-25,1490000,sectoral_regulator,AICTE,,AICTE — eight-year high in approved intake
-Engineering & Technology,filled_first_year,2024-25,1253000,sectoral_regulator,AICTE,,AICTE — actual enrolment; vacancy rate 16.4%
-Engineering — CSE,filled_first_year,2024-25,390245,sectoral_regulator,AICTE,,Single largest discipline within Engineering
-Engineering — Mechanical,filled_first_year,2024-25,236909,sectoral_regulator,AICTE,,AICTE 2024-25
-Engineering — Civil,filled_first_year,2024-25,172936,sectoral_regulator,AICTE,,AICTE 2024-25
-Engineering — ECE,filled_first_year,2024-25,160450,sectoral_regulator,AICTE,,AICTE 2024-25
-Engineering — Electrical,filled_first_year,2024-25,125902,sectoral_regulator,AICTE,,AICTE 2024-25
+Engineering & Technology,approved_intake_all_levels,2024-25,2614072,sectoral_regulator,AICTE,,AICTE AR 2024-25 Table 2.1 — UG+PG+Diploma combined; 5.85% YoY
+Engineering & Technology,approved_intake_all_levels,2023-24,2469568,sectoral_regulator,AICTE,,AICTE AR 2024-25 Table 2.1 baseline
+Engineering — B.Tech UG,approved_intake_first_year,2024-25,1490000,sectoral_regulator,AICTE,,AICTE press release — eight-year high in approved B.Tech first-year intake
+Engineering — B.Tech UG,approved_intake_first_year,2025-26,1598000,sectoral_regulator,AICTE,32.8,"AICTE press release — 5,875 institutions; +7% YoY; female% projected from 8-year dashboard trend"
+Engineering — B.Tech UG,filled_first_year,2024-25,1253000,sectoral_regulator,AICTE,,AICTE — actual fill; vacancy 16.4%
+Engineering UG (CSE),filled_first_year,2024-25,390245,sectoral_regulator,AICTE,,AICTE 2024-25 — single largest engineering branch
+Engineering UG (Mechanical),filled_first_year,2024-25,236909,sectoral_regulator,AICTE,,AICTE 2024-25
+Engineering UG (Civil),filled_first_year,2024-25,172936,sectoral_regulator,AICTE,,AICTE 2024-25
+Engineering UG (ECE),filled_first_year,2024-25,160450,sectoral_regulator,AICTE,,AICTE 2024-25
+Engineering UG (Electrical),filled_first_year,2024-25,125902,sectoral_regulator,AICTE,,AICTE 2024-25
+Computer Applications,approved_intake_all_levels,2024-25,132606,sectoral_regulator,AICTE,,AICTE AR 2024-25 Table 2.1 — includes BCA+MCA; +23% YoY
+Management,approved_intake_all_levels,2024-25,468478,sectoral_regulator,AICTE,,"AICTE AR 2024-25 Table 2.1 — MBA, PGDM; +5% YoY"
+Pharmacy,approved_intake_all_levels,2024-25,0,sectoral_regulator,AICTE,,Not separately reported in AR Table 2.1; AICTE-regulated
+Hotel Management and Catering,approved_intake_all_levels,2024-25,10645,sectoral_regulator,AICTE,,AICTE AR 2024-25 Table 2.1
+Design,approved_intake_all_levels,2024-25,5755,sectoral_regulator,AICTE,,AICTE AR 2024-25 Table 2.1; +37% YoY
+Architecture (Planning incl.),approved_intake_all_levels,2024-25,920,sectoral_regulator,AICTE,,Planning programme — small; AICTE AR 2024-25
+Applied Arts and Crafts,approved_intake_all_levels,2024-25,6735,sectoral_regulator,AICTE,,AICTE AR 2024-25 Table 2.1
 Medical — MBBS,seats,2024-25,118190,sectoral_regulator,NMC,,"NMC seat matrix — 780 colleges, 48% govt by seats"
-Medical — MBBS,colleges,2024-25,780,sectoral_regulator,NMC,,"NMC — 116 colleges added since 2014, 41 new in FY 24-25"
-Medical — MBBS,seats,2025-26,137600,sectoral_regulator,NMC,,"NMC press releases (announced expansions: +10,650 from 2024-25 base; +6,850 additional for 2025-26)"
+Medical — MBBS,colleges,2024-25,780,sectoral_regulator,NMC,,NMC — 41 new colleges added in FY 24-25
+Medical — MBBS,seats,2025-26,137600,sectoral_regulator,NMC,,NMC press releases (announced expansions)
 Medical — MBBS,colleges,2025-26,816,sectoral_regulator,NMC,,NMC — 41 new colleges approved for 2025-26
-Arts,projected_annual_graduates,2025-26,3132530,aishe_linear_extrapolation,AISHE 2019-20 / 2020-21 / 2021-22,50.0,"linear fit from 3-year AISHE panel; 2021-22 base = 2,416,130; projected 4-yr growth = 29.7%"
-Commerce,projected_annual_graduates,2025-26,1511522,aishe_linear_extrapolation,AISHE 2019-20 / 2020-21 / 2021-22,45.8,"linear fit from 3-year AISHE panel; 2021-22 base = 1,127,744; projected 4-yr growth = 34.0%"
-Science,projected_annual_graduates,2025-26,1420768,aishe_linear_extrapolation,AISHE 2019-20 / 2020-21 / 2021-22,52.0,"linear fit from 3-year AISHE panel; 2021-22 base = 1,197,333; projected 4-yr growth = 18.7%"
-Education,projected_annual_graduates,2025-26,806330,aishe_linear_extrapolation,AISHE 2019-20 / 2020-21 / 2021-22,59.0,"linear fit from 3-year AISHE panel; 2021-22 base = 703,749; projected 4-yr growth = 14.6%"
-IT & Computer,projected_annual_graduates,2025-26,430604,aishe_linear_extrapolation,AISHE 2019-20 / 2020-21 / 2021-22,36.6,"linear fit from 3-year AISHE panel; 2021-22 base = 258,203; projected 4-yr growth = 66.8%"
-Medical Science,projected_annual_graduates,2025-26,398300,aishe_linear_extrapolation,AISHE 2019-20 / 2020-21 / 2021-22,56.0,"linear fit from 3-year AISHE panel; 2021-22 base = 293,528; projected 4-yr growth = 35.7%"
-Social Science,projected_annual_graduates,2025-26,395666,aishe_linear_extrapolation,AISHE 2019-20 / 2020-21 / 2021-22,49.0,"linear fit from 3-year AISHE panel; 2021-22 base = 263,974; projected 4-yr growth = 49.9%"
-Management,projected_annual_graduates,2025-26,334714,aishe_linear_extrapolation,AISHE 2019-20 / 2020-21 / 2021-22,36.7,"linear fit from 3-year AISHE panel; 2021-22 base = 209,041; projected 4-yr growth = 60.1%"
-Law,projected_annual_graduates,2025-26,154624,aishe_linear_extrapolation,AISHE 2019-20 / 2020-21 / 2021-22,32.4,"linear fit from 3-year AISHE panel; 2021-22 base = 107,945; projected 4-yr growth = 43.2%"
-Indian Language,projected_annual_graduates,2025-26,95322,aishe_linear_extrapolation,AISHE 2019-20 / 2020-21 / 2021-22,64.1,"linear fit from 3-year AISHE panel; 2021-22 base = 75,878; projected 4-yr growth = 25.6%"
-Agriculture,projected_annual_graduates,2025-26,88785,aishe_linear_extrapolation,AISHE 2019-20 / 2020-21 / 2021-22,28.5,"linear fit from 3-year AISHE panel; 2021-22 base = 63,608; projected 4-yr growth = 39.6%"
-Foreign Language,projected_annual_graduates,2025-26,78970,aishe_linear_extrapolation,AISHE 2019-20 / 2020-21 / 2021-22,56.2,"linear fit from 3-year AISHE panel; 2021-22 base = 45,899; projected 4-yr growth = 72.1%"
-Physical Education,projected_annual_graduates,2025-26,34362,aishe_linear_extrapolation,AISHE 2019-20 / 2020-21 / 2021-22,29.3,"linear fit from 3-year AISHE panel; 2021-22 base = 25,206; projected 4-yr growth = 36.3%"
-Library & Information Science,projected_annual_graduates,2025-26,25660,aishe_linear_extrapolation,AISHE 2019-20 / 2020-21 / 2021-22,43.8,"linear fit from 3-year AISHE panel; 2021-22 base = 22,115; projected 4-yr growth = 16.0%"
-Home Science,projected_annual_graduates,2025-26,22014,aishe_linear_extrapolation,AISHE 2019-20 / 2020-21 / 2021-22,101.4,"linear fit from 3-year AISHE panel; 2021-22 base = 18,492; projected 4-yr growth = 19.0%"
-Paramedical Science,projected_annual_graduates,2025-26,20061,aishe_linear_extrapolation,AISHE 2019-20 / 2020-21 / 2021-22,42.1,"linear fit from 3-year AISHE panel; 2021-22 base = 7,952; projected 4-yr growth = 152.3%"
-Hospitality and Tourism,projected_annual_graduates,2025-26,17179,aishe_linear_extrapolation,AISHE 2019-20 / 2020-21 / 2021-22,20.5,"linear fit from 3-year AISHE panel; 2021-22 base = 7,572; projected 4-yr growth = 126.9%"
-Journalism & Mass Communication,projected_annual_graduates,2025-26,16253,aishe_linear_extrapolation,AISHE 2019-20 / 2020-21 / 2021-22,51.8,"linear fit from 3-year AISHE panel; 2021-22 base = 9,839; projected 4-yr growth = 65.2%"
-Design,projected_annual_graduates,2025-26,15842,aishe_linear_extrapolation,AISHE 2019-20 / 2020-21 / 2021-22,66.2,"linear fit from 3-year AISHE panel; 2021-22 base = 7,847; projected 4-yr growth = 101.9%"
-Fine Arts,projected_annual_graduates,2025-26,10043,aishe_linear_extrapolation,AISHE 2019-20 / 2020-21 / 2021-22,52.4,"linear fit from 3-year AISHE panel; 2021-22 base = 10,185; projected 4-yr growth = -1.4%"
-Fashion Technology,projected_annual_graduates,2025-26,7789,aishe_linear_extrapolation,AISHE 2019-20 / 2020-21 / 2021-22,67.8,"linear fit from 3-year AISHE panel; 2021-22 base = 6,024; projected 4-yr growth = 29.3%"
-Veterinary & Animal Sciences,projected_annual_graduates,2025-26,5312,aishe_linear_extrapolation,AISHE 2019-20 / 2020-21 / 2021-22,47.1,"linear fit from 3-year AISHE panel; 2021-22 base = 3,764; projected 4-yr growth = 41.1%"
-Oriental Learning,projected_annual_graduates,2025-26,4488,aishe_linear_extrapolation,AISHE 2019-20 / 2020-21 / 2021-22,10.2,"linear fit from 3-year AISHE panel; 2021-22 base = 18,764; projected 4-yr growth = -76.1%"
-Linguistics,projected_annual_graduates,2025-26,2674,aishe_linear_extrapolation,AISHE 2019-20 / 2020-21 / 2021-22,14.2,"linear fit from 3-year AISHE panel; 2021-22 base = 3,937; projected 4-yr growth = -32.1%"
-Fisheries Science,projected_annual_graduates,2025-26,2245,aishe_linear_extrapolation,AISHE 2019-20 / 2020-21 / 2021-22,51.5,"linear fit from 3-year AISHE panel; 2021-22 base = 1,305; projected 4-yr growth = 72.0%"
-Marine Science / Oceanography,projected_annual_graduates,2025-26,454,aishe_linear_extrapolation,AISHE 2019-20 / 2020-21 / 2021-22,35.7,linear fit from 3-year AISHE panel; 2021-22 base = 386; projected 4-yr growth = 17.7%
-Criminology & Forensic Science,projected_annual_graduates,2025-26,448,aishe_linear_extrapolation,AISHE 2019-20 / 2020-21 / 2021-22,42.4,linear fit from 3-year AISHE panel; 2021-22 base = 347; projected 4-yr growth = 29.3%
-Gandhian Studies,projected_annual_graduates,2025-26,430,aishe_linear_extrapolation,AISHE 2019-20 / 2020-21 / 2021-22,79.5,linear fit from 3-year AISHE panel; 2021-22 base = 203; projected 4-yr growth = 111.9%
-Defence Studies,projected_annual_graduates,2025-26,397,aishe_linear_extrapolation,AISHE 2019-20 / 2020-21 / 2021-22,50.9,linear fit from 3-year AISHE panel; 2021-22 base = 148; projected 4-yr growth = 168.1%
-Religious Studies,projected_annual_graduates,2025-26,38,aishe_linear_extrapolation,AISHE 2019-20 / 2020-21 / 2021-22,0.0,linear fit from 3-year AISHE panel; 2021-22 base = 873; projected 4-yr growth = -95.6%
-Area Studies,projected_annual_graduates,2025-26,0,aishe_linear_extrapolation,AISHE 2019-20 / 2020-21 / 2021-22,0,"linear fit from 3-year AISHE panel; 2021-22 base = 8,071; projected 4-yr growth = -100.0%"
-Cultural Studies,projected_annual_graduates,2025-26,0,aishe_linear_extrapolation,AISHE 2019-20 / 2020-21 / 2021-22,0,"linear fit from 3-year AISHE panel; 2021-22 base = 1,367; projected 4-yr growth = -100.0%"
-Footwear  Design,projected_annual_graduates,2025-26,0,aishe_linear_extrapolation,AISHE 2019-20 / 2020-21 / 2021-22,0,linear fit from 3-year AISHE panel; 2021-22 base = 87; projected 4-yr growth = -100.0%
-Social Work,projected_annual_graduates,2025-26,0,aishe_linear_extrapolation,AISHE 2019-20 / 2020-21 / 2021-22,0,"linear fit from 3-year AISHE panel; 2021-22 base = 6,695; projected 4-yr growth = -100.0%"
-Women Studies,projected_annual_graduates,2025-26,0,aishe_linear_extrapolation,AISHE 2019-20 / 2020-21 / 2021-22,0,linear fit from 3-year AISHE panel; 2021-22 base = 288; projected 4-yr growth = -100.0%
+Arts,projected_annual_graduates,2025-26,3132530,aishe_linear_extrapolation,AISHE 2019-20 / 2020-21 / 2021-22,50.0,"linear fit on 3-year AISHE panel; 2021-22 base = 2,416,130; projected 4-yr growth 29.7%"
+Commerce,projected_annual_graduates,2025-26,1511522,aishe_linear_extrapolation,AISHE 2019-20 / 2020-21 / 2021-22,45.8,"linear fit on 3-year AISHE panel; 2021-22 base = 1,127,744; projected 4-yr growth 34.0%"
+Science,projected_annual_graduates,2025-26,1420768,aishe_linear_extrapolation,AISHE 2019-20 / 2020-21 / 2021-22,52.0,"linear fit on 3-year AISHE panel; 2021-22 base = 1,197,333; projected 4-yr growth 18.7%"
+Education,projected_annual_graduates,2025-26,806330,aishe_linear_extrapolation,AISHE 2019-20 / 2020-21 / 2021-22,59.0,"linear fit on 3-year AISHE panel; 2021-22 base = 703,749; projected 4-yr growth 14.6%"
+IT & Computer,projected_annual_graduates,2025-26,430604,aishe_linear_extrapolation,AISHE 2019-20 / 2020-21 / 2021-22,36.6,"linear fit on 3-year AISHE panel; 2021-22 base = 258,203; projected 4-yr growth 66.8%"
+Medical Science,projected_annual_graduates,2025-26,398300,aishe_linear_extrapolation,AISHE 2019-20 / 2020-21 / 2021-22,56.0,"linear fit on 3-year AISHE panel; 2021-22 base = 293,528; projected 4-yr growth 35.7%"
+Social Science,projected_annual_graduates,2025-26,395666,aishe_linear_extrapolation,AISHE 2019-20 / 2020-21 / 2021-22,49.0,"linear fit on 3-year AISHE panel; 2021-22 base = 263,974; projected 4-yr growth 49.9%"
+Management,projected_annual_graduates,2025-26,334714,aishe_linear_extrapolation,AISHE 2019-20 / 2020-21 / 2021-22,36.7,"linear fit on 3-year AISHE panel; 2021-22 base = 209,041; projected 4-yr growth 60.1%"
+Law,projected_annual_graduates,2025-26,154624,aishe_linear_extrapolation,AISHE 2019-20 / 2020-21 / 2021-22,32.4,"linear fit on 3-year AISHE panel; 2021-22 base = 107,945; projected 4-yr growth 43.2%"
+Indian Language,projected_annual_graduates,2025-26,95322,aishe_linear_extrapolation,AISHE 2019-20 / 2020-21 / 2021-22,64.1,"linear fit on 3-year AISHE panel; 2021-22 base = 75,878; projected 4-yr growth 25.6%"
+Agriculture,projected_annual_graduates,2025-26,88785,aishe_linear_extrapolation,AISHE 2019-20 / 2020-21 / 2021-22,28.5,"linear fit on 3-year AISHE panel; 2021-22 base = 63,608; projected 4-yr growth 39.6%"
+Foreign Language,projected_annual_graduates,2025-26,78970,aishe_linear_extrapolation,AISHE 2019-20 / 2020-21 / 2021-22,56.2,"linear fit on 3-year AISHE panel; 2021-22 base = 45,899; projected 4-yr growth 72.1%"
+Physical Education,projected_annual_graduates,2025-26,34362,aishe_linear_extrapolation,AISHE 2019-20 / 2020-21 / 2021-22,29.3,"linear fit on 3-year AISHE panel; 2021-22 base = 25,206; projected 4-yr growth 36.3%"
+Library & Information Science,projected_annual_graduates,2025-26,25660,aishe_linear_extrapolation,AISHE 2019-20 / 2020-21 / 2021-22,43.8,"linear fit on 3-year AISHE panel; 2021-22 base = 22,115; projected 4-yr growth 16.0%"
+Home Science,projected_annual_graduates,2025-26,22014,aishe_linear_extrapolation,AISHE 2019-20 / 2020-21 / 2021-22,101.4,"linear fit on 3-year AISHE panel; 2021-22 base = 18,492; projected 4-yr growth 19.0%"
+Paramedical Science,projected_annual_graduates,2025-26,20061,aishe_linear_extrapolation,AISHE 2019-20 / 2020-21 / 2021-22,42.1,"linear fit on 3-year AISHE panel; 2021-22 base = 7,952; projected 4-yr growth 152.3%"
+Hospitality and Tourism,projected_annual_graduates,2025-26,17179,aishe_linear_extrapolation,AISHE 2019-20 / 2020-21 / 2021-22,20.5,"linear fit on 3-year AISHE panel; 2021-22 base = 7,572; projected 4-yr growth 126.9%"
+Journalism & Mass Communication,projected_annual_graduates,2025-26,16253,aishe_linear_extrapolation,AISHE 2019-20 / 2020-21 / 2021-22,51.8,"linear fit on 3-year AISHE panel; 2021-22 base = 9,839; projected 4-yr growth 65.2%"
+Design,projected_annual_graduates,2025-26,15842,aishe_linear_extrapolation,AISHE 2019-20 / 2020-21 / 2021-22,66.2,"linear fit on 3-year AISHE panel; 2021-22 base = 7,847; projected 4-yr growth 101.9%"
+Fine Arts,projected_annual_graduates,2025-26,10043,aishe_linear_extrapolation,AISHE 2019-20 / 2020-21 / 2021-22,52.4,"linear fit on 3-year AISHE panel; 2021-22 base = 10,185; projected 4-yr growth -1.4%"
+Fashion Technology,projected_annual_graduates,2025-26,7789,aishe_linear_extrapolation,AISHE 2019-20 / 2020-21 / 2021-22,67.8,"linear fit on 3-year AISHE panel; 2021-22 base = 6,024; projected 4-yr growth 29.3%"
+Veterinary & Animal Sciences,projected_annual_graduates,2025-26,5312,aishe_linear_extrapolation,AISHE 2019-20 / 2020-21 / 2021-22,47.1,"linear fit on 3-year AISHE panel; 2021-22 base = 3,764; projected 4-yr growth 41.1%"
+Oriental Learning,projected_annual_graduates,2025-26,4488,aishe_linear_extrapolation,AISHE 2019-20 / 2020-21 / 2021-22,10.2,"linear fit on 3-year AISHE panel; 2021-22 base = 18,764; projected 4-yr growth -76.1%"
+Linguistics,projected_annual_graduates,2025-26,2674,aishe_linear_extrapolation,AISHE 2019-20 / 2020-21 / 2021-22,14.2,"linear fit on 3-year AISHE panel; 2021-22 base = 3,937; projected 4-yr growth -32.1%"
+Fisheries Science,projected_annual_graduates,2025-26,2245,aishe_linear_extrapolation,AISHE 2019-20 / 2020-21 / 2021-22,51.5,"linear fit on 3-year AISHE panel; 2021-22 base = 1,305; projected 4-yr growth 72.0%"
+Marine Science / Oceanography,projected_annual_graduates,2025-26,454,aishe_linear_extrapolation,AISHE 2019-20 / 2020-21 / 2021-22,35.7,linear fit on 3-year AISHE panel; 2021-22 base = 386; projected 4-yr growth 17.7%
+Criminology & Forensic Science,projected_annual_graduates,2025-26,448,aishe_linear_extrapolation,AISHE 2019-20 / 2020-21 / 2021-22,42.4,linear fit on 3-year AISHE panel; 2021-22 base = 347; projected 4-yr growth 29.3%
+Gandhian Studies,projected_annual_graduates,2025-26,430,aishe_linear_extrapolation,AISHE 2019-20 / 2020-21 / 2021-22,79.5,linear fit on 3-year AISHE panel; 2021-22 base = 203; projected 4-yr growth 111.9%
+Defence Studies,projected_annual_graduates,2025-26,397,aishe_linear_extrapolation,AISHE 2019-20 / 2020-21 / 2021-22,50.9,linear fit on 3-year AISHE panel; 2021-22 base = 148; projected 4-yr growth 168.1%
+Religious Studies,projected_annual_graduates,2025-26,38,aishe_linear_extrapolation,AISHE 2019-20 / 2020-21 / 2021-22,0.0,linear fit on 3-year AISHE panel; 2021-22 base = 873; projected 4-yr growth -95.6%
+Area Studies,projected_annual_graduates,2025-26,0,aishe_linear_extrapolation,AISHE 2019-20 / 2020-21 / 2021-22,0,"linear fit on 3-year AISHE panel; 2021-22 base = 8,071; projected 4-yr growth -100.0%"
+Cultural Studies,projected_annual_graduates,2025-26,0,aishe_linear_extrapolation,AISHE 2019-20 / 2020-21 / 2021-22,0,"linear fit on 3-year AISHE panel; 2021-22 base = 1,367; projected 4-yr growth -100.0%"
+Footwear  Design,projected_annual_graduates,2025-26,0,aishe_linear_extrapolation,AISHE 2019-20 / 2020-21 / 2021-22,0,linear fit on 3-year AISHE panel; 2021-22 base = 87; projected 4-yr growth -100.0%
+Social Work,projected_annual_graduates,2025-26,0,aishe_linear_extrapolation,AISHE 2019-20 / 2020-21 / 2021-22,0,"linear fit on 3-year AISHE panel; 2021-22 base = 6,695; projected 4-yr growth -100.0%"
+Women Studies,projected_annual_graduates,2025-26,0,aishe_linear_extrapolation,AISHE 2019-20 / 2020-21 / 2021-22,0,linear fit on 3-year AISHE panel; 2021-22 base = 288; projected 4-yr growth -100.0%
