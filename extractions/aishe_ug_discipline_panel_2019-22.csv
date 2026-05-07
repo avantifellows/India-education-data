@@ -1,0 +1,688 @@
+aishe_year,metric,discipline,gender,value
+2019-20,enrolment,Arts,Male,4547708
+2019-20,enrolment,Arts,Female,5107878
+2019-20,enrolment,Arts,Total,9655586
+2019-20,enrolment,Science,Male,2295673
+2019-20,enrolment,Science,Female,2459711
+2019-20,enrolment,Science,Total,4755384
+2019-20,enrolment,Commerce,Male,2132311
+2019-20,enrolment,Commerce,Female,2030817
+2019-20,enrolment,Commerce,Total,4163128
+2019-20,enrolment,Engineering & Technology,Male,2638085
+2019-20,enrolment,Engineering & Technology,Female,1089100
+2019-20,enrolment,Engineering & Technology,Total,3727185
+2019-20,enrolment,Education,Male,580307
+2019-20,enrolment,Education,Female,1046458
+2019-20,enrolment,Education,Total,1626765
+2019-20,enrolment,Medical Science,Male,547516
+2019-20,enrolment,Medical Science,Female,804602
+2019-20,enrolment,Medical Science,Total,1352118
+2019-20,enrolment,Social Science,Male,468002
+2019-20,enrolment,Social Science,Female,516038
+2019-20,enrolment,Social Science,Total,984040
+2019-20,enrolment,IT & Computer,Male,459381
+2019-20,enrolment,IT & Computer,Female,307865
+2019-20,enrolment,IT & Computer,Total,767246
+2019-20,enrolment,Management,Male,446139
+2019-20,enrolment,Management,Female,267273
+2019-20,enrolment,Management,Total,713412
+2019-20,enrolment,Law,Male,287246
+2019-20,enrolment,Law,Female,145698
+2019-20,enrolment,Law,Total,432944
+2019-20,enrolment,Indian Language,Male,116632
+2019-20,enrolment,Indian Language,Female,207696
+2019-20,enrolment,Indian Language,Total,324328
+2019-20,enrolment,Agriculture,Male,191514
+2019-20,enrolment,Agriculture,Female,78309
+2019-20,enrolment,Agriculture,Total,269823
+2019-20,enrolment,Foreign Language,Male,71352
+2019-20,enrolment,Foreign Language,Female,89881
+2019-20,enrolment,Foreign Language,Total,161233
+2019-20,enrolment,Home Science,Male,9755
+2019-20,enrolment,Home Science,Female,67281
+2019-20,enrolment,Home Science,Total,77036
+2019-20,enrolment,Oriental Learning,Male,37223
+2019-20,enrolment,Oriental Learning,Female,28218
+2019-20,enrolment,Oriental Learning,Total,65441
+2019-20,enrolment,Area Studies,Male,31110
+2019-20,enrolment,Area Studies,Female,33716
+2019-20,enrolment,Area Studies,Total,64826
+2019-20,enrolment,Social Work,Male,27309
+2019-20,enrolment,Social Work,Female,29809
+2019-20,enrolment,Social Work,Total,57118
+2019-20,enrolment,Physical Education,Male,39244
+2019-20,enrolment,Physical Education,Female,16604
+2019-20,enrolment,Physical Education,Total,55848
+2019-20,enrolment,Fine Arts,Male,27249
+2019-20,enrolment,Fine Arts,Female,27884
+2019-20,enrolment,Fine Arts,Total,55133
+2019-20,enrolment,Library & Information Science,Male,19859
+2019-20,enrolment,Library & Information Science,Female,19927
+2019-20,enrolment,Library & Information Science,Total,39786
+2019-20,enrolment,Journalism & Mass Communication,Male,14694
+2019-20,enrolment,Journalism & Mass Communication,Female,15064
+2019-20,enrolment,Journalism & Mass Communication,Total,29758
+2019-20,enrolment,Design,Male,8570
+2019-20,enrolment,Design,Female,20241
+2019-20,enrolment,Design,Total,28811
+2019-20,enrolment,Linguistics,Male,8980
+2019-20,enrolment,Linguistics,Female,18735
+2019-20,enrolment,Linguistics,Total,27715
+2019-20,enrolment,Fashion Technology,Male,4954
+2019-20,enrolment,Fashion Technology,Female,17008
+2019-20,enrolment,Fashion Technology,Total,21962
+2019-20,enrolment,Veterinary & Animal Sciences,Male,13137
+2019-20,enrolment,Veterinary & Animal Sciences,Female,8461
+2019-20,enrolment,Veterinary & Animal Sciences,Total,21598
+2019-20,enrolment,Paramedical Science,Male,9225
+2019-20,enrolment,Paramedical Science,Female,8284
+2019-20,enrolment,Paramedical Science,Total,17509
+2019-20,enrolment,Hospitality and Tourism,Male,12630
+2019-20,enrolment,Hospitality and Tourism,Female,3378
+2019-20,enrolment,Hospitality and Tourism,Total,16008
+2019-20,enrolment,Cultural Studies,Male,4768
+2019-20,enrolment,Cultural Studies,Female,6185
+2019-20,enrolment,Cultural Studies,Total,10953
+2019-20,enrolment,Fisheries Science,Male,2863
+2019-20,enrolment,Fisheries Science,Female,2647
+2019-20,enrolment,Fisheries Science,Total,5510
+2019-20,enrolment,Religious Studies,Male,2710
+2019-20,enrolment,Religious Studies,Female,2520
+2019-20,enrolment,Religious Studies,Total,5230
+2019-20,enrolment,Women Studies,Male,48
+2019-20,enrolment,Women Studies,Female,4678
+2019-20,enrolment,Women Studies,Total,4726
+2019-20,enrolment,Criminology & Forensic Science,Male,844
+2019-20,enrolment,Criminology & Forensic Science,Female,1318
+2019-20,enrolment,Criminology & Forensic Science,Total,2162
+2019-20,enrolment,Defence Studies,Male,855
+2019-20,enrolment,Defence Studies,Female,657
+2019-20,enrolment,Defence Studies,Total,1512
+2019-20,enrolment,Marine Science / Oceanography,Male,1290
+2019-20,enrolment,Marine Science / Oceanography,Female,137
+2019-20,enrolment,Marine Science / Oceanography,Total,1427
+2019-20,enrolment,Footwear  Design,Male,643
+2019-20,enrolment,Footwear  Design,Female,767
+2019-20,enrolment,Footwear  Design,Total,1410
+2019-20,enrolment,Gandhian Studies,Male,89
+2019-20,enrolment,Gandhian Studies,Female,293
+2019-20,enrolment,Gandhian Studies,Total,382
+2019-20,enrolment,Grand,Male,15059915
+2019-20,enrolment,Grand,Female,14485138
+2019-20,enrolment,Grand,Total,29545053
+2019-20,out_turn,Arts,Male,869369
+2019-20,out_turn,Arts,Female,1158885
+2019-20,out_turn,Arts,Total,2028254
+2019-20,out_turn,Science,Male,486197
+2019-20,out_turn,Science,Female,594427
+2019-20,out_turn,Science,Total,1080624
+2019-20,out_turn,Commerce,Male,430144
+2019-20,out_turn,Commerce,Female,503990
+2019-20,out_turn,Commerce,Total,934134
+2019-20,out_turn,Engineering & Technology,Male,561075
+2019-20,out_turn,Engineering & Technology,Female,259054
+2019-20,out_turn,Engineering & Technology,Total,820129
+2019-20,out_turn,Education,Male,206904
+2019-20,out_turn,Education,Female,442073
+2019-20,out_turn,Education,Total,648977
+2019-20,out_turn,Medical Science,Male,79121
+2019-20,out_turn,Medical Science,Female,159510
+2019-20,out_turn,Medical Science,Total,238631
+2019-20,out_turn,Social Science,Male,93172
+2019-20,out_turn,Social Science,Female,103584
+2019-20,out_turn,Social Science,Total,196756
+2019-20,out_turn,IT & Computer,Male,87974
+2019-20,out_turn,IT & Computer,Female,83320
+2019-20,out_turn,IT & Computer,Total,171294
+2019-20,out_turn,Management,Male,84025
+2019-20,out_turn,Management,Female,62651
+2019-20,out_turn,Management,Total,146676
+2019-20,out_turn,Law,Male,55577
+2019-20,out_turn,Law,Female,28252
+2019-20,out_turn,Law,Total,83829
+2019-20,out_turn,Indian Language,Male,22186
+2019-20,out_turn,Indian Language,Female,43235
+2019-20,out_turn,Indian Language,Total,65421
+2019-20,out_turn,Agriculture,Male,34798
+2019-20,out_turn,Agriculture,Female,15650
+2019-20,out_turn,Agriculture,Total,50448
+2019-20,out_turn,Foreign Language,Male,11681
+2019-20,out_turn,Foreign Language,Female,17121
+2019-20,out_turn,Foreign Language,Total,28802
+2019-20,out_turn,Oriental Learning,Male,13774
+2019-20,out_turn,Oriental Learning,Female,11800
+2019-20,out_turn,Oriental Learning,Total,25574
+2019-20,out_turn,Library & Information Science,Male,9531
+2019-20,out_turn,Library & Information Science,Female,10780
+2019-20,out_turn,Library & Information Science,Total,20311
+2019-20,out_turn,Physical Education,Male,13862
+2019-20,out_turn,Physical Education,Female,6380
+2019-20,out_turn,Physical Education,Total,20242
+2019-20,out_turn,Home Science,Male,2231
+2019-20,out_turn,Home Science,Female,14307
+2019-20,out_turn,Home Science,Total,16538
+2019-20,out_turn,Area Studies,Male,7677
+2019-20,out_turn,Area Studies,Female,7307
+2019-20,out_turn,Area Studies,Total,14984
+2019-20,out_turn,Social Work,Male,10962
+2019-20,out_turn,Social Work,Female,2975
+2019-20,out_turn,Social Work,Total,13937
+2019-20,out_turn,Fine Arts,Male,4819
+2019-20,out_turn,Fine Arts,Female,5394
+2019-20,out_turn,Fine Arts,Total,10213
+2019-20,out_turn,Journalism & Mass Communication,Male,3340
+2019-20,out_turn,Journalism & Mass Communication,Female,3302
+2019-20,out_turn,Journalism & Mass Communication,Total,6642
+2019-20,out_turn,Fashion Technology,Male,886
+2019-20,out_turn,Fashion Technology,Female,4069
+2019-20,out_turn,Fashion Technology,Total,4955
+2019-20,out_turn,Linguistics,Male,1188
+2019-20,out_turn,Linguistics,Female,3162
+2019-20,out_turn,Linguistics,Total,4350
+2019-20,out_turn,Design,Male,1058
+2019-20,out_turn,Design,Female,2858
+2019-20,out_turn,Design,Total,3916
+2019-20,out_turn,Veterinary & Animal Sciences,Male,1816
+2019-20,out_turn,Veterinary & Animal Sciences,Female,1247
+2019-20,out_turn,Veterinary & Animal Sciences,Total,3063
+2019-20,out_turn,Hospitality and Tourism,Male,2038
+2019-20,out_turn,Hospitality and Tourism,Female,578
+2019-20,out_turn,Hospitality and Tourism,Total,2616
+2019-20,out_turn,Cultural Studies,Male,924
+2019-20,out_turn,Cultural Studies,Female,1260
+2019-20,out_turn,Cultural Studies,Total,2184
+2019-20,out_turn,Paramedical Science,Male,849
+2019-20,out_turn,Paramedical Science,Female,1183
+2019-20,out_turn,Paramedical Science,Total,2032
+2019-20,out_turn,Religious Studies,Male,713
+2019-20,out_turn,Religious Studies,Female,610
+2019-20,out_turn,Religious Studies,Total,1323
+2019-20,out_turn,Women Studies,Male,8
+2019-20,out_turn,Women Studies,Female,1233
+2019-20,out_turn,Women Studies,Total,1241
+2019-20,out_turn,Fisheries Science,Male,506
+2019-20,out_turn,Fisheries Science,Female,396
+2019-20,out_turn,Fisheries Science,Total,902
+2019-20,out_turn,Marine Science / Oceanography,Male,334
+2019-20,out_turn,Marine Science / Oceanography,Female,18
+2019-20,out_turn,Marine Science / Oceanography,Total,352
+2019-20,out_turn,Footwear  Design,Male,171
+2019-20,out_turn,Footwear  Design,Female,149
+2019-20,out_turn,Footwear  Design,Total,320
+2019-20,out_turn,Criminology & Forensic Science,Male,96
+2019-20,out_turn,Criminology & Forensic Science,Female,166
+2019-20,out_turn,Criminology & Forensic Science,Total,262
+2019-20,out_turn,Gandhian Studies,Male,10
+2019-20,out_turn,Gandhian Studies,Female,74
+2019-20,out_turn,Gandhian Studies,Total,84
+2019-20,out_turn,Defence Studies,Male,35
+2019-20,out_turn,Defence Studies,Female,20
+2019-20,out_turn,Defence Studies,Total,55
+2019-20,out_turn,Grand,Male,3099051
+2019-20,out_turn,Grand,Female,3551020
+2019-20,out_turn,Grand,Total,6650071
+2020-21,enrolment,Arts,Male,4988246
+2020-21,enrolment,Arts,Female,5417424
+2020-21,enrolment,Arts,Total,10405670
+2020-21,enrolment,Science,Male,2312602
+2020-21,enrolment,Science,Female,2505224
+2020-21,enrolment,Science,Total,4817826
+2020-21,enrolment,Commerce,Male,2227036
+2020-21,enrolment,Commerce,Female,2096418
+2020-21,enrolment,Commerce,Total,4323454
+2020-21,enrolment,Engineering & Technology,Male,2617155
+2020-21,enrolment,Engineering & Technology,Female,1069136
+2020-21,enrolment,Engineering & Technology,Total,3686291
+2020-21,enrolment,Education,Male,608888
+2020-21,enrolment,Education,Female,1040305
+2020-21,enrolment,Education,Total,1649193
+2020-21,enrolment,Medical Science,Male,632069
+2020-21,enrolment,Medical Science,Female,894178
+2020-21,enrolment,Medical Science,Total,1526247
+2020-21,enrolment,Social Science,Male,548423
+2020-21,enrolment,Social Science,Female,557689
+2020-21,enrolment,Social Science,Total,1106112
+2020-21,enrolment,IT & Computer,Male,533445
+2020-21,enrolment,IT & Computer,Female,344492
+2020-21,enrolment,IT & Computer,Total,877937
+2020-21,enrolment,Management,Male,516273
+2020-21,enrolment,Management,Female,298594
+2020-21,enrolment,Management,Total,814867
+2020-21,enrolment,Law,Male,316115
+2020-21,enrolment,Law,Female,161897
+2020-21,enrolment,Law,Total,478012
+2020-21,enrolment,Indian Language,Male,109159
+2020-21,enrolment,Indian Language,Female,193950
+2020-21,enrolment,Indian Language,Total,303109
+2020-21,enrolment,Agriculture,Male,203536
+2020-21,enrolment,Agriculture,Female,86860
+2020-21,enrolment,Agriculture,Total,290396
+2020-21,enrolment,Foreign Language,Male,74198
+2020-21,enrolment,Foreign Language,Female,92992
+2020-21,enrolment,Foreign Language,Total,167190
+2020-21,enrolment,Home Science,Male,7053
+2020-21,enrolment,Home Science,Female,67089
+2020-21,enrolment,Home Science,Total,74142
+2020-21,enrolment,Physical Education,Male,44907
+2020-21,enrolment,Physical Education,Female,19190
+2020-21,enrolment,Physical Education,Total,64097
+2020-21,enrolment,Oriental Learning,Male,35811
+2020-21,enrolment,Oriental Learning,Female,25476
+2020-21,enrolment,Oriental Learning,Total,61287
+2020-21,enrolment,Library & Information Science,Male,29061
+2020-21,enrolment,Library & Information Science,Female,21257
+2020-21,enrolment,Library & Information Science,Total,50318
+2020-21,enrolment,Fine Arts,Male,23822
+2020-21,enrolment,Fine Arts,Female,24742
+2020-21,enrolment,Fine Arts,Total,48564
+2020-21,enrolment,Area Studies,Male,22037
+2020-21,enrolment,Area Studies,Female,26025
+2020-21,enrolment,Area Studies,Total,48062
+2020-21,enrolment,Paramedical Science,Male,23149
+2020-21,enrolment,Paramedical Science,Female,20408
+2020-21,enrolment,Paramedical Science,Total,43557
+2020-21,enrolment,Design,Male,12430
+2020-21,enrolment,Design,Female,28156
+2020-21,enrolment,Design,Total,40586
+2020-21,enrolment,Journalism & Mass Communication,Male,16179
+2020-21,enrolment,Journalism & Mass Communication,Female,16416
+2020-21,enrolment,Journalism & Mass Communication,Total,32595
+2020-21,enrolment,Social Work,Male,15457
+2020-21,enrolment,Social Work,Female,16416
+2020-21,enrolment,Social Work,Total,31873
+2020-21,enrolment,Veterinary & Animal Sciences,Male,13971
+2020-21,enrolment,Veterinary & Animal Sciences,Female,9218
+2020-21,enrolment,Veterinary & Animal Sciences,Total,23189
+2020-21,enrolment,Hospitality and Tourism,Male,17024
+2020-21,enrolment,Hospitality and Tourism,Female,4706
+2020-21,enrolment,Hospitality and Tourism,Total,21730
+2020-21,enrolment,Fashion Technology,Male,3773
+2020-21,enrolment,Fashion Technology,Female,14303
+2020-21,enrolment,Fashion Technology,Total,18076
+2020-21,enrolment,Linguistics,Male,4966
+2020-21,enrolment,Linguistics,Female,9457
+2020-21,enrolment,Linguistics,Total,14423
+2020-21,enrolment,Cultural Studies,Male,3013
+2020-21,enrolment,Cultural Studies,Female,5026
+2020-21,enrolment,Cultural Studies,Total,8039
+2020-21,enrolment,Fisheries Science,Male,4038
+2020-21,enrolment,Fisheries Science,Female,3660
+2020-21,enrolment,Fisheries Science,Total,7698
+2020-21,enrolment,Religious Studies,Male,2312
+2020-21,enrolment,Religious Studies,Female,2611
+2020-21,enrolment,Religious Studies,Total,4923
+2020-21,enrolment,Footwear  Design,Male,815
+2020-21,enrolment,Footwear  Design,Female,1103
+2020-21,enrolment,Footwear  Design,Total,1918
+2020-21,enrolment,Marine Science / Oceanography,Male,1252
+2020-21,enrolment,Marine Science / Oceanography,Female,254
+2020-21,enrolment,Marine Science / Oceanography,Total,1506
+2020-21,enrolment,Women Studies,Male,31
+2020-21,enrolment,Women Studies,Female,1449
+2020-21,enrolment,Women Studies,Total,1480
+2020-21,enrolment,Criminology & Forensic Science,Male,441
+2020-21,enrolment,Criminology & Forensic Science,Female,765
+2020-21,enrolment,Criminology & Forensic Science,Total,1206
+2020-21,enrolment,Defence Studies,Male,780
+2020-21,enrolment,Defence Studies,Female,229
+2020-21,enrolment,Defence Studies,Total,1009
+2020-21,enrolment,Gandhian Studies,Male,104
+2020-21,enrolment,Gandhian Studies,Female,299
+2020-21,enrolment,Gandhian Studies,Total,403
+2020-21,enrolment,Grand,Male,15969571
+2020-21,enrolment,Grand,Female,15077414
+2020-21,enrolment,Grand,Total,31046985
+2020-21,out_turn,Arts,Male,908169
+2020-21,out_turn,Arts,Female,1135968
+2020-21,out_turn,Arts,Total,2044137
+2020-21,out_turn,Science,Male,504531
+2020-21,out_turn,Science,Female,604498
+2020-21,out_turn,Science,Total,1109029
+2020-21,out_turn,Commerce,Male,496879
+2020-21,out_turn,Commerce,Female,523734
+2020-21,out_turn,Commerce,Total,1020613
+2020-21,out_turn,Engineering & Technology,Male,580822
+2020-21,out_turn,Engineering & Technology,Female,247298
+2020-21,out_turn,Engineering & Technology,Total,828120
+2020-21,out_turn,Education,Male,230318
+2020-21,out_turn,Education,Female,425157
+2020-21,out_turn,Education,Total,655475
+2020-21,out_turn,Medical Science,Male,91402
+2020-21,out_turn,Medical Science,Female,159613
+2020-21,out_turn,Medical Science,Total,251015
+2020-21,out_turn,Social Science,Male,107678
+2020-21,out_turn,Social Science,Female,114456
+2020-21,out_turn,Social Science,Total,222134
+2020-21,out_turn,IT & Computer,Male,117985
+2020-21,out_turn,IT & Computer,Female,92512
+2020-21,out_turn,IT & Computer,Total,210497
+2020-21,out_turn,Management,Male,108622
+2020-21,out_turn,Management,Female,72064
+2020-21,out_turn,Management,Total,180686
+2020-21,out_turn,Law,Male,61125
+2020-21,out_turn,Law,Female,30103
+2020-21,out_turn,Law,Total,91228
+2020-21,out_turn,Indian Language,Male,22685
+2020-21,out_turn,Indian Language,Female,43553
+2020-21,out_turn,Indian Language,Total,66238
+2020-21,out_turn,Agriculture,Male,38212
+2020-21,out_turn,Agriculture,Female,15387
+2020-21,out_turn,Agriculture,Total,53599
+2020-21,out_turn,Foreign Language,Male,14508
+2020-21,out_turn,Foreign Language,Female,19475
+2020-21,out_turn,Foreign Language,Total,33983
+2020-21,out_turn,Library & Information Science,Male,10377
+2020-21,out_turn,Library & Information Science,Female,10646
+2020-21,out_turn,Library & Information Science,Total,21023
+2020-21,out_turn,Physical Education,Male,13926
+2020-21,out_turn,Physical Education,Female,6481
+2020-21,out_turn,Physical Education,Total,20407
+2020-21,out_turn,Oriental Learning,Male,10910
+2020-21,out_turn,Oriental Learning,Female,9290
+2020-21,out_turn,Oriental Learning,Total,20200
+2020-21,out_turn,Home Science,Male,1729
+2020-21,out_turn,Home Science,Female,14629
+2020-21,out_turn,Home Science,Total,16358
+2020-21,out_turn,Fine Arts,Male,4620
+2020-21,out_turn,Fine Arts,Female,5322
+2020-21,out_turn,Fine Arts,Total,9942
+2020-21,out_turn,Journalism & Mass Communication,Male,4209
+2020-21,out_turn,Journalism & Mass Communication,Female,4091
+2020-21,out_turn,Journalism & Mass Communication,Total,8300
+2020-21,out_turn,Area Studies,Male,3108
+2020-21,out_turn,Area Studies,Female,4711
+2020-21,out_turn,Area Studies,Total,7819
+2020-21,out_turn,Social Work,Male,2982
+2020-21,out_turn,Social Work,Female,3358
+2020-21,out_turn,Social Work,Total,6340
+2020-21,out_turn,Design,Male,1776
+2020-21,out_turn,Design,Female,4506
+2020-21,out_turn,Design,Total,6282
+2020-21,out_turn,Paramedical Science,Male,2955
+2020-21,out_turn,Paramedical Science,Female,2845
+2020-21,out_turn,Paramedical Science,Total,5800
+2020-21,out_turn,Fashion Technology,Male,901
+2020-21,out_turn,Fashion Technology,Female,3469
+2020-21,out_turn,Fashion Technology,Total,4370
+2020-21,out_turn,Hospitality and Tourism,Male,3299
+2020-21,out_turn,Hospitality and Tourism,Female,879
+2020-21,out_turn,Hospitality and Tourism,Total,4178
+2020-21,out_turn,Veterinary & Animal Sciences,Male,2437
+2020-21,out_turn,Veterinary & Animal Sciences,Female,1413
+2020-21,out_turn,Veterinary & Animal Sciences,Total,3850
+2020-21,out_turn,Linguistics,Male,858
+2020-21,out_turn,Linguistics,Female,1976
+2020-21,out_turn,Linguistics,Total,2834
+2020-21,out_turn,Fisheries Science,Male,756
+2020-21,out_turn,Fisheries Science,Female,750
+2020-21,out_turn,Fisheries Science,Total,1506
+2020-21,out_turn,Cultural Studies,Male,461
+2020-21,out_turn,Cultural Studies,Female,889
+2020-21,out_turn,Cultural Studies,Total,1350
+2020-21,out_turn,Religious Studies,Male,647
+2020-21,out_turn,Religious Studies,Female,646
+2020-21,out_turn,Religious Studies,Total,1293
+2020-21,out_turn,Marine Science / Oceanography,Male,346
+2020-21,out_turn,Marine Science / Oceanography,Female,24
+2020-21,out_turn,Marine Science / Oceanography,Total,370
+2020-21,out_turn,Defence Studies,Male,124
+2020-21,out_turn,Defence Studies,Female,166
+2020-21,out_turn,Defence Studies,Total,290
+2020-21,out_turn,Women Studies,Male,0
+2020-21,out_turn,Women Studies,Female,276
+2020-21,out_turn,Women Studies,Total,276
+2020-21,out_turn,Gandhian Studies,Male,100
+2020-21,out_turn,Gandhian Studies,Female,11
+2020-21,out_turn,Gandhian Studies,Total,111
+2020-21,out_turn,Criminology & Forensic Science,Male,32
+2020-21,out_turn,Criminology & Forensic Science,Female,67
+2020-21,out_turn,Criminology & Forensic Science,Total,99
+2020-21,out_turn,Footwear  Design,Male,60
+2020-21,out_turn,Footwear  Design,Female,34
+2020-21,out_turn,Footwear  Design,Total,94
+2020-21,out_turn,All India,Male,3349549
+2020-21,out_turn,All India,Female,3560297
+2020-21,out_turn,All India,Total,6909846
+2021-22,enrolment,Agriculture,Male,207749
+2021-22,enrolment,Agriculture,Female,86630
+2021-22,enrolment,Agriculture,Total,294379
+2021-22,enrolment,Architecture and Engineering,Male,21
+2021-22,enrolment,Architecture and Engineering,Female,10
+2021-22,enrolment,Architecture and Engineering,Total,31
+2021-22,enrolment,Area Studies,Male,21010
+2021-22,enrolment,Area Studies,Female,21309
+2021-22,enrolment,Area Studies,Total,42319
+2021-22,enrolment,Arts,Male,5583302
+2021-22,enrolment,Arts,Female,5744439
+2021-22,enrolment,Arts,Total,11327741
+2021-22,enrolment,Commerce,Male,2328882
+2021-22,enrolment,Commerce,Female,2079354
+2021-22,enrolment,Commerce,Total,4408236
+2021-22,enrolment,Criminology,Male,138
+2021-22,enrolment,Criminology,Female,82
+2021-22,enrolment,Criminology,Total,220
+2021-22,enrolment,Criminology & Forensic Science,Male,1102
+2021-22,enrolment,Criminology & Forensic Science,Female,1409
+2021-22,enrolment,Criminology & Forensic Science,Total,2511
+2021-22,enrolment,Cultural Studies,Male,3175
+2021-22,enrolment,Cultural Studies,Female,3891
+2021-22,enrolment,Cultural Studies,Total,7066
+2021-22,enrolment,Defence Studies,Male,559
+2021-22,enrolment,Defence Studies,Female,311
+2021-22,enrolment,Defence Studies,Total,870
+2021-22,enrolment,Design,Male,13819
+2021-22,enrolment,Design,Female,31494
+2021-22,enrolment,Design,Total,45313
+2021-22,enrolment,Education,Male,646915
+2021-22,enrolment,Education,Female,1072393
+2021-22,enrolment,Education,Total,1719308
+2021-22,enrolment,Engineering & Technology,Male,2766697
+2021-22,enrolment,Engineering & Technology,Female,1137819
+2021-22,enrolment,Engineering & Technology,Total,3904516
+2021-22,enrolment,Fashion Technology,Male,4362
+2021-22,enrolment,Fashion Technology,Female,14284
+2021-22,enrolment,Fashion Technology,Total,18646
+2021-22,enrolment,Fine Arts,Male,23897
+2021-22,enrolment,Fine Arts,Female,25920
+2021-22,enrolment,Fine Arts,Total,49817
+2021-22,enrolment,Fisheries Science,Male,3474
+2021-22,enrolment,Fisheries Science,Female,2968
+2021-22,enrolment,Fisheries Science,Total,6442
+2021-22,enrolment,Footwear  Design,Male,1007
+2021-22,enrolment,Footwear  Design,Female,1353
+2021-22,enrolment,Footwear  Design,Total,2360
+2021-22,enrolment,Foreign Language,Male,93263
+2021-22,enrolment,Foreign Language,Female,113451
+2021-22,enrolment,Foreign Language,Total,206714
+2021-22,enrolment,Gandhian Studies,Male,338
+2021-22,enrolment,Gandhian Studies,Female,469
+2021-22,enrolment,Gandhian Studies,Total,807
+2021-22,enrolment,Home Science,Male,7414
+2021-22,enrolment,Home Science,Female,77585
+2021-22,enrolment,Home Science,Total,84999
+2021-22,enrolment,Hospitality and Tourism,Male,17010
+2021-22,enrolment,Hospitality and Tourism,Female,4741
+2021-22,enrolment,Hospitality and Tourism,Total,21751
+2021-22,enrolment,Indian Language,Male,134853
+2021-22,enrolment,Indian Language,Female,220743
+2021-22,enrolment,Indian Language,Total,355596
+2021-22,enrolment,Information Technology,Male,50
+2021-22,enrolment,Information Technology,Female,40
+2021-22,enrolment,Information Technology,Total,90
+2021-22,enrolment,IT & Computer,Male,579083
+2021-22,enrolment,IT & Computer,Female,348928
+2021-22,enrolment,IT & Computer,Total,928011
+2021-22,enrolment,Journalism & Mass Communication,Male,17087
+2021-22,enrolment,Journalism & Mass Communication,Female,16392
+2021-22,enrolment,Journalism & Mass Communication,Total,33479
+2021-22,enrolment,Law,Male,352791
+2021-22,enrolment,Law,Female,177658
+2021-22,enrolment,Law,Total,530449
+2021-22,enrolment,Library & Information Science,Male,34747
+2021-22,enrolment,Library & Information Science,Female,26448
+2021-22,enrolment,Library & Information Science,Total,61195
+2021-22,enrolment,Linguistics,Male,2856
+2021-22,enrolment,Linguistics,Female,4963
+2021-22,enrolment,Linguistics,Total,7819
+2021-22,enrolment,Management,Male,568069
+2021-22,enrolment,Management,Female,329457
+2021-22,enrolment,Management,Total,897526
+2021-22,enrolment,Marine Science / Oceanography,Male,1368
+2021-22,enrolment,Marine Science / Oceanography,Female,187
+2021-22,enrolment,Marine Science / Oceanography,Total,1555
+2021-22,enrolment,Medical Science,Male,722402
+2021-22,enrolment,Medical Science,Female,983299
+2021-22,enrolment,Medical Science,Total,1705701
+2021-22,enrolment,Oriental Learning,Male,36480
+2021-22,enrolment,Oriental Learning,Female,24261
+2021-22,enrolment,Oriental Learning,Total,60741
+2021-22,enrolment,Others,Male,22
+2021-22,enrolment,Others,Female,21
+2021-22,enrolment,Others,Total,43
+2021-22,enrolment,Paramedical Science,Male,34742
+2021-22,enrolment,Paramedical Science,Female,30540
+2021-22,enrolment,Paramedical Science,Total,65282
+2021-22,enrolment,Physical Education,Male,48524
+2021-22,enrolment,Physical Education,Female,20387
+2021-22,enrolment,Physical Education,Total,68911
+2021-22,enrolment,Religious Studies,Male,4133
+2021-22,enrolment,Religious Studies,Female,2482
+2021-22,enrolment,Religious Studies,Total,6615
+2021-22,enrolment,Science,Male,2422049
+2021-22,enrolment,Science,Female,2496376
+2021-22,enrolment,Science,Total,4918425
+2021-22,enrolment,Security Management,Male,150
+2021-22,enrolment,Security Management,Female,49
+2021-22,enrolment,Security Management,Total,199
+2021-22,enrolment,Social Science,Male,635523
+2021-22,enrolment,Social Science,Female,649105
+2021-22,enrolment,Social Science,Total,1284628
+2021-22,enrolment,Social Work,Male,15447
+2021-22,enrolment,Social Work,Female,15623
+2021-22,enrolment,Social Work,Total,31070
+2021-22,enrolment,Veterinary & Animal Sciences,Male,15057
+2021-22,enrolment,Veterinary & Animal Sciences,Female,10261
+2021-22,enrolment,Veterinary & Animal Sciences,Total,25318
+2021-22,enrolment,Women Studies,Male,0
+2021-22,enrolment,Women Studies,Female,1030
+2021-22,enrolment,Women Studies,Total,1030
+2021-22,out_turn,Agriculture,Male,44516
+2021-22,out_turn,Agriculture,Female,19092
+2021-22,out_turn,Agriculture,Total,63608
+2021-22,out_turn,Area Studies,Male,3713
+2021-22,out_turn,Area Studies,Female,4358
+2021-22,out_turn,Area Studies,Total,8071
+2021-22,out_turn,Arts,Male,1110637
+2021-22,out_turn,Arts,Female,1305493
+2021-22,out_turn,Arts,Total,2416130
+2021-22,out_turn,Commerce,Male,559773
+2021-22,out_turn,Commerce,Female,567971
+2021-22,out_turn,Commerce,Total,1127744
+2021-22,out_turn,Criminology,Male,4
+2021-22,out_turn,Criminology,Female,1
+2021-22,out_turn,Criminology,Total,5
+2021-22,out_turn,Criminology & Forensic Science,Male,161
+2021-22,out_turn,Criminology & Forensic Science,Female,186
+2021-22,out_turn,Criminology & Forensic Science,Total,347
+2021-22,out_turn,Cultural Studies,Male,599
+2021-22,out_turn,Cultural Studies,Female,768
+2021-22,out_turn,Cultural Studies,Total,1367
+2021-22,out_turn,Defence Studies,Male,81
+2021-22,out_turn,Defence Studies,Female,67
+2021-22,out_turn,Defence Studies,Total,148
+2021-22,out_turn,Design,Male,2488
+2021-22,out_turn,Design,Female,5359
+2021-22,out_turn,Design,Total,7847
+2021-22,out_turn,Education,Male,247742
+2021-22,out_turn,Education,Female,456007
+2021-22,out_turn,Education,Total,703749
+2021-22,out_turn,Engineering & Technology,Male,587854
+2021-22,out_turn,Engineering & Technology,Female,241773
+2021-22,out_turn,Engineering & Technology,Total,829627
+2021-22,out_turn,Fashion Technology,Male,1456
+2021-22,out_turn,Fashion Technology,Female,4568
+2021-22,out_turn,Fashion Technology,Total,6024
+2021-22,out_turn,Fine Arts,Male,4829
+2021-22,out_turn,Fine Arts,Female,5356
+2021-22,out_turn,Fine Arts,Total,10185
+2021-22,out_turn,Fisheries Science,Male,682
+2021-22,out_turn,Fisheries Science,Female,623
+2021-22,out_turn,Fisheries Science,Total,1305
+2021-22,out_turn,Footwear  Design,Male,48
+2021-22,out_turn,Footwear  Design,Female,39
+2021-22,out_turn,Footwear  Design,Total,87
+2021-22,out_turn,Foreign Language,Male,19434
+2021-22,out_turn,Foreign Language,Female,26465
+2021-22,out_turn,Foreign Language,Total,45899
+2021-22,out_turn,Gandhian Studies,Male,27
+2021-22,out_turn,Gandhian Studies,Female,176
+2021-22,out_turn,Gandhian Studies,Total,203
+2021-22,out_turn,Home Science,Male,1396
+2021-22,out_turn,Home Science,Female,17096
+2021-22,out_turn,Home Science,Total,18492
+2021-22,out_turn,Hospitality and Tourism,Male,5992
+2021-22,out_turn,Hospitality and Tourism,Female,1580
+2021-22,out_turn,Hospitality and Tourism,Total,7572
+2021-22,out_turn,Indian Language,Male,26362
+2021-22,out_turn,Indian Language,Female,49516
+2021-22,out_turn,Indian Language,Total,75878
+2021-22,out_turn,Information Technology,Male,8
+2021-22,out_turn,Information Technology,Female,5
+2021-22,out_turn,Information Technology,Total,13
+2021-22,out_turn,IT & Computer,Male,149775
+2021-22,out_turn,IT & Computer,Female,108428
+2021-22,out_turn,IT & Computer,Total,258203
+2021-22,out_turn,Journalism & Mass Communication,Male,4825
+2021-22,out_turn,Journalism & Mass Communication,Female,5014
+2021-22,out_turn,Journalism & Mass Communication,Total,9839
+2021-22,out_turn,Law,Male,72207
+2021-22,out_turn,Law,Female,35738
+2021-22,out_turn,Law,Total,107945
+2021-22,out_turn,Library & Information Science,Male,11154
+2021-22,out_turn,Library & Information Science,Female,10961
+2021-22,out_turn,Library & Information Science,Total,22115
+2021-22,out_turn,Linguistics,Male,1617
+2021-22,out_turn,Linguistics,Female,2320
+2021-22,out_turn,Linguistics,Total,3937
+2021-22,out_turn,Management,Male,126242
+2021-22,out_turn,Management,Female,82799
+2021-22,out_turn,Management,Total,209041
+2021-22,out_turn,Marine Science / Oceanography,Male,318
+2021-22,out_turn,Marine Science / Oceanography,Female,68
+2021-22,out_turn,Marine Science / Oceanography,Total,386
+2021-22,out_turn,Medical Science,Male,111607
+2021-22,out_turn,Medical Science,Female,181921
+2021-22,out_turn,Medical Science,Total,293528
+2021-22,out_turn,Oriental Learning,Male,10672
+2021-22,out_turn,Oriental Learning,Female,8092
+2021-22,out_turn,Oriental Learning,Total,18764
+2021-22,out_turn,Others,Male,3
+2021-22,out_turn,Others,Female,6
+2021-22,out_turn,Others,Total,9
+2021-22,out_turn,Paramedical Science,Male,4399
+2021-22,out_turn,Paramedical Science,Female,3553
+2021-22,out_turn,Paramedical Science,Total,7952
+2021-22,out_turn,Physical Education,Male,17534
+2021-22,out_turn,Physical Education,Female,7672
+2021-22,out_turn,Physical Education,Total,25206
+2021-22,out_turn,Religious Studies,Male,509
+2021-22,out_turn,Religious Studies,Female,364
+2021-22,out_turn,Religious Studies,Total,873
+2021-22,out_turn,Science,Male,553016
+2021-22,out_turn,Science,Female,644317
+2021-22,out_turn,Science,Total,1197333
+2021-22,out_turn,Security Management,Male,44
+2021-22,out_turn,Security Management,Female,26
+2021-22,out_turn,Security Management,Total,70
+2021-22,out_turn,Social Science,Male,129857
+2021-22,out_turn,Social Science,Female,134117
+2021-22,out_turn,Social Science,Total,263974
+2021-22,out_turn,Social Work,Male,3222
+2021-22,out_turn,Social Work,Female,3473
+2021-22,out_turn,Social Work,Total,6695
+2021-22,out_turn,Veterinary & Animal Sciences,Male,2094
+2021-22,out_turn,Veterinary & Animal Sciences,Female,1670
+2021-22,out_turn,Veterinary & Animal Sciences,Total,3764
+2021-22,out_turn,Women Studies,Male,0
+2021-22,out_turn,Women Studies,Female,288
+2021-22,out_turn,Women Studies,Total,288

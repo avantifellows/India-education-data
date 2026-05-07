@@ -49,6 +49,19 @@ MoE didn't publish a 2023 edition. 2024 is latest.
 | [`extractions/moe_results_class_xii_stream_2020-2024.csv`](extractions/) | Class XII stream-wise (Arts / Commerce / Science / Vocational), year × board × social_category × stream × gender → passed |
 | [`extractions/moe_results_NOTES.md`](extractions/moe_results_NOTES.md) | Schema, gaps, sanity-checks. CBSE stream breakdown is genuinely missing in 2020 and 2021 (the MoE compilation gives only the All-Streams total for CBSE in those years). |
 
+### Higher-ed capacity AY 2025-26 (current — extrapolated from AISHE + sectoral regulators)
+
+AISHE is 3 years behind. To get a current view we combine sectoral-regulator data (AICTE, NMC) for the disciplines they cover, and linear-extrapolate AISHE 2019-22 for everything else.
+
+| File | What |
+|---|---|
+| [`extractions/aishe_ug_discipline_panel_2019-22.csv`](extractions/) | Clean 3-year panel of UG enrolment + out-turn by discipline |
+| [`extractions/aishe_ug_discipline_extrapolated_2024-26.csv`](extractions/) | Linear projections of every discipline × gender to 2024-25 / 2025-26 |
+| [`extractions/higher_ed_capacity_2025-26_consolidated.csv`](extractions/) | **Headline file**: AICTE engineering intake + NMC MBBS seats + AISHE-extrapolated graduates |
+| [`extractions/higher_ed_capacity_2025-26_NOTES.md`](extractions/higher_ed_capacity_2025-26_NOTES.md) | Methodology, source-tier hierarchy, caveats. Read this before using projections. |
+
+Headlines: Engineering 15.98 lakh first-year seats (AICTE 2025-26, +7% YoY); MBBS 1.38 lakh seats / 816 colleges (NMC 2025-26).
+
 ### KV + JNV — for "Private CBSE" estimation
 
 CBSE itself publishes pass-% by school type (CTSA / JNV / KV / Govt-aided / Govt / Independent) but **not candidate counts** by type. To estimate "Private CBSE" graduates, subtract KV + JNV pass counts from CBSE total. KV counts are from KVS annual reports; JNV counts from NVS annual reports.
@@ -73,6 +86,9 @@ python3 scripts/aishe_2021-22_03c_outturn_discipline_by_social_category.py
 python3 scripts/moe_results_01_extract_class_xii_stream.py
 python3 scripts/moe_results_02_extract_overall.py
 python3 scripts/kv_jnv_consolidate_results.py
+python3 scripts/aishe_panel_01_extract_ug_discipline_3year.py
+python3 scripts/aishe_panel_02_extrapolate_to_2025-26.py
+python3 scripts/higher_ed_capacity_2025-26_consolidated.py
 ```
 
 Dependencies: `python>=3.10`, `pdfplumber`, `openpyxl`. NVS PDFs (gitignored) need to be downloaded separately — see [sources/SOURCES.md](sources/SOURCES.md).

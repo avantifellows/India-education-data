@@ -15,6 +15,20 @@ Every file in `sources/` is published by an Indian government body (MoE / CBSE /
 |---|---|---|
 | `aishe_report_2021-22.pdf` | https://cdnbbsr.s3waas.gov.in/s392049debbe566ca5782a3045cf300a3c/uploads/2025/06/2025060466438560.pdf | 9.3 MB |
 | `aishe_2021-22_final_report.xlsx` | https://he.nic.in/aishereport/assets/excel/AISHE%20Final%20Report%202021-22.xlsx | 825 KB |
+| `aishe_2020-21_final_report.xlsx` | https://he.nic.in/aishereport/assets/excel/AISHE%20Final%20Report%202020-21.xlsx | 887 KB |
+| `aishe_2019-20_final_report.xlsx` | https://he.nic.in/aishereport/assets/excel/AISHE%20Final%20Report%202019-20.xlsx | 754 KB |
+
+The 2019-20, 2020-21, 2021-22 Excels are the panel for the AISHE 3-year linear-extrapolation projection (`scripts/aishe_panel_*`).
+
+## Sectoral regulators — for current-year (2024-25 / 2025-26) capacity
+
+These are used in `extractions/higher_ed_capacity_2025-26_consolidated.csv` to update the AISHE picture to current dates.
+
+| File | Source | Notes |
+|---|---|---|
+| `nmc_mbbs_seat_matrix_2024-25.pdf` | https://www.nmc.org.in/wp-content/uploads/2025/04/Revised%20UG%20Seat%20Matrix%202024-25%20on%2031-03-2025.pdf | Definitive list of all 780 MBBS colleges + seat counts as of 31-Mar-2025 |
+
+AICTE (engineering, pharmacy, MBA, MCA, architecture) doesn't publish a single canonical PDF of approved intake; their `aicte-india.org` dashboard is interactive. We've cited their announced 2025-26 numbers (15.98 lakh first-year B.Tech intake across 5,875 institutions) directly in the consolidated CSV with reference URLs in the notes column.
 
 ## MoE 'Results of Secondary and Higher Secondary Examinations' (board exam compilation)
 
