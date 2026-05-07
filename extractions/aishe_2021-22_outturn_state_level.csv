@@ -1,0 +1,865 @@
+state,level,gender,out_turn
+A & N Islands,Ph.D.,Male,4
+A & N Islands,Ph.D.,Female,4
+A & N Islands,Ph.D.,Total,8
+A & N Islands,M.Phil.,Male,0
+A & N Islands,M.Phil.,Female,0
+A & N Islands,M.Phil.,Total,0
+A & N Islands,Post Graduate,Male,28
+A & N Islands,Post Graduate,Female,124
+A & N Islands,Post Graduate,Total,152
+A & N Islands,Under Graduate,Male,509
+A & N Islands,Under Graduate,Female,815
+A & N Islands,Under Graduate,Total,1324
+A & N Islands,PG Diploma,Male,0
+A & N Islands,PG Diploma,Female,0
+A & N Islands,PG Diploma,Total,0
+A & N Islands,Diploma,Male,41
+A & N Islands,Diploma,Female,31
+A & N Islands,Diploma,Total,72
+A & N Islands,Certificate,Male,25
+A & N Islands,Certificate,Female,20
+A & N Islands,Certificate,Total,45
+A & N Islands,Integrated,Male,80
+A & N Islands,Integrated,Female,55
+A & N Islands,Integrated,Total,135
+Andhra Pradesh,Ph.D.,Male,743
+Andhra Pradesh,Ph.D.,Female,459
+Andhra Pradesh,Ph.D.,Total,1202
+Andhra Pradesh,M.Phil.,Male,0
+Andhra Pradesh,M.Phil.,Female,0
+Andhra Pradesh,M.Phil.,Total,0
+Andhra Pradesh,Post Graduate,Male,35615
+Andhra Pradesh,Post Graduate,Female,36878
+Andhra Pradesh,Post Graduate,Total,72493
+Andhra Pradesh,Under Graduate,Male,178254
+Andhra Pradesh,Under Graduate,Female,176316
+Andhra Pradesh,Under Graduate,Total,354570
+Andhra Pradesh,PG Diploma,Male,566
+Andhra Pradesh,PG Diploma,Female,550
+Andhra Pradesh,PG Diploma,Total,1116
+Andhra Pradesh,Diploma,Male,28406
+Andhra Pradesh,Diploma,Female,18181
+Andhra Pradesh,Diploma,Total,46587
+Andhra Pradesh,Certificate,Male,120
+Andhra Pradesh,Certificate,Female,171
+Andhra Pradesh,Certificate,Total,291
+Andhra Pradesh,Integrated,Male,979
+Andhra Pradesh,Integrated,Female,623
+Andhra Pradesh,Integrated,Total,1602
+Arunachal Pradesh,Ph.D.,Male,24
+Arunachal Pradesh,Ph.D.,Female,14
+Arunachal Pradesh,Ph.D.,Total,38
+Arunachal Pradesh,M.Phil.,Male,0
+Arunachal Pradesh,M.Phil.,Female,0
+Arunachal Pradesh,M.Phil.,Total,0
+Arunachal Pradesh,Post Graduate,Male,1538
+Arunachal Pradesh,Post Graduate,Female,1194
+Arunachal Pradesh,Post Graduate,Total,2732
+Arunachal Pradesh,Under Graduate,Male,4934
+Arunachal Pradesh,Under Graduate,Female,4220
+Arunachal Pradesh,Under Graduate,Total,9154
+Arunachal Pradesh,PG Diploma,Male,82
+Arunachal Pradesh,PG Diploma,Female,8
+Arunachal Pradesh,PG Diploma,Total,90
+Arunachal Pradesh,Diploma,Male,998
+Arunachal Pradesh,Diploma,Female,939
+Arunachal Pradesh,Diploma,Total,1937
+Arunachal Pradesh,Certificate,Male,143
+Arunachal Pradesh,Certificate,Female,104
+Arunachal Pradesh,Certificate,Total,247
+Arunachal Pradesh,Integrated,Male,220
+Arunachal Pradesh,Integrated,Female,142
+Arunachal Pradesh,Integrated,Total,362
+Assam,Ph.D.,Male,538
+Assam,Ph.D.,Female,446
+Assam,Ph.D.,Total,984
+Assam,M.Phil.,Male,46
+Assam,M.Phil.,Female,68
+Assam,M.Phil.,Total,114
+Assam,Post Graduate,Male,6472
+Assam,Post Graduate,Female,11303
+Assam,Post Graduate,Total,17775
+Assam,Under Graduate,Male,45362
+Assam,Under Graduate,Female,53146
+Assam,Under Graduate,Total,98508
+Assam,PG Diploma,Male,275
+Assam,PG Diploma,Female,385
+Assam,PG Diploma,Total,660
+Assam,Diploma,Male,1259
+Assam,Diploma,Female,1295
+Assam,Diploma,Total,2554
+Assam,Certificate,Male,41
+Assam,Certificate,Female,601
+Assam,Certificate,Total,642
+Assam,Integrated,Male,537
+Assam,Integrated,Female,541
+Assam,Integrated,Total,1078
+Bihar,Ph.D.,Male,836
+Bihar,Ph.D.,Female,520
+Bihar,Ph.D.,Total,1356
+Bihar,M.Phil.,Male,0
+Bihar,M.Phil.,Female,0
+Bihar,M.Phil.,Total,0
+Bihar,Post Graduate,Male,26113
+Bihar,Post Graduate,Female,17867
+Bihar,Post Graduate,Total,43980
+Bihar,Under Graduate,Male,187524
+Bihar,Under Graduate,Female,150741
+Bihar,Under Graduate,Total,338265
+Bihar,PG Diploma,Male,609
+Bihar,PG Diploma,Female,357
+Bihar,PG Diploma,Total,966
+Bihar,Diploma,Male,12064
+Bihar,Diploma,Female,12682
+Bihar,Diploma,Total,24746
+Bihar,Certificate,Male,313
+Bihar,Certificate,Female,266
+Bihar,Certificate,Total,579
+Bihar,Integrated,Male,382
+Bihar,Integrated,Female,211
+Bihar,Integrated,Total,593
+Chandigarh,Ph.D.,Male,136
+Chandigarh,Ph.D.,Female,134
+Chandigarh,Ph.D.,Total,270
+Chandigarh,M.Phil.,Male,99
+Chandigarh,M.Phil.,Female,5
+Chandigarh,M.Phil.,Total,104
+Chandigarh,Post Graduate,Male,2392
+Chandigarh,Post Graduate,Female,4924
+Chandigarh,Post Graduate,Total,7316
+Chandigarh,Under Graduate,Male,8041
+Chandigarh,Under Graduate,Female,9144
+Chandigarh,Under Graduate,Total,17185
+Chandigarh,PG Diploma,Male,413
+Chandigarh,PG Diploma,Female,528
+Chandigarh,PG Diploma,Total,941
+Chandigarh,Diploma,Male,1471
+Chandigarh,Diploma,Female,454
+Chandigarh,Diploma,Total,1925
+Chandigarh,Certificate,Male,131
+Chandigarh,Certificate,Female,150
+Chandigarh,Certificate,Total,281
+Chandigarh,Integrated,Male,178
+Chandigarh,Integrated,Female,204
+Chandigarh,Integrated,Total,382
+Chhattisgarh,Ph.D.,Male,68
+Chhattisgarh,Ph.D.,Female,63
+Chhattisgarh,Ph.D.,Total,131
+Chhattisgarh,M.Phil.,Male,4
+Chhattisgarh,M.Phil.,Female,7
+Chhattisgarh,M.Phil.,Total,11
+Chhattisgarh,Post Graduate,Male,13786
+Chhattisgarh,Post Graduate,Female,20300
+Chhattisgarh,Post Graduate,Total,34086
+Chhattisgarh,Under Graduate,Male,59260
+Chhattisgarh,Under Graduate,Female,78114
+Chhattisgarh,Under Graduate,Total,137374
+Chhattisgarh,PG Diploma,Male,12776
+Chhattisgarh,PG Diploma,Female,14169
+Chhattisgarh,PG Diploma,Total,26945
+Chhattisgarh,Diploma,Male,24270
+Chhattisgarh,Diploma,Female,15976
+Chhattisgarh,Diploma,Total,40246
+Chhattisgarh,Certificate,Male,129
+Chhattisgarh,Certificate,Female,254
+Chhattisgarh,Certificate,Total,383
+Chhattisgarh,Integrated,Male,575
+Chhattisgarh,Integrated,Female,494
+Chhattisgarh,Integrated,Total,1069
+Delhi,Ph.D.,Male,1214
+Delhi,Ph.D.,Female,1084
+Delhi,Ph.D.,Total,2298
+Delhi,M.Phil.,Male,189
+Delhi,M.Phil.,Female,214
+Delhi,M.Phil.,Total,403
+Delhi,Post Graduate,Male,53487
+Delhi,Post Graduate,Female,81036
+Delhi,Post Graduate,Total,134523
+Delhi,Under Graduate,Male,218034
+Delhi,Under Graduate,Female,194274
+Delhi,Under Graduate,Total,412308
+Delhi,PG Diploma,Male,14699
+Delhi,PG Diploma,Female,18450
+Delhi,PG Diploma,Total,33149
+Delhi,Diploma,Male,8364
+Delhi,Diploma,Female,21977
+Delhi,Diploma,Total,30341
+Delhi,Certificate,Male,288
+Delhi,Certificate,Female,550
+Delhi,Certificate,Total,838
+Delhi,Integrated,Male,515
+Delhi,Integrated,Female,333
+Delhi,Integrated,Total,848
+Goa,Ph.D.,Male,71
+Goa,Ph.D.,Female,48
+Goa,Ph.D.,Total,119
+Goa,M.Phil.,Male,5
+Goa,M.Phil.,Female,0
+Goa,M.Phil.,Total,5
+Goa,Post Graduate,Male,631
+Goa,Post Graduate,Female,1283
+Goa,Post Graduate,Total,1914
+Goa,Under Graduate,Male,4818
+Goa,Under Graduate,Female,6059
+Goa,Under Graduate,Total,10877
+Goa,PG Diploma,Male,45
+Goa,PG Diploma,Female,69
+Goa,PG Diploma,Total,114
+Goa,Diploma,Male,631
+Goa,Diploma,Female,221
+Goa,Diploma,Total,852
+Goa,Certificate,Male,10
+Goa,Certificate,Female,0
+Goa,Certificate,Total,10
+Goa,Integrated,Male,233
+Goa,Integrated,Female,232
+Goa,Integrated,Total,465
+Gujarat,Ph.D.,Male,717
+Gujarat,Ph.D.,Female,516
+Gujarat,Ph.D.,Total,1233
+Gujarat,M.Phil.,Male,22
+Gujarat,M.Phil.,Female,32
+Gujarat,M.Phil.,Total,54
+Gujarat,Post Graduate,Male,30621
+Gujarat,Post Graduate,Female,41887
+Gujarat,Post Graduate,Total,72508
+Gujarat,Under Graduate,Male,153818
+Gujarat,Under Graduate,Female,134019
+Gujarat,Under Graduate,Total,287837
+Gujarat,PG Diploma,Male,1675
+Gujarat,PG Diploma,Female,2163
+Gujarat,PG Diploma,Total,3838
+Gujarat,Diploma,Male,29680
+Gujarat,Diploma,Female,14081
+Gujarat,Diploma,Total,43761
+Gujarat,Certificate,Male,879
+Gujarat,Certificate,Female,797
+Gujarat,Certificate,Total,1676
+Gujarat,Integrated,Male,1447
+Gujarat,Integrated,Female,1512
+Gujarat,Integrated,Total,2959
+Haryana,Ph.D.,Male,430
+Haryana,Ph.D.,Female,373
+Haryana,Ph.D.,Total,803
+Haryana,M.Phil.,Male,7
+Haryana,M.Phil.,Female,34
+Haryana,M.Phil.,Total,41
+Haryana,Post Graduate,Male,12256
+Haryana,Post Graduate,Female,25139
+Haryana,Post Graduate,Total,37395
+Haryana,Under Graduate,Male,58899
+Haryana,Under Graduate,Female,99453
+Haryana,Under Graduate,Total,158352
+Haryana,PG Diploma,Male,400
+Haryana,PG Diploma,Female,711
+Haryana,PG Diploma,Total,1111
+Haryana,Diploma,Male,16646
+Haryana,Diploma,Female,7721
+Haryana,Diploma,Total,24367
+Haryana,Certificate,Male,69
+Haryana,Certificate,Female,126
+Haryana,Certificate,Total,195
+Haryana,Integrated,Male,1370
+Haryana,Integrated,Female,1055
+Haryana,Integrated,Total,2425
+Himachal Pradesh,Ph.D.,Male,98
+Himachal Pradesh,Ph.D.,Female,109
+Himachal Pradesh,Ph.D.,Total,207
+Himachal Pradesh,M.Phil.,Male,0
+Himachal Pradesh,M.Phil.,Female,0
+Himachal Pradesh,M.Phil.,Total,0
+Himachal Pradesh,Post Graduate,Male,2855
+Himachal Pradesh,Post Graduate,Female,4198
+Himachal Pradesh,Post Graduate,Total,7053
+Himachal Pradesh,Under Graduate,Male,19122
+Himachal Pradesh,Under Graduate,Female,30065
+Himachal Pradesh,Under Graduate,Total,49187
+Himachal Pradesh,PG Diploma,Male,512
+Himachal Pradesh,PG Diploma,Female,559
+Himachal Pradesh,PG Diploma,Total,1071
+Himachal Pradesh,Diploma,Male,3486
+Himachal Pradesh,Diploma,Female,5311
+Himachal Pradesh,Diploma,Total,8797
+Himachal Pradesh,Certificate,Male,34
+Himachal Pradesh,Certificate,Female,40
+Himachal Pradesh,Certificate,Total,74
+Himachal Pradesh,Integrated,Male,160
+Himachal Pradesh,Integrated,Female,109
+Himachal Pradesh,Integrated,Total,269
+Jammu and Kashmir,Ph.D.,Male,356
+Jammu and Kashmir,Ph.D.,Female,339
+Jammu and Kashmir,Ph.D.,Total,695
+Jammu and Kashmir,M.Phil.,Male,70
+Jammu and Kashmir,M.Phil.,Female,95
+Jammu and Kashmir,M.Phil.,Total,165
+Jammu and Kashmir,Post Graduate,Male,4450
+Jammu and Kashmir,Post Graduate,Female,6924
+Jammu and Kashmir,Post Graduate,Total,11374
+Jammu and Kashmir,Under Graduate,Male,21994
+Jammu and Kashmir,Under Graduate,Female,28097
+Jammu and Kashmir,Under Graduate,Total,50091
+Jammu and Kashmir,PG Diploma,Male,713
+Jammu and Kashmir,PG Diploma,Female,426
+Jammu and Kashmir,PG Diploma,Total,1139
+Jammu and Kashmir,Diploma,Male,4311
+Jammu and Kashmir,Diploma,Female,3889
+Jammu and Kashmir,Diploma,Total,8200
+Jammu and Kashmir,Certificate,Male,19
+Jammu and Kashmir,Certificate,Female,26
+Jammu and Kashmir,Certificate,Total,45
+Jammu and Kashmir,Integrated,Male,432
+Jammu and Kashmir,Integrated,Female,594
+Jammu and Kashmir,Integrated,Total,1026
+Jharkhand,Ph.D.,Male,227
+Jharkhand,Ph.D.,Female,137
+Jharkhand,Ph.D.,Total,364
+Jharkhand,M.Phil.,Male,9
+Jharkhand,M.Phil.,Female,32
+Jharkhand,M.Phil.,Total,41
+Jharkhand,Post Graduate,Male,14755
+Jharkhand,Post Graduate,Female,22602
+Jharkhand,Post Graduate,Total,37357
+Jharkhand,Under Graduate,Male,73208
+Jharkhand,Under Graduate,Female,75130
+Jharkhand,Under Graduate,Total,148338
+Jharkhand,PG Diploma,Male,279
+Jharkhand,PG Diploma,Female,100
+Jharkhand,PG Diploma,Total,379
+Jharkhand,Diploma,Male,9058
+Jharkhand,Diploma,Female,5102
+Jharkhand,Diploma,Total,14160
+Jharkhand,Certificate,Male,269
+Jharkhand,Certificate,Female,158
+Jharkhand,Certificate,Total,427
+Jharkhand,Integrated,Male,286
+Jharkhand,Integrated,Female,165
+Jharkhand,Integrated,Total,451
+Karnataka,Ph.D.,Male,1655
+Karnataka,Ph.D.,Female,1259
+Karnataka,Ph.D.,Total,2914
+Karnataka,M.Phil.,Male,35
+Karnataka,M.Phil.,Female,110
+Karnataka,M.Phil.,Total,145
+Karnataka,Post Graduate,Male,40032
+Karnataka,Post Graduate,Female,53730
+Karnataka,Post Graduate,Total,93762
+Karnataka,Under Graduate,Male,196854
+Karnataka,Under Graduate,Female,222467
+Karnataka,Under Graduate,Total,419321
+Karnataka,PG Diploma,Male,2673
+Karnataka,PG Diploma,Female,1996
+Karnataka,PG Diploma,Total,4669
+Karnataka,Diploma,Male,73330
+Karnataka,Diploma,Female,43138
+Karnataka,Diploma,Total,116468
+Karnataka,Certificate,Male,968
+Karnataka,Certificate,Female,1133
+Karnataka,Certificate,Total,2101
+Karnataka,Integrated,Male,817
+Karnataka,Integrated,Female,875
+Karnataka,Integrated,Total,1692
+Kerala,Ph.D.,Male,1298
+Kerala,Ph.D.,Female,1179
+Kerala,Ph.D.,Total,2477
+Kerala,M.Phil.,Male,117
+Kerala,M.Phil.,Female,363
+Kerala,M.Phil.,Total,480
+Kerala,Post Graduate,Male,15823
+Kerala,Post Graduate,Female,39021
+Kerala,Post Graduate,Total,54844
+Kerala,Under Graduate,Male,52012
+Kerala,Under Graduate,Female,105980
+Kerala,Under Graduate,Total,157992
+Kerala,PG Diploma,Male,794
+Kerala,PG Diploma,Female,910
+Kerala,PG Diploma,Total,1704
+Kerala,Diploma,Male,17934
+Kerala,Diploma,Female,7653
+Kerala,Diploma,Total,25587
+Kerala,Certificate,Male,278
+Kerala,Certificate,Female,222
+Kerala,Certificate,Total,500
+Kerala,Integrated,Male,478
+Kerala,Integrated,Female,807
+Kerala,Integrated,Total,1285
+Ladakh,Ph.D.,Male,0
+Ladakh,Ph.D.,Female,0
+Ladakh,Ph.D.,Total,0
+Ladakh,M.Phil.,Male,0
+Ladakh,M.Phil.,Female,0
+Ladakh,M.Phil.,Total,0
+Ladakh,Post Graduate,Male,50
+Ladakh,Post Graduate,Female,54
+Ladakh,Post Graduate,Total,104
+Ladakh,Under Graduate,Male,49
+Ladakh,Under Graduate,Female,176
+Ladakh,Under Graduate,Total,225
+Ladakh,PG Diploma,Male,0
+Ladakh,PG Diploma,Female,0
+Ladakh,PG Diploma,Total,0
+Ladakh,Diploma,Male,155
+Ladakh,Diploma,Female,50
+Ladakh,Diploma,Total,205
+Ladakh,Certificate,Male,0
+Ladakh,Certificate,Female,0
+Ladakh,Certificate,Total,0
+Ladakh,Integrated,Male,0
+Ladakh,Integrated,Female,0
+Ladakh,Integrated,Total,0
+Lakshadweep,Ph.D.,Male,0
+Lakshadweep,Ph.D.,Female,0
+Lakshadweep,Ph.D.,Total,0
+Lakshadweep,M.Phil.,Male,0
+Lakshadweep,M.Phil.,Female,0
+Lakshadweep,M.Phil.,Total,0
+Lakshadweep,Post Graduate,Male,0
+Lakshadweep,Post Graduate,Female,0
+Lakshadweep,Post Graduate,Total,0
+Lakshadweep,Under Graduate,Male,3
+Lakshadweep,Under Graduate,Female,23
+Lakshadweep,Under Graduate,Total,26
+Lakshadweep,PG Diploma,Male,0
+Lakshadweep,PG Diploma,Female,0
+Lakshadweep,PG Diploma,Total,0
+Lakshadweep,Diploma,Male,0
+Lakshadweep,Diploma,Female,0
+Lakshadweep,Diploma,Total,0
+Lakshadweep,Certificate,Male,0
+Lakshadweep,Certificate,Female,0
+Lakshadweep,Certificate,Total,0
+Lakshadweep,Integrated,Male,0
+Lakshadweep,Integrated,Female,0
+Lakshadweep,Integrated,Total,0
+Madhya Pradesh,Ph.D.,Male,779
+Madhya Pradesh,Ph.D.,Female,619
+Madhya Pradesh,Ph.D.,Total,1398
+Madhya Pradesh,M.Phil.,Male,52
+Madhya Pradesh,M.Phil.,Female,85
+Madhya Pradesh,M.Phil.,Total,137
+Madhya Pradesh,Post Graduate,Male,59998
+Madhya Pradesh,Post Graduate,Female,76021
+Madhya Pradesh,Post Graduate,Total,136019
+Madhya Pradesh,Under Graduate,Male,268944
+Madhya Pradesh,Under Graduate,Female,248424
+Madhya Pradesh,Under Graduate,Total,517368
+Madhya Pradesh,PG Diploma,Male,13219
+Madhya Pradesh,PG Diploma,Female,12847
+Madhya Pradesh,PG Diploma,Total,26066
+Madhya Pradesh,Diploma,Male,45563
+Madhya Pradesh,Diploma,Female,33307
+Madhya Pradesh,Diploma,Total,78870
+Madhya Pradesh,Certificate,Male,611
+Madhya Pradesh,Certificate,Female,294
+Madhya Pradesh,Certificate,Total,905
+Madhya Pradesh,Integrated,Male,2434
+Madhya Pradesh,Integrated,Female,2168
+Madhya Pradesh,Integrated,Total,4602
+Maharashtra,Ph.D.,Male,1310
+Maharashtra,Ph.D.,Female,852
+Maharashtra,Ph.D.,Total,2162
+Maharashtra,M.Phil.,Male,101
+Maharashtra,M.Phil.,Female,104
+Maharashtra,M.Phil.,Total,205
+Maharashtra,Post Graduate,Male,88237
+Maharashtra,Post Graduate,Female,101105
+Maharashtra,Post Graduate,Total,189342
+Maharashtra,Under Graduate,Male,485702
+Maharashtra,Under Graduate,Female,403376
+Maharashtra,Under Graduate,Total,889078
+Maharashtra,PG Diploma,Male,7498
+Maharashtra,PG Diploma,Female,6400
+Maharashtra,PG Diploma,Total,13898
+Maharashtra,Diploma,Male,58598
+Maharashtra,Diploma,Female,34721
+Maharashtra,Diploma,Total,93319
+Maharashtra,Certificate,Male,6057
+Maharashtra,Certificate,Female,3133
+Maharashtra,Certificate,Total,9190
+Maharashtra,Integrated,Male,1924
+Maharashtra,Integrated,Female,1932
+Maharashtra,Integrated,Total,3856
+Manipur,Ph.D.,Male,55
+Manipur,Ph.D.,Female,52
+Manipur,Ph.D.,Total,107
+Manipur,M.Phil.,Male,1
+Manipur,M.Phil.,Female,5
+Manipur,M.Phil.,Total,6
+Manipur,Post Graduate,Male,870
+Manipur,Post Graduate,Female,1269
+Manipur,Post Graduate,Total,2139
+Manipur,Under Graduate,Male,10261
+Manipur,Under Graduate,Female,10365
+Manipur,Under Graduate,Total,20626
+Manipur,PG Diploma,Male,43
+Manipur,PG Diploma,Female,78
+Manipur,PG Diploma,Total,121
+Manipur,Diploma,Male,149
+Manipur,Diploma,Female,231
+Manipur,Diploma,Total,380
+Manipur,Certificate,Male,0
+Manipur,Certificate,Female,0
+Manipur,Certificate,Total,0
+Manipur,Integrated,Male,0
+Manipur,Integrated,Female,0
+Manipur,Integrated,Total,0
+Meghalaya,Ph.D.,Male,70
+Meghalaya,Ph.D.,Female,58
+Meghalaya,Ph.D.,Total,128
+Meghalaya,M.Phil.,Male,0
+Meghalaya,M.Phil.,Female,0
+Meghalaya,M.Phil.,Total,0
+Meghalaya,Post Graduate,Male,1615
+Meghalaya,Post Graduate,Female,2213
+Meghalaya,Post Graduate,Total,3828
+Meghalaya,Under Graduate,Male,7203
+Meghalaya,Under Graduate,Female,9738
+Meghalaya,Under Graduate,Total,16941
+Meghalaya,PG Diploma,Male,44
+Meghalaya,PG Diploma,Female,43
+Meghalaya,PG Diploma,Total,87
+Meghalaya,Diploma,Male,58
+Meghalaya,Diploma,Female,34
+Meghalaya,Diploma,Total,92
+Meghalaya,Certificate,Male,7
+Meghalaya,Certificate,Female,7
+Meghalaya,Certificate,Total,14
+Meghalaya,Integrated,Male,0
+Meghalaya,Integrated,Female,0
+Meghalaya,Integrated,Total,0
+Mizoram,Ph.D.,Male,46
+Mizoram,Ph.D.,Female,29
+Mizoram,Ph.D.,Total,75
+Mizoram,M.Phil.,Male,0
+Mizoram,M.Phil.,Female,0
+Mizoram,M.Phil.,Total,0
+Mizoram,Post Graduate,Male,526
+Mizoram,Post Graduate,Female,621
+Mizoram,Post Graduate,Total,1147
+Mizoram,Under Graduate,Male,2248
+Mizoram,Under Graduate,Female,2298
+Mizoram,Under Graduate,Total,4546
+Mizoram,PG Diploma,Male,0
+Mizoram,PG Diploma,Female,0
+Mizoram,PG Diploma,Total,0
+Mizoram,Diploma,Male,220
+Mizoram,Diploma,Female,319
+Mizoram,Diploma,Total,539
+Mizoram,Certificate,Male,0
+Mizoram,Certificate,Female,0
+Mizoram,Certificate,Total,0
+Mizoram,Integrated,Male,9
+Mizoram,Integrated,Female,10
+Mizoram,Integrated,Total,19
+Nagaland,Ph.D.,Male,41
+Nagaland,Ph.D.,Female,36
+Nagaland,Ph.D.,Total,77
+Nagaland,M.Phil.,Male,4
+Nagaland,M.Phil.,Female,13
+Nagaland,M.Phil.,Total,17
+Nagaland,Post Graduate,Male,877
+Nagaland,Post Graduate,Female,1126
+Nagaland,Post Graduate,Total,2003
+Nagaland,Under Graduate,Male,4900
+Nagaland,Under Graduate,Female,5564
+Nagaland,Under Graduate,Total,10464
+Nagaland,PG Diploma,Male,0
+Nagaland,PG Diploma,Female,0
+Nagaland,PG Diploma,Total,0
+Nagaland,Diploma,Male,251
+Nagaland,Diploma,Female,492
+Nagaland,Diploma,Total,743
+Nagaland,Certificate,Male,249
+Nagaland,Certificate,Female,211
+Nagaland,Certificate,Total,460
+Nagaland,Integrated,Male,0
+Nagaland,Integrated,Female,0
+Nagaland,Integrated,Total,0
+Odisha,Ph.D.,Male,562
+Odisha,Ph.D.,Female,313
+Odisha,Ph.D.,Total,875
+Odisha,M.Phil.,Male,235
+Odisha,M.Phil.,Female,268
+Odisha,M.Phil.,Total,503
+Odisha,Post Graduate,Male,14733
+Odisha,Post Graduate,Female,15436
+Odisha,Post Graduate,Total,30169
+Odisha,Under Graduate,Male,87912
+Odisha,Under Graduate,Female,86402
+Odisha,Under Graduate,Total,174314
+Odisha,PG Diploma,Male,615
+Odisha,PG Diploma,Female,410
+Odisha,PG Diploma,Total,1025
+Odisha,Diploma,Male,22121
+Odisha,Diploma,Female,12155
+Odisha,Diploma,Total,34276
+Odisha,Certificate,Male,79
+Odisha,Certificate,Female,66
+Odisha,Certificate,Total,145
+Odisha,Integrated,Male,852
+Odisha,Integrated,Female,911
+Odisha,Integrated,Total,1763
+Puducherry,Ph.D.,Male,28
+Puducherry,Ph.D.,Female,15
+Puducherry,Ph.D.,Total,43
+Puducherry,M.Phil.,Male,0
+Puducherry,M.Phil.,Female,0
+Puducherry,M.Phil.,Total,0
+Puducherry,Post Graduate,Male,7456
+Puducherry,Post Graduate,Female,8238
+Puducherry,Post Graduate,Total,15694
+Puducherry,Under Graduate,Male,5772
+Puducherry,Under Graduate,Female,7387
+Puducherry,Under Graduate,Total,13159
+Puducherry,PG Diploma,Male,10
+Puducherry,PG Diploma,Female,6
+Puducherry,PG Diploma,Total,16
+Puducherry,Diploma,Male,300
+Puducherry,Diploma,Female,110
+Puducherry,Diploma,Total,410
+Puducherry,Certificate,Male,2
+Puducherry,Certificate,Female,12
+Puducherry,Certificate,Total,14
+Puducherry,Integrated,Male,103
+Puducherry,Integrated,Female,163
+Puducherry,Integrated,Total,266
+Punjab,Ph.D.,Male,520
+Punjab,Ph.D.,Female,506
+Punjab,Ph.D.,Total,1026
+Punjab,M.Phil.,Male,2
+Punjab,M.Phil.,Female,10
+Punjab,M.Phil.,Total,12
+Punjab,Post Graduate,Male,15414
+Punjab,Post Graduate,Female,27170
+Punjab,Post Graduate,Total,42584
+Punjab,Under Graduate,Male,72760
+Punjab,Under Graduate,Female,86549
+Punjab,Under Graduate,Total,159309
+Punjab,PG Diploma,Male,1596
+Punjab,PG Diploma,Female,2005
+Punjab,PG Diploma,Total,3601
+Punjab,Diploma,Male,14235
+Punjab,Diploma,Female,13930
+Punjab,Diploma,Total,28165
+Punjab,Certificate,Male,271
+Punjab,Certificate,Female,318
+Punjab,Certificate,Total,589
+Punjab,Integrated,Male,1264
+Punjab,Integrated,Female,1440
+Punjab,Integrated,Total,2704
+Rajasthan,Ph.D.,Male,941
+Rajasthan,Ph.D.,Female,944
+Rajasthan,Ph.D.,Total,1885
+Rajasthan,M.Phil.,Male,0
+Rajasthan,M.Phil.,Female,33
+Rajasthan,M.Phil.,Total,33
+Rajasthan,Post Graduate,Male,46359
+Rajasthan,Post Graduate,Female,62119
+Rajasthan,Post Graduate,Total,108478
+Rajasthan,Under Graduate,Male,271329
+Rajasthan,Under Graduate,Female,270019
+Rajasthan,Under Graduate,Total,541348
+Rajasthan,PG Diploma,Male,2908
+Rajasthan,PG Diploma,Female,1877
+Rajasthan,PG Diploma,Total,4785
+Rajasthan,Diploma,Male,19176
+Rajasthan,Diploma,Female,10017
+Rajasthan,Diploma,Total,29193
+Rajasthan,Certificate,Male,872
+Rajasthan,Certificate,Female,799
+Rajasthan,Certificate,Total,1671
+Rajasthan,Integrated,Male,10041
+Rajasthan,Integrated,Female,9745
+Rajasthan,Integrated,Total,19786
+Sikkim,Ph.D.,Male,34
+Sikkim,Ph.D.,Female,24
+Sikkim,Ph.D.,Total,58
+Sikkim,M.Phil.,Male,3
+Sikkim,M.Phil.,Female,2
+Sikkim,M.Phil.,Total,5
+Sikkim,Post Graduate,Male,1810
+Sikkim,Post Graduate,Female,1484
+Sikkim,Post Graduate,Total,3294
+Sikkim,Under Graduate,Male,2698
+Sikkim,Under Graduate,Female,2610
+Sikkim,Under Graduate,Total,5308
+Sikkim,PG Diploma,Male,0
+Sikkim,PG Diploma,Female,0
+Sikkim,PG Diploma,Total,0
+Sikkim,Diploma,Male,115
+Sikkim,Diploma,Female,142
+Sikkim,Diploma,Total,257
+Sikkim,Certificate,Male,42
+Sikkim,Certificate,Female,0
+Sikkim,Certificate,Total,42
+Sikkim,Integrated,Male,18
+Sikkim,Integrated,Female,37
+Sikkim,Integrated,Total,55
+Tamil Nadu,Ph.D.,Male,1466
+Tamil Nadu,Ph.D.,Female,1388
+Tamil Nadu,Ph.D.,Total,2854
+Tamil Nadu,M.Phil.,Male,809
+Tamil Nadu,M.Phil.,Female,2283
+Tamil Nadu,M.Phil.,Total,3092
+Tamil Nadu,Post Graduate,Male,74270
+Tamil Nadu,Post Graduate,Female,111930
+Tamil Nadu,Post Graduate,Total,186200
+Tamil Nadu,Under Graduate,Male,322096
+Tamil Nadu,Under Graduate,Female,390748
+Tamil Nadu,Under Graduate,Total,712844
+Tamil Nadu,PG Diploma,Male,3330
+Tamil Nadu,PG Diploma,Female,3048
+Tamil Nadu,PG Diploma,Total,6378
+Tamil Nadu,Diploma,Male,30489
+Tamil Nadu,Diploma,Female,31124
+Tamil Nadu,Diploma,Total,61613
+Tamil Nadu,Certificate,Male,1332
+Tamil Nadu,Certificate,Female,3660
+Tamil Nadu,Certificate,Total,4992
+Tamil Nadu,Integrated,Male,2347
+Tamil Nadu,Integrated,Female,2336
+Tamil Nadu,Integrated,Total,4683
+Telangana,Ph.D.,Male,610
+Telangana,Ph.D.,Female,318
+Telangana,Ph.D.,Total,928
+Telangana,M.Phil.,Male,1
+Telangana,M.Phil.,Female,10
+Telangana,M.Phil.,Total,11
+Telangana,Post Graduate,Male,28891
+Telangana,Post Graduate,Female,34542
+Telangana,Post Graduate,Total,63433
+Telangana,Under Graduate,Male,113132
+Telangana,Under Graduate,Female,141479
+Telangana,Under Graduate,Total,254611
+Telangana,PG Diploma,Male,680
+Telangana,PG Diploma,Female,552
+Telangana,PG Diploma,Total,1232
+Telangana,Diploma,Male,20429
+Telangana,Diploma,Female,12704
+Telangana,Diploma,Total,33133
+Telangana,Certificate,Male,1287
+Telangana,Certificate,Female,597
+Telangana,Certificate,Total,1884
+Telangana,Integrated,Male,456
+Telangana,Integrated,Female,356
+Telangana,Integrated,Total,812
+D & N Haveli and Daman & Diu,Ph.D.,Male,0
+D & N Haveli and Daman & Diu,Ph.D.,Female,0
+D & N Haveli and Daman & Diu,Ph.D.,Total,0
+D & N Haveli and Daman & Diu,M.Phil.,Male,0
+D & N Haveli and Daman & Diu,M.Phil.,Female,0
+D & N Haveli and Daman & Diu,M.Phil.,Total,0
+D & N Haveli and Daman & Diu,Post Graduate,Male,83
+D & N Haveli and Daman & Diu,Post Graduate,Female,185
+D & N Haveli and Daman & Diu,Post Graduate,Total,268
+D & N Haveli and Daman & Diu,Under Graduate,Male,816
+D & N Haveli and Daman & Diu,Under Graduate,Female,1098
+D & N Haveli and Daman & Diu,Under Graduate,Total,1914
+D & N Haveli and Daman & Diu,PG Diploma,Male,0
+D & N Haveli and Daman & Diu,PG Diploma,Female,0
+D & N Haveli and Daman & Diu,PG Diploma,Total,0
+D & N Haveli and Daman & Diu,Diploma,Male,363
+D & N Haveli and Daman & Diu,Diploma,Female,90
+D & N Haveli and Daman & Diu,Diploma,Total,453
+D & N Haveli and Daman & Diu,Certificate,Male,0
+D & N Haveli and Daman & Diu,Certificate,Female,0
+D & N Haveli and Daman & Diu,Certificate,Total,0
+D & N Haveli and Daman & Diu,Integrated,Male,2
+D & N Haveli and Daman & Diu,Integrated,Female,2
+D & N Haveli and Daman & Diu,Integrated,Total,4
+Tripura,Ph.D.,Male,32
+Tripura,Ph.D.,Female,36
+Tripura,Ph.D.,Total,68
+Tripura,M.Phil.,Male,2
+Tripura,M.Phil.,Female,5
+Tripura,M.Phil.,Total,7
+Tripura,Post Graduate,Male,1508
+Tripura,Post Graduate,Female,1772
+Tripura,Post Graduate,Total,3280
+Tripura,Under Graduate,Male,9068
+Tripura,Under Graduate,Female,9152
+Tripura,Under Graduate,Total,18220
+Tripura,PG Diploma,Male,22
+Tripura,PG Diploma,Female,24
+Tripura,PG Diploma,Total,46
+Tripura,Diploma,Male,771
+Tripura,Diploma,Female,526
+Tripura,Diploma,Total,1297
+Tripura,Certificate,Male,4
+Tripura,Certificate,Female,6
+Tripura,Certificate,Total,10
+Tripura,Integrated,Male,180
+Tripura,Integrated,Female,131
+Tripura,Integrated,Total,311
+Uttar Pradesh,Ph.D.,Male,2000
+Uttar Pradesh,Ph.D.,Female,1353
+Uttar Pradesh,Ph.D.,Total,3353
+Uttar Pradesh,M.Phil.,Male,9
+Uttar Pradesh,M.Phil.,Female,37
+Uttar Pradesh,M.Phil.,Total,46
+Uttar Pradesh,Post Graduate,Male,115474
+Uttar Pradesh,Post Graduate,Female,138437
+Uttar Pradesh,Post Graduate,Total,253911
+Uttar Pradesh,Under Graduate,Male,640027
+Uttar Pradesh,Under Graduate,Female,635409
+Uttar Pradesh,Under Graduate,Total,1275436
+Uttar Pradesh,PG Diploma,Male,4255
+Uttar Pradesh,PG Diploma,Female,2520
+Uttar Pradesh,PG Diploma,Total,6775
+Uttar Pradesh,Diploma,Male,61144
+Uttar Pradesh,Diploma,Female,24865
+Uttar Pradesh,Diploma,Total,86009
+Uttar Pradesh,Certificate,Male,1579
+Uttar Pradesh,Certificate,Female,1260
+Uttar Pradesh,Certificate,Total,2839
+Uttar Pradesh,Integrated,Male,5404
+Uttar Pradesh,Integrated,Female,3253
+Uttar Pradesh,Integrated,Total,8657
+Uttarakhand,Ph.D.,Male,439
+Uttarakhand,Ph.D.,Female,229
+Uttarakhand,Ph.D.,Total,668
+Uttarakhand,M.Phil.,Male,0
+Uttarakhand,M.Phil.,Female,0
+Uttarakhand,M.Phil.,Total,0
+Uttarakhand,Post Graduate,Male,13882
+Uttarakhand,Post Graduate,Female,17620
+Uttarakhand,Post Graduate,Total,31502
+Uttarakhand,Under Graduate,Male,36440
+Uttarakhand,Under Graduate,Female,41176
+Uttarakhand,Under Graduate,Total,77616
+Uttarakhand,PG Diploma,Male,914
+Uttarakhand,PG Diploma,Female,636
+Uttarakhand,PG Diploma,Total,1550
+Uttarakhand,Diploma,Male,9208
+Uttarakhand,Diploma,Female,3463
+Uttarakhand,Diploma,Total,12671
+Uttarakhand,Certificate,Male,37
+Uttarakhand,Certificate,Female,29
+Uttarakhand,Certificate,Total,66
+Uttarakhand,Integrated,Male,321
+Uttarakhand,Integrated,Female,194
+Uttarakhand,Integrated,Total,515
+West Bengal,Ph.D.,Male,1116
+West Bengal,Ph.D.,Female,668
+West Bengal,Ph.D.,Total,1784
+West Bengal,M.Phil.,Male,157
+West Bengal,M.Phil.,Female,193
+West Bengal,M.Phil.,Total,350
+West Bengal,Post Graduate,Male,28892
+West Bengal,Post Graduate,Female,44287
+West Bengal,Post Graduate,Total,73179
+West Bengal,Under Graduate,Male,192894
+West Bengal,Under Graduate,Female,217293
+West Bengal,Under Graduate,Total,410187
+West Bengal,PG Diploma,Male,2736
+West Bengal,PG Diploma,Female,1733
+West Bengal,PG Diploma,Total,4469
+West Bengal,Diploma,Male,38131
+West Bengal,Diploma,Female,29797
+West Bengal,Diploma,Total,67928
+West Bengal,Certificate,Male,2178
+West Bengal,Certificate,Female,1470
+West Bengal,Certificate,Total,3648
+West Bengal,Integrated,Male,1239
+West Bengal,Integrated,Female,1127
+West Bengal,Integrated,Total,2366

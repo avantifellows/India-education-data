@@ -1,0 +1,26 @@
+moe_result_year,board,source_academic_year,level,stream,appeared,passed,pass_percentage,source_pdf,source_page_or_note
+2022,KV,2021-22,Class X,Overall,114280,110421,96.62,kvs_annual_report_2021-22.pdf,p114
+2022,KV,2021-22,Class XII,Overall,92488,89791,97.08,kvs_annual_report_2021-22.pdf,p108 (region-wise consolidated)
+2022,KV,2021-22,Class XII,Science,51911,50081,96.47,kvs_annual_report_2021-22.pdf,p109
+2022,KV,2021-22,Class XII,Commerce,23512,22767,96.83,kvs_annual_report_2021-22.pdf,p110
+2022,KV,2021-22,Class XII,Humanities,17047,16925,99.28,kvs_annual_report_2021-22.pdf,p111
+2023,KV,2022-23,Class X,Overall,109924,107761,98.03,kvs_annual_report_2022-23.pdf,p133
+2023,KV,2022-23,Class XII,Overall,100629,93152,92.57,kvs_annual_report_2022-23.pdf,p121
+2023,KV,2022-23,Class XII,Science,56561,53321,94.27,kvs_annual_report_2022-23.pdf,p125
+2023,KV,2022-23,Class XII,Commerce,24383,21413,87.82,kvs_annual_report_2022-23.pdf,p126
+2023,KV,2022-23,Class XII,Humanities,19668,18404,93.57,kvs_annual_report_2022-23.pdf,p128
+2024,KV,2023-24,Class X,Overall,102749,101826,99.1,kvs_annual_report_2023-24.pdf,p112
+2024,KV,2023-24,Class XII,Overall,70985,70147,98.82,kvs_annual_report_2023-24.pdf,p107
+2024,KV,2023-24,Class XII,Science,40734,40369,99.1,kvs_annual_report_2023-24.pdf,p109
+2024,KV,2023-24,Class XII,Commerce,17086,16763,98.11,kvs_annual_report_2023-24.pdf,p109
+2024,KV,2023-24,Class XII,Humanities,13161,13011,98.86,kvs_annual_report_2023-24.pdf,p110
+2020,JNV,2019-20,Class X,Overall,40398,39856,98.66,nvs_annual_report_2023-24.pdf,Appendix XI trend table
+2020,JNV,2019-20,Class XII,Overall,29152,28772,98.7,nvs_annual_report_2023-24.pdf,Appendix XI trend table
+2021,JNV,2020-21,Class X,Overall,41504,41483,99.99,nvs_annual_report_2023-24.pdf,Appendix XI trend table
+2021,JNV,2020-21,Class XII,Overall,32630,32593,99.94,nvs_annual_report_2023-24.pdf,Appendix XI trend table
+2022,JNV,2021-22,Class X,Overall,45529,45395,99.71,nvs_annual_report_2023-24.pdf,Appendix XI trend table
+2022,JNV,2021-22,Class XII,Overall,35725,35343,98.93,nvs_annual_report_2023-24.pdf,Appendix XI trend table
+2023,JNV,2022-23,Class X,Overall,45911,45515,99.14,nvs_annual_report_2023-24.pdf,Appendix XI trend table
+2023,JNV,2022-23,Class XII,Overall,35772,34882,97.51,nvs_annual_report_2023-24.pdf,Appendix XI trend table
+2024,JNV,2023-24,Class X,Overall,44581,44176,99.09,nvs_annual_report_2023-24.pdf,Appendix XI trend table
+2024,JNV,2023-24,Class XII,Overall,34061,33687,98.9,nvs_annual_report_2023-24.pdf,Appendix XI trend table

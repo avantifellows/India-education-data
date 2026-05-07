@@ -1,0 +1,24 @@
+# NVS annual reports — too large for GitHub (83-160 MB each, GitHub limit 100 MB)
+# Download URLs documented in sources/SOURCES.md
+sources/nvs_annual_report_*.pdf
+
+# Per-project Claude Code config / memory — local only
+.claude/
+
+# OS / editor noise
+.DS_Store
+*.swp
+*~
+.idea/
+.vscode/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+
+# Temp/derived
+/tmp/
+*.log

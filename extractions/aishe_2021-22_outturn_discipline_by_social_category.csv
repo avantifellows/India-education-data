@@ -1,0 +1,625 @@
+discipline,social_category,gender,out_turn
+Agriculture,All Categories,Male,24857
+Agriculture,All Categories,Female,7901
+Agriculture,All Categories,Total,32758
+Agriculture,Scheduled Caste,Male,3012
+Agriculture,Scheduled Caste,Female,997
+Agriculture,Scheduled Caste,Total,4009
+Agriculture,Scheduled Tribe,Male,1113
+Agriculture,Scheduled Tribe,Female,556
+Agriculture,Scheduled Tribe,Total,1669
+Agriculture,Other Backward Classes,Male,10591
+Agriculture,Other Backward Classes,Female,2898
+Agriculture,Other Backward Classes,Total,13489
+Agriculture,Persons with Disability,Male,36
+Agriculture,Persons with Disability,Female,8
+Agriculture,Persons with Disability,Total,44
+Agriculture,Muslim,Male,288
+Agriculture,Muslim,Female,199
+Agriculture,Muslim,Total,487
+Agriculture,Other Minority Communities,Male,93
+Agriculture,Other Minority Communities,Female,107
+Agriculture,Other Minority Communities,Total,200
+Agriculture,EWS,Male,194
+Agriculture,EWS,Female,55
+Agriculture,EWS,Total,249
+Arts,All Categories,Male,1565228
+Arts,All Categories,Female,1961569
+Arts,All Categories,Total,3526797
+Arts,Scheduled Caste,Male,245897
+Arts,Scheduled Caste,Female,289418
+Arts,Scheduled Caste,Total,535315
+Arts,Scheduled Tribe,Male,127573
+Arts,Scheduled Tribe,Female,152014
+Arts,Scheduled Tribe,Total,279587
+Arts,Other Backward Classes,Male,547600
+Arts,Other Backward Classes,Female,669058
+Arts,Other Backward Classes,Total,1216658
+Arts,Persons with Disability,Male,1663
+Arts,Persons with Disability,Female,1673
+Arts,Persons with Disability,Total,3336
+Arts,Muslim,Male,52778
+Arts,Muslim,Female,81579
+Arts,Muslim,Total,134357
+Arts,Other Minority Communities,Male,14002
+Arts,Other Minority Communities,Female,26465
+Arts,Other Minority Communities,Total,40467
+Arts,EWS,Male,9657
+Arts,EWS,Female,11949
+Arts,EWS,Total,21606
+Commerce,All Categories,Male,626936
+Commerce,All Categories,Female,690310
+Commerce,All Categories,Total,1317246
+Commerce,Scheduled Caste,Male,63091
+Commerce,Scheduled Caste,Female,71550
+Commerce,Scheduled Caste,Total,134641
+Commerce,Scheduled Tribe,Male,22212
+Commerce,Scheduled Tribe,Female,22158
+Commerce,Scheduled Tribe,Total,44370
+Commerce,Other Backward Classes,Male,205050
+Commerce,Other Backward Classes,Female,245715
+Commerce,Other Backward Classes,Total,450765
+Commerce,Persons with Disability,Male,960
+Commerce,Persons with Disability,Female,758
+Commerce,Persons with Disability,Total,1718
+Commerce,Muslim,Male,22676
+Commerce,Muslim,Female,22537
+Commerce,Muslim,Total,45213
+Commerce,Other Minority Communities,Male,11918
+Commerce,Other Minority Communities,Female,16531
+Commerce,Other Minority Communities,Total,28449
+Commerce,EWS,Male,4752
+Commerce,EWS,Female,6277
+Commerce,EWS,Total,11029
+Design,All Categories,Male,3033
+Design,All Categories,Female,5790
+Design,All Categories,Total,8823
+Design,Scheduled Caste,Male,163
+Design,Scheduled Caste,Female,382
+Design,Scheduled Caste,Total,545
+Design,Scheduled Tribe,Male,72
+Design,Scheduled Tribe,Female,137
+Design,Scheduled Tribe,Total,209
+Design,Other Backward Classes,Male,472
+Design,Other Backward Classes,Female,697
+Design,Other Backward Classes,Total,1169
+Design,Persons with Disability,Male,8
+Design,Persons with Disability,Female,22
+Design,Persons with Disability,Total,30
+Design,Muslim,Male,107
+Design,Muslim,Female,100
+Design,Muslim,Total,207
+Design,Other Minority Communities,Male,83
+Design,Other Minority Communities,Female,226
+Design,Other Minority Communities,Total,309
+Design,EWS,Male,20
+Design,EWS,Female,24
+Design,EWS,Total,44
+Education,All Categories,Male,308508
+Education,All Categories,Female,550771
+Education,All Categories,Total,859279
+Education,Scheduled Caste,Male,57455
+Education,Scheduled Caste,Female,84902
+Education,Scheduled Caste,Total,142357
+Education,Scheduled Tribe,Male,25688
+Education,Scheduled Tribe,Female,37010
+Education,Scheduled Tribe,Total,62698
+Education,Other Backward Classes,Male,109393
+Education,Other Backward Classes,Female,191579
+Education,Other Backward Classes,Total,300972
+Education,Persons with Disability,Male,735
+Education,Persons with Disability,Female,1148
+Education,Persons with Disability,Total,1883
+Education,Muslim,Male,11469
+Education,Muslim,Female,19743
+Education,Muslim,Total,31212
+Education,Other Minority Communities,Male,3468
+Education,Other Minority Communities,Female,12342
+Education,Other Minority Communities,Total,15810
+Education,EWS,Male,4150
+Education,EWS,Female,6607
+Education,EWS,Total,10757
+Engineering & Technology,All Categories,Male,649732
+Engineering & Technology,All Categories,Female,277184
+Engineering & Technology,All Categories,Total,926916
+Engineering & Technology,Scheduled Caste,Male,60282
+Engineering & Technology,Scheduled Caste,Female,29478
+Engineering & Technology,Scheduled Caste,Total,89760
+Engineering & Technology,Scheduled Tribe,Male,16947
+Engineering & Technology,Scheduled Tribe,Female,7122
+Engineering & Technology,Scheduled Tribe,Total,24069
+Engineering & Technology,Other Backward Classes,Male,220577
+Engineering & Technology,Other Backward Classes,Female,101404
+Engineering & Technology,Other Backward Classes,Total,321981
+Engineering & Technology,Persons with Disability,Male,739
+Engineering & Technology,Persons with Disability,Female,205
+Engineering & Technology,Persons with Disability,Total,944
+Engineering & Technology,Muslim,Male,23864
+Engineering & Technology,Muslim,Female,6610
+Engineering & Technology,Muslim,Total,30474
+Engineering & Technology,Other Minority Communities,Male,15311
+Engineering & Technology,Other Minority Communities,Female,7575
+Engineering & Technology,Other Minority Communities,Total,22886
+Engineering & Technology,EWS,Male,5664
+Engineering & Technology,EWS,Female,2602
+Engineering & Technology,EWS,Total,8266
+Fashion Technology,All Categories,Male,239
+Fashion Technology,All Categories,Female,1207
+Fashion Technology,All Categories,Total,1446
+Fashion Technology,Scheduled Caste,Male,20
+Fashion Technology,Scheduled Caste,Female,99
+Fashion Technology,Scheduled Caste,Total,119
+Fashion Technology,Scheduled Tribe,Male,10
+Fashion Technology,Scheduled Tribe,Female,26
+Fashion Technology,Scheduled Tribe,Total,36
+Fashion Technology,Other Backward Classes,Male,60
+Fashion Technology,Other Backward Classes,Female,287
+Fashion Technology,Other Backward Classes,Total,347
+Fashion Technology,Persons with Disability,Male,0
+Fashion Technology,Persons with Disability,Female,0
+Fashion Technology,Persons with Disability,Total,0
+Fashion Technology,Muslim,Male,7
+Fashion Technology,Muslim,Female,23
+Fashion Technology,Muslim,Total,30
+Fashion Technology,Other Minority Communities,Male,4
+Fashion Technology,Other Minority Communities,Female,43
+Fashion Technology,Other Minority Communities,Total,47
+Fashion Technology,EWS,Male,8
+Fashion Technology,EWS,Female,29
+Fashion Technology,EWS,Total,37
+Fine Arts,All Categories,Male,5315
+Fine Arts,All Categories,Female,5815
+Fine Arts,All Categories,Total,11130
+Fine Arts,Scheduled Caste,Male,828
+Fine Arts,Scheduled Caste,Female,588
+Fine Arts,Scheduled Caste,Total,1416
+Fine Arts,Scheduled Tribe,Male,321
+Fine Arts,Scheduled Tribe,Female,193
+Fine Arts,Scheduled Tribe,Total,514
+Fine Arts,Other Backward Classes,Male,1516
+Fine Arts,Other Backward Classes,Female,1297
+Fine Arts,Other Backward Classes,Total,2813
+Fine Arts,Persons with Disability,Male,16
+Fine Arts,Persons with Disability,Female,17
+Fine Arts,Persons with Disability,Total,33
+Fine Arts,Muslim,Male,68
+Fine Arts,Muslim,Female,77
+Fine Arts,Muslim,Total,145
+Fine Arts,Other Minority Communities,Male,102
+Fine Arts,Other Minority Communities,Female,132
+Fine Arts,Other Minority Communities,Total,234
+Fine Arts,EWS,Male,42
+Fine Arts,EWS,Female,22
+Fine Arts,EWS,Total,64
+Fisheries Science,All Categories,Male,705
+Fisheries Science,All Categories,Female,557
+Fisheries Science,All Categories,Total,1262
+Fisheries Science,Scheduled Caste,Male,82
+Fisheries Science,Scheduled Caste,Female,73
+Fisheries Science,Scheduled Caste,Total,155
+Fisheries Science,Scheduled Tribe,Male,44
+Fisheries Science,Scheduled Tribe,Female,39
+Fisheries Science,Scheduled Tribe,Total,83
+Fisheries Science,Other Backward Classes,Male,261
+Fisheries Science,Other Backward Classes,Female,176
+Fisheries Science,Other Backward Classes,Total,437
+Fisheries Science,Persons with Disability,Male,0
+Fisheries Science,Persons with Disability,Female,1
+Fisheries Science,Persons with Disability,Total,1
+Fisheries Science,Muslim,Male,25
+Fisheries Science,Muslim,Female,43
+Fisheries Science,Muslim,Total,68
+Fisheries Science,Other Minority Communities,Male,19
+Fisheries Science,Other Minority Communities,Female,19
+Fisheries Science,Other Minority Communities,Total,38
+Fisheries Science,EWS,Male,8
+Fisheries Science,EWS,Female,4
+Fisheries Science,EWS,Total,12
+Footwear  Design,All Categories,Male,0
+Footwear  Design,All Categories,Female,0
+Footwear  Design,All Categories,Total,0
+Footwear  Design,Scheduled Caste,Male,0
+Footwear  Design,Scheduled Caste,Female,0
+Footwear  Design,Scheduled Caste,Total,0
+Footwear  Design,Scheduled Tribe,Male,0
+Footwear  Design,Scheduled Tribe,Female,0
+Footwear  Design,Scheduled Tribe,Total,0
+Footwear  Design,Other Backward Classes,Male,0
+Footwear  Design,Other Backward Classes,Female,0
+Footwear  Design,Other Backward Classes,Total,0
+Footwear  Design,Persons with Disability,Male,0
+Footwear  Design,Persons with Disability,Female,0
+Footwear  Design,Persons with Disability,Total,0
+Footwear  Design,Muslim,Male,0
+Footwear  Design,Muslim,Female,0
+Footwear  Design,Muslim,Total,0
+Footwear  Design,Other Minority Communities,Male,0
+Footwear  Design,Other Minority Communities,Female,0
+Footwear  Design,Other Minority Communities,Total,0
+Footwear  Design,EWS,Male,0
+Footwear  Design,EWS,Female,0
+Footwear  Design,EWS,Total,0
+Hospitality and Tourism,All Categories,Male,18808
+Hospitality and Tourism,All Categories,Female,4043
+Hospitality and Tourism,All Categories,Total,22851
+Hospitality and Tourism,Scheduled Caste,Male,1855
+Hospitality and Tourism,Scheduled Caste,Female,448
+Hospitality and Tourism,Scheduled Caste,Total,2303
+Hospitality and Tourism,Scheduled Tribe,Male,405
+Hospitality and Tourism,Scheduled Tribe,Female,197
+Hospitality and Tourism,Scheduled Tribe,Total,602
+Hospitality and Tourism,Other Backward Classes,Male,2794
+Hospitality and Tourism,Other Backward Classes,Female,513
+Hospitality and Tourism,Other Backward Classes,Total,3307
+Hospitality and Tourism,Persons with Disability,Male,11
+Hospitality and Tourism,Persons with Disability,Female,3
+Hospitality and Tourism,Persons with Disability,Total,14
+Hospitality and Tourism,Muslim,Male,252
+Hospitality and Tourism,Muslim,Female,47
+Hospitality and Tourism,Muslim,Total,299
+Hospitality and Tourism,Other Minority Communities,Male,293
+Hospitality and Tourism,Other Minority Communities,Female,82
+Hospitality and Tourism,Other Minority Communities,Total,375
+Hospitality and Tourism,EWS,Male,129
+Hospitality and Tourism,EWS,Female,42
+Hospitality and Tourism,EWS,Total,171
+IT & Computer,All Categories,Male,113230
+IT & Computer,All Categories,Female,81812
+IT & Computer,All Categories,Total,195042
+IT & Computer,Scheduled Caste,Male,10359
+IT & Computer,Scheduled Caste,Female,8685
+IT & Computer,Scheduled Caste,Total,19044
+IT & Computer,Scheduled Tribe,Male,3091
+IT & Computer,Scheduled Tribe,Female,2239
+IT & Computer,Scheduled Tribe,Total,5330
+IT & Computer,Other Backward Classes,Male,40416
+IT & Computer,Other Backward Classes,Female,31667
+IT & Computer,Other Backward Classes,Total,72083
+IT & Computer,Persons with Disability,Male,146
+IT & Computer,Persons with Disability,Female,53
+IT & Computer,Persons with Disability,Total,199
+IT & Computer,Muslim,Male,4898
+IT & Computer,Muslim,Female,2475
+IT & Computer,Muslim,Total,7373
+IT & Computer,Other Minority Communities,Male,3150
+IT & Computer,Other Minority Communities,Female,2708
+IT & Computer,Other Minority Communities,Total,5858
+IT & Computer,EWS,Male,880
+IT & Computer,EWS,Female,916
+IT & Computer,EWS,Total,1796
+Indian Language,All Categories,Male,11
+Indian Language,All Categories,Female,6
+Indian Language,All Categories,Total,17
+Indian Language,Scheduled Caste,Male,0
+Indian Language,Scheduled Caste,Female,0
+Indian Language,Scheduled Caste,Total,0
+Indian Language,Scheduled Tribe,Male,0
+Indian Language,Scheduled Tribe,Female,0
+Indian Language,Scheduled Tribe,Total,0
+Indian Language,Other Backward Classes,Male,0
+Indian Language,Other Backward Classes,Female,0
+Indian Language,Other Backward Classes,Total,0
+Indian Language,Persons with Disability,Male,0
+Indian Language,Persons with Disability,Female,0
+Indian Language,Persons with Disability,Total,0
+Indian Language,Muslim,Male,0
+Indian Language,Muslim,Female,0
+Indian Language,Muslim,Total,0
+Indian Language,Other Minority Communities,Male,0
+Indian Language,Other Minority Communities,Female,0
+Indian Language,Other Minority Communities,Total,0
+Indian Language,EWS,Male,0
+Indian Language,EWS,Female,0
+Indian Language,EWS,Total,0
+Journalism & Mass Communication,All Categories,Male,6610
+Journalism & Mass Communication,All Categories,Female,5819
+Journalism & Mass Communication,All Categories,Total,12429
+Journalism & Mass Communication,Scheduled Caste,Male,905
+Journalism & Mass Communication,Scheduled Caste,Female,510
+Journalism & Mass Communication,Scheduled Caste,Total,1415
+Journalism & Mass Communication,Scheduled Tribe,Male,243
+Journalism & Mass Communication,Scheduled Tribe,Female,140
+Journalism & Mass Communication,Scheduled Tribe,Total,383
+Journalism & Mass Communication,Other Backward Classes,Male,1288
+Journalism & Mass Communication,Other Backward Classes,Female,825
+Journalism & Mass Communication,Other Backward Classes,Total,2113
+Journalism & Mass Communication,Persons with Disability,Male,4
+Journalism & Mass Communication,Persons with Disability,Female,1
+Journalism & Mass Communication,Persons with Disability,Total,5
+Journalism & Mass Communication,Muslim,Male,213
+Journalism & Mass Communication,Muslim,Female,142
+Journalism & Mass Communication,Muslim,Total,355
+Journalism & Mass Communication,Other Minority Communities,Male,157
+Journalism & Mass Communication,Other Minority Communities,Female,202
+Journalism & Mass Communication,Other Minority Communities,Total,359
+Journalism & Mass Communication,EWS,Male,65
+Journalism & Mass Communication,EWS,Female,65
+Journalism & Mass Communication,EWS,Total,130
+Law,All Categories,Male,98330
+Law,All Categories,Female,57310
+Law,All Categories,Total,155640
+Law,Scheduled Caste,Male,10883
+Law,Scheduled Caste,Female,5871
+Law,Scheduled Caste,Total,16754
+Law,Scheduled Tribe,Male,2788
+Law,Scheduled Tribe,Female,1896
+Law,Scheduled Tribe,Total,4684
+Law,Other Backward Classes,Male,24751
+Law,Other Backward Classes,Female,12186
+Law,Other Backward Classes,Total,36937
+Law,Persons with Disability,Male,92
+Law,Persons with Disability,Female,31
+Law,Persons with Disability,Total,123
+Law,Muslim,Male,3065
+Law,Muslim,Female,1730
+Law,Muslim,Total,4795
+Law,Other Minority Communities,Male,1232
+Law,Other Minority Communities,Female,1071
+Law,Other Minority Communities,Total,2303
+Law,EWS,Male,723
+Law,EWS,Female,454
+Law,EWS,Total,1177
+Library & Information Science,All Categories,Male,12646
+Library & Information Science,All Categories,Female,12788
+Library & Information Science,All Categories,Total,25434
+Library & Information Science,Scheduled Caste,Male,2097
+Library & Information Science,Scheduled Caste,Female,1797
+Library & Information Science,Scheduled Caste,Total,3894
+Library & Information Science,Scheduled Tribe,Male,1027
+Library & Information Science,Scheduled Tribe,Female,911
+Library & Information Science,Scheduled Tribe,Total,1938
+Library & Information Science,Other Backward Classes,Male,4821
+Library & Information Science,Other Backward Classes,Female,4335
+Library & Information Science,Other Backward Classes,Total,9156
+Library & Information Science,Persons with Disability,Male,36
+Library & Information Science,Persons with Disability,Female,8
+Library & Information Science,Persons with Disability,Total,44
+Library & Information Science,Muslim,Male,356
+Library & Information Science,Muslim,Female,267
+Library & Information Science,Muslim,Total,623
+Library & Information Science,Other Minority Communities,Male,93
+Library & Information Science,Other Minority Communities,Female,155
+Library & Information Science,Other Minority Communities,Total,248
+Library & Information Science,EWS,Male,175
+Library & Information Science,EWS,Female,129
+Library & Information Science,EWS,Total,304
+Management,All Categories,Male,251642
+Management,All Categories,Female,189535
+Management,All Categories,Total,441177
+Management,Scheduled Caste,Male,21057
+Management,Scheduled Caste,Female,17153
+Management,Scheduled Caste,Total,38210
+Management,Scheduled Tribe,Male,5237
+Management,Scheduled Tribe,Female,3784
+Management,Scheduled Tribe,Total,9021
+Management,Other Backward Classes,Male,73311
+Management,Other Backward Classes,Female,56604
+Management,Other Backward Classes,Total,129915
+Management,Persons with Disability,Male,215
+Management,Persons with Disability,Female,83
+Management,Persons with Disability,Total,298
+Management,Muslim,Male,10276
+Management,Muslim,Female,6245
+Management,Muslim,Total,16521
+Management,Other Minority Communities,Male,6971
+Management,Other Minority Communities,Female,5720
+Management,Other Minority Communities,Total,12691
+Management,EWS,Male,2137
+Management,EWS,Female,1684
+Management,EWS,Total,3821
+Medical Science,All Categories,Male,156490
+Medical Science,All Categories,Female,139980
+Medical Science,All Categories,Total,296470
+Medical Science,Scheduled Caste,Male,13444
+Medical Science,Scheduled Caste,Female,12516
+Medical Science,Scheduled Caste,Total,25960
+Medical Science,Scheduled Tribe,Male,4513
+Medical Science,Scheduled Tribe,Female,4558
+Medical Science,Scheduled Tribe,Total,9071
+Medical Science,Other Backward Classes,Male,51569
+Medical Science,Other Backward Classes,Female,43807
+Medical Science,Other Backward Classes,Total,95376
+Medical Science,Persons with Disability,Male,148
+Medical Science,Persons with Disability,Female,230
+Medical Science,Persons with Disability,Total,378
+Medical Science,Muslim,Male,8329
+Medical Science,Muslim,Female,6305
+Medical Science,Muslim,Total,14634
+Medical Science,Other Minority Communities,Male,2430
+Medical Science,Other Minority Communities,Female,2927
+Medical Science,Other Minority Communities,Total,5357
+Medical Science,EWS,Male,1909
+Medical Science,EWS,Female,1255
+Medical Science,EWS,Total,3164
+Oriental Learning,All Categories,Male,16181
+Oriental Learning,All Categories,Female,11557
+Oriental Learning,All Categories,Total,27738
+Oriental Learning,Scheduled Caste,Male,747
+Oriental Learning,Scheduled Caste,Female,971
+Oriental Learning,Scheduled Caste,Total,1718
+Oriental Learning,Scheduled Tribe,Male,483
+Oriental Learning,Scheduled Tribe,Female,630
+Oriental Learning,Scheduled Tribe,Total,1113
+Oriental Learning,Other Backward Classes,Male,2136
+Oriental Learning,Other Backward Classes,Female,2485
+Oriental Learning,Other Backward Classes,Total,4621
+Oriental Learning,Persons with Disability,Male,3
+Oriental Learning,Persons with Disability,Female,1
+Oriental Learning,Persons with Disability,Total,4
+Oriental Learning,Muslim,Male,27
+Oriental Learning,Muslim,Female,17
+Oriental Learning,Muslim,Total,44
+Oriental Learning,Other Minority Communities,Male,119
+Oriental Learning,Other Minority Communities,Female,61
+Oriental Learning,Other Minority Communities,Total,180
+Oriental Learning,EWS,Male,44
+Oriental Learning,EWS,Female,26
+Oriental Learning,EWS,Total,70
+Others,All Categories,Male,550072
+Others,All Categories,Female,279228
+Others,All Categories,Total,829300
+Others,Scheduled Caste,Male,75717
+Others,Scheduled Caste,Female,37511
+Others,Scheduled Caste,Total,113228
+Others,Scheduled Tribe,Male,30335
+Others,Scheduled Tribe,Female,20776
+Others,Scheduled Tribe,Total,51111
+Others,Other Backward Classes,Male,195005
+Others,Other Backward Classes,Female,87870
+Others,Other Backward Classes,Total,282875
+Others,Persons with Disability,Male,897
+Others,Persons with Disability,Female,314
+Others,Persons with Disability,Total,1211
+Others,Muslim,Male,18343
+Others,Muslim,Female,6604
+Others,Muslim,Total,24947
+Others,Other Minority Communities,Male,8779
+Others,Other Minority Communities,Female,5143
+Others,Other Minority Communities,Total,13922
+Others,EWS,Male,4335
+Others,EWS,Female,2486
+Others,EWS,Total,6821
+Paramedical Science,All Categories,Male,42363
+Paramedical Science,All Categories,Female,181133
+Paramedical Science,All Categories,Total,223496
+Paramedical Science,Scheduled Caste,Male,6223
+Paramedical Science,Scheduled Caste,Female,34969
+Paramedical Science,Scheduled Caste,Total,41192
+Paramedical Science,Scheduled Tribe,Male,2650
+Paramedical Science,Scheduled Tribe,Female,15927
+Paramedical Science,Scheduled Tribe,Total,18577
+Paramedical Science,Other Backward Classes,Male,11662
+Paramedical Science,Other Backward Classes,Female,48194
+Paramedical Science,Other Backward Classes,Total,59856
+Paramedical Science,Persons with Disability,Male,88
+Paramedical Science,Persons with Disability,Female,366
+Paramedical Science,Persons with Disability,Total,454
+Paramedical Science,Muslim,Male,1351
+Paramedical Science,Muslim,Female,3223
+Paramedical Science,Muslim,Total,4574
+Paramedical Science,Other Minority Communities,Male,1027
+Paramedical Science,Other Minority Communities,Female,6943
+Paramedical Science,Other Minority Communities,Total,7970
+Paramedical Science,EWS,Male,401
+Paramedical Science,EWS,Female,1368
+Paramedical Science,EWS,Total,1769
+Physical Education,All Categories,Male,21237
+Physical Education,All Categories,Female,9297
+Physical Education,All Categories,Total,30534
+Physical Education,Scheduled Caste,Male,2811
+Physical Education,Scheduled Caste,Female,1367
+Physical Education,Scheduled Caste,Total,4178
+Physical Education,Scheduled Tribe,Male,1202
+Physical Education,Scheduled Tribe,Female,610
+Physical Education,Scheduled Tribe,Total,1812
+Physical Education,Other Backward Classes,Male,6031
+Physical Education,Other Backward Classes,Female,2954
+Physical Education,Other Backward Classes,Total,8985
+Physical Education,Persons with Disability,Male,0
+Physical Education,Persons with Disability,Female,0
+Physical Education,Persons with Disability,Total,0
+Physical Education,Muslim,Male,405
+Physical Education,Muslim,Female,111
+Physical Education,Muslim,Total,516
+Physical Education,Other Minority Communities,Male,273
+Physical Education,Other Minority Communities,Female,156
+Physical Education,Other Minority Communities,Total,429
+Physical Education,EWS,Male,170
+Physical Education,EWS,Female,87
+Physical Education,EWS,Total,257
+Science,All Categories,Male,790667
+Science,All Categories,Female,965274
+Science,All Categories,Total,1755941
+Science,Scheduled Caste,Male,101303
+Science,Scheduled Caste,Female,116160
+Science,Scheduled Caste,Total,217463
+Science,Scheduled Tribe,Male,41306
+Science,Scheduled Tribe,Female,47586
+Science,Scheduled Tribe,Total,88892
+Science,Other Backward Classes,Male,311477
+Science,Other Backward Classes,Female,411059
+Science,Other Backward Classes,Total,722536
+Science,Persons with Disability,Male,668
+Science,Persons with Disability,Female,712
+Science,Persons with Disability,Total,1380
+Science,Muslim,Male,23145
+Science,Muslim,Female,33664
+Science,Muslim,Total,56809
+Science,Other Minority Communities,Male,10580
+Science,Other Minority Communities,Female,20652
+Science,Other Minority Communities,Total,31232
+Science,EWS,Male,7507
+Science,EWS,Female,10834
+Science,EWS,Total,18341
+Social Science,All Categories,Male,290
+Social Science,All Categories,Female,163
+Social Science,All Categories,Total,453
+Social Science,Scheduled Caste,Male,23
+Social Science,Scheduled Caste,Female,11
+Social Science,Scheduled Caste,Total,34
+Social Science,Scheduled Tribe,Male,39
+Social Science,Scheduled Tribe,Female,41
+Social Science,Scheduled Tribe,Total,80
+Social Science,Other Backward Classes,Male,151
+Social Science,Other Backward Classes,Female,65
+Social Science,Other Backward Classes,Total,216
+Social Science,Persons with Disability,Male,0
+Social Science,Persons with Disability,Female,1
+Social Science,Persons with Disability,Total,1
+Social Science,Muslim,Male,0
+Social Science,Muslim,Female,2
+Social Science,Muslim,Total,2
+Social Science,Other Minority Communities,Male,18
+Social Science,Other Minority Communities,Female,15
+Social Science,Other Minority Communities,Total,33
+Social Science,EWS,Male,6
+Social Science,EWS,Female,7
+Social Science,EWS,Total,13
+Social Work,All Categories,Male,14426
+Social Work,All Categories,Female,16593
+Social Work,All Categories,Total,31019
+Social Work,Scheduled Caste,Male,3073
+Social Work,Scheduled Caste,Female,2937
+Social Work,Scheduled Caste,Total,6010
+Social Work,Scheduled Tribe,Male,2821
+Social Work,Scheduled Tribe,Female,2902
+Social Work,Scheduled Tribe,Total,5723
+Social Work,Other Backward Classes,Male,4450
+Social Work,Other Backward Classes,Female,4958
+Social Work,Other Backward Classes,Total,9408
+Social Work,Persons with Disability,Male,13
+Social Work,Persons with Disability,Female,7
+Social Work,Persons with Disability,Total,20
+Social Work,Muslim,Male,158
+Social Work,Muslim,Female,219
+Social Work,Muslim,Total,377
+Social Work,Other Minority Communities,Male,418
+Social Work,Other Minority Communities,Female,754
+Social Work,Other Minority Communities,Total,1172
+Social Work,EWS,Male,68
+Social Work,EWS,Female,103
+Social Work,EWS,Total,171
+Veterinary & Animal Sciences,All Categories,Male,2995
+Veterinary & Animal Sciences,All Categories,Female,2380
+Veterinary & Animal Sciences,All Categories,Total,5375
+Veterinary & Animal Sciences,Scheduled Caste,Male,350
+Veterinary & Animal Sciences,Scheduled Caste,Female,257
+Veterinary & Animal Sciences,Scheduled Caste,Total,607
+Veterinary & Animal Sciences,Scheduled Tribe,Male,201
+Veterinary & Animal Sciences,Scheduled Tribe,Female,203
+Veterinary & Animal Sciences,Scheduled Tribe,Total,404
+Veterinary & Animal Sciences,Other Backward Classes,Male,1098
+Veterinary & Animal Sciences,Other Backward Classes,Female,776
+Veterinary & Animal Sciences,Other Backward Classes,Total,1874
+Veterinary & Animal Sciences,Persons with Disability,Male,10
+Veterinary & Animal Sciences,Persons with Disability,Female,3
+Veterinary & Animal Sciences,Persons with Disability,Total,13
+Veterinary & Animal Sciences,Muslim,Male,159
+Veterinary & Animal Sciences,Muslim,Female,82
+Veterinary & Animal Sciences,Muslim,Total,241
+Veterinary & Animal Sciences,Other Minority Communities,Male,101
+Veterinary & Animal Sciences,Other Minority Communities,Female,103
+Veterinary & Animal Sciences,Other Minority Communities,Total,204
+Veterinary & Animal Sciences,EWS,Male,21
+Veterinary & Animal Sciences,EWS,Female,10
+Veterinary & Animal Sciences,EWS,Total,31
