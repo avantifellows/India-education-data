@@ -1,29 +1,44 @@
 """
-Build a 6-bucket split of annual STEM-track UG graduates in India for the
-latest cohort we have triangulated data on (AISHE 2021-22 base for absolute
-volumes; NIRF 2025 / NIRF 2022 / NMC 2024-25 for elite-tier composition;
-AICTE 2024-25 for intake totals; PLFS 2023-24 for salaries).
+6-bucket split of annual STEM-track UG graduates in India.
 
-The six buckets the user wants:
-  1. IITs                                  (engineering, central)
-  2. NITs / IIITs                          (engineering, central)
-  3. Govt MBBS colleges                    (medicine, central + state govt)
-  4. Top-200 NIRF Engineering (other)      (engineering, mostly private + state)
-  5. IT & Computer (BCA / B.Sc IT)         (separate AISHE discipline)
-  6. All others                            (the long tail: non-NIRF engg + non-govt medical)
+Denominators (per AISHE 2021-22 — latest published):
+  - Total UG out-turn (all disciplines)         : 7,754,223
+  - Engineering & Technology UG out-turn        :   829,627
+  - Medical Science UG out-turn (incl pharm/AYUSH):  293,528
+  - IT & Computer UG out-turn (BCA, B.Sc IT)    :   258,203
+  - STEM-track UG total (Eng + IT + Medical)    : 1,381,358  (~17.8 % of all UG)
 
-Data sources for each bucket:
-  - AISHE 2021-22 Table 35: Engineering & Technology UG out-turn = 829,627
-                            Medical Science UG out-turn         = 293,528
-                            IT & Computer UG out-turn           = 258,203
-                            (Total ~13.82 lakh per year — the STEM-track denominator.)
-  - NIRF 2025 (top-100 individual ranks): per-institute graduates_on_time + placed + median_salary
-  - NIRF 2022 (ranks 101-200 individually disclosed): supplements 2025
-  - NMC seat matrix 2024-25 (in sources/): 60,324 govt MBBS seats of 118,190 total
-  - AICTE Annual Report 2024-25 + dashboard: intake totals by programme
-  - PLFS Annual 2023-24: avg earnings by PLFS tedu bucket
+Per-bucket employment rate + salary methodology:
 
-Output: extractions/stem_pipeline_buckets_2024-25.csv
+  Buckets 1, 2, 4 (NIRF-ranked institutions):
+    Placement rate = institution-reported in NIRF Mandatory Disclosure PDF.
+    Median salary = institution-reported median annual salary of placed students.
+    Source: NIRF aggregate (BQ external_data_sources.nirf_fact_aggregate)
+            + College DB scorecards for institutes that filed NIRF PDFs but
+            aren't in published top-100 ranks (incl. IIT Goa, smaller NITs/IIITs).
+
+  Bucket 3 (Govt MBBS):
+    Placement rate = ~100 % (all MBBS graduates functionally placed via
+    compulsory internship → NEET-PG → govt or private practice).
+    Median salary — variable by stage:
+      Junior Resident (post-internship, pre-PG) in govt sector ₹0.6-0.9 L/month
+      = ~₹7-10 L/yr starting; PLFS Medical bucket (age 25-30, ₹3.65 L mean)
+      under-counts this because PLFS Medical pools MBBS with nurses + AYUSH.
+      Post-PG specialist (~10 years out): ₹15-25 L. Reported here as starting:
+      ~₹7 L (govt JR scale), with note that the long-run median is higher.
+
+  Buckets 5, 6 (no NIRF coverage):
+    Employment rate (% in regular salaried jobs) and avg wage from PLFS
+    Annual 2023-24 (age 25-30 cohort).
+      PLFS bucket "Graduate (non-technical)" covers BCA/BSc-IT (bucket 5)
+        and most non-elite graduates: 28.0 % regular, ₹2.80 L/yr avg.
+      PLFS bucket "Engineering & Technology" mixes elite + non-elite engg
+        (64 % regular, ₹4.90 L avg) — non-elite portion back-calculated
+        to ~35 % regular, ~₹2.3 L avg (since 200K elite at ~₹13 L pulls
+        the PLFS mean upward).
+      PLFS bucket "Medical" mixes MBBS + BDS + AYUSH + nurses + pharma
+        (51 % regular, ₹3.65 L avg).
+    See PLFS analysis in ../PLFS/analyses/.
 """
 import csv
 from pathlib import Path
@@ -31,75 +46,95 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parents[1]
 OUT = ROOT / "extractions" / "stem_pipeline_buckets_2024-25.csv"
 
-# Values traced back to sources (each row has the source spelled out)
+# Denominators
+TOTAL_UG_GRADS = 7754223   # AISHE 2021-22 Table 35 total UG out-turn
+STEM_GRADS = 1381358       # Eng + IT/Computer + Medical
+
+
 ROWS = [
     {
         "bucket": "1. IITs",
-        "n_institutes": 23,  # all 23 IITs covered (incl. IIT Goa via direct NIRF PDF in College DB)
-        "annual_grads": 15647,   # JoSAA 2024 IIT first-year B.Tech seats = 17,385 × 90% completion
-        "annual_placed": 14333,  # 15647 × 91.6% (College DB avg placement rate across 23 IITs)
-        "placement_pct": 91.6,
-        "median_salary_lakh": 17.2,  # College DB avg median across 23 IITs
-        "share_of_stem_pct": round(15647 / 1382000 * 100, 2),
-        "source": "JoSAA 2024 seat matrix (17,385 first-year B.Tech seats across 23 IITs) + College DB scorecards (NIRF Mandatory Disclosure PDFs scraped per-institute, incl. IIT Goa which doesn't appear in NIRF aggregate rankings)",
-        "notes": "All 23 IITs covered. Median salary range across IITs: ₹12 L (IIT Palakkad) to ₹22.5 L (IIT Guwahati). Top-quartile placements at IIT-B/D/M cross ₹50 L/yr (mean is much higher than median).",
+        "n_institutes": 23,
+        "annual_grads": 15647,
+        "annual_placed": 14333,
+        "employment_rate_pct": 91.6,
+        "rate_source": "NIRF placement rate (institution-reported)",
+        "avg_pay_lakh": 17.2,
+        "pay_metric": "median salary (NIRF)",
+        "pay_source": "College DB scorecards (NIRF Mandatory Disclosure PDFs)",
+        "pct_of_stem_ug": round(15647 / STEM_GRADS * 100, 2),
+        "pct_of_all_ug": round(15647 / TOTAL_UG_GRADS * 100, 2),
+        "notes": "All 23 IITs covered (incl. IIT Goa, sourced via direct NIRF PDF scrape since IIT Goa isn't in NIRF aggregate top-100). Median range: ₹12 L (Palakkad) to ₹22.5 L (Guwahati). Top-quartile placements at IIT-B/D/M cross ₹50 L.",
     },
     {
         "bucket": "2. NITs / IIITs",
-        "n_institutes": 57,  # 31 NITs + 26 IIITs (per JoSAA 2024)
-        "annual_grads": 29510,   # 21806 NIT + 7704 IIIT (JoSAA seats × 90%)
-        "annual_placed": 26227,  # weighted avg placement ~89%
-        "placement_pct": 88.9,
-        "median_salary_lakh": 10.1,  # ₹9.5 L NIT (College DB avg) + ₹12.1 L IIIT (top 17 with data) → weighted
-        "share_of_stem_pct": round(29510 / 1382000 * 100, 2),
-        "source": "JoSAA 2024 seat matrix (NITs: 24,229 first-year seats / IIITs: 8,560 first-year seats; × 90% completion) + College DB scorecards. 31 of 31 NITs have placement data; 17 of 26 IIITs have placement data — remaining 9 IIITs (newer/PPP) extrapolated using NIT-tier avg.",
-        "notes": "Sample placement rates: NIT Trichy 95%, NIT Surathkal 92%, NIT Warangal 89%, NIT Goa 86%; IIIT Allahabad 97%, IIIT Hyderabad 96%, IIIT Bangalore 89%. Smallest NITs/IIITs (Manipur, Mizoram, Sikkim, Sri City, Vadodara, Bhopal etc.) have weaker data coverage.",
+        "n_institutes": 57,
+        "annual_grads": 29510,
+        "annual_placed": 26227,
+        "employment_rate_pct": 88.9,
+        "rate_source": "NIRF placement rate (College DB avg across NITs + IIITs)",
+        "avg_pay_lakh": 10.1,
+        "pay_metric": "median salary (NIRF)",
+        "pay_source": "College DB scorecards (NIRF Mandatory Disclosure PDFs)",
+        "pct_of_stem_ug": round(29510 / STEM_GRADS * 100, 2),
+        "pct_of_all_ug": round(29510 / TOTAL_UG_GRADS * 100, 2),
+        "notes": "31 NITs (all with placement data) + 26 IIITs (17 with placement, 9 newer/PPP extrapolated at NIT-tier avg). Range: NIT Trichy 95% / ₹14 L → NIT Goa 86% / ₹8 L → IIIT Hyderabad ₹22 L → IIIT Allahabad ₹15 L.",
     },
     {
         "bucket": "3. Govt MBBS colleges",
-        "n_institutes": 423,  # of 780 total per NMC; 51% by seats are govt
-        "annual_grads": 54000,   # 60324 seats × 90% completion
-        "annual_placed": None,   # MBBS doesn't have "placement" in NIRF sense — all become doctors via PG/internship
-        "placement_pct": None,
-        "median_salary_lakh": 15.0,  # rough; ₹15-25 L for first-decade post-PG
-        "share_of_stem_pct": round(54000 / 1382000 * 100, 2),
-        "source": "NMC seat matrix 2024-25 (sources/nmc_mbbs_seat_matrix_2024-25.pdf): 60,324 govt seats of 118,190 total (51%). Completion rate ~90% assumed.",
-        "notes": "All MBBS grads functionally 'placed' as junior doctors via internship/PG. Income depends on whether they specialise (most do); MBBS-only general practice in govt sector earns ₹6-8 L; specialist post-PG earns ₹15-25 L.",
+        "n_institutes": 423,
+        "annual_grads": 54000,
+        "annual_placed": 54000,
+        "employment_rate_pct": 100.0,
+        "rate_source": "Compulsory internship + NEET-PG funnel — all MBBS grads become doctors",
+        "avg_pay_lakh": 7.0,
+        "pay_metric": "starting salary (Junior Resident govt scale)",
+        "pay_source": "Govt 7th Pay Commission pay matrix for Junior Residents (~₹56K/month) + cross-checks with PLFS Medical bucket (₹3.65 L) which under-counts due to pooling with nurses/AYUSH",
+        "pct_of_stem_ug": round(54000 / STEM_GRADS * 100, 2),
+        "pct_of_all_ug": round(54000 / TOTAL_UG_GRADS * 100, 2),
+        "notes": "60,324 govt MBBS seats × 90% completion. ₹7 L is starting JR salary; long-run median rises to ₹15-25 L post-PG specialist (3-5 yrs later). No NIRF placement concept since MBBS doesn't go through campus placement.",
     },
     {
         "bucket": "4. Top-200 NIRF Engineering (non-IIT/NIT/IIIT)",
-        "n_institutes": 52 + 85,
-        "annual_grads": 85992 + 69406,
-        "annual_placed": 59729 + 50292,
-        "placement_pct": round((59729+50292)/(85992+69406)*100, 1),
-        "median_salary_lakh": 7.5,  # weighted: top-100 ₹9.8 L, 101-200 ₹5.1 L
-        "share_of_stem_pct": round((85992+69406) / 1382000 * 100, 2),
-        "source": "NIRF 2025 top-100 (52 non-IIT/NIT/IIIT institutes) + NIRF 2022 ranks 101-200 (85 institutes). Mostly private + state engineering colleges (BITS, VIT, SRM, Thapar, MANIT, COEP, PSG, Anna Univ campuses, …).",
-        "notes": "NIRF 2023+ stopped individual ranking past 100 (bucketed bands instead), so 101-200 is from 2022 cycle. Composition of 101-200 doesn't change much YoY.",
+        "n_institutes": 137,
+        "annual_grads": 155398,
+        "annual_placed": 110021,
+        "employment_rate_pct": 70.8,
+        "rate_source": "NIRF placement rate (NIRF 2025 top-100 + NIRF 2022 ranks 101-200)",
+        "avg_pay_lakh": 7.5,
+        "pay_metric": "weighted median salary (NIRF top-100 + 101-200 average)",
+        "pay_source": "NIRF aggregate (BQ external_data_sources)",
+        "pct_of_stem_ug": round(155398 / STEM_GRADS * 100, 2),
+        "pct_of_all_ug": round(155398 / TOTAL_UG_GRADS * 100, 2),
+        "notes": "BITS, VIT, SRM, Thapar, MANIT, COEP, PSG, Anna Univ campuses, etc. Top-100 median ₹9.8 L; 101-200 median ₹5.1 L. NIRF 2023+ stopped publishing individual ranks past 100, so 101-200 portion uses NIRF 2022 cycle.",
     },
     {
         "bucket": "5. IT & Computer (BCA / B.Sc IT)",
-        "n_institutes": None,  # spread across thousands of colleges
+        "n_institutes": None,
         "annual_grads": 258203,
-        "annual_placed": None,  # PLFS partial; AISHE doesn't report placement
-        "placement_pct": None,
-        "median_salary_lakh": 2.8,  # PLFS Graduate-non-technical bucket (BCA mostly lands here)
-        "share_of_stem_pct": round(258203 / 1382000 * 100, 2),
-        "source": "AISHE 2021-22 Table 35 — IT & Computer discipline UG out-turn = 258,203. Distinct from Engineering & Technology (which includes B.Tech CSE).",
-        "notes": "Mostly BCA + B.Sc IT + B.Sc Computer Apps (NOT B.Tech CSE — that's in Engineering & Technology). AICTE 2024-25 Computer Applications intake = 1,32,606 (UG+PG combined). Income closer to ₹2.5-3.5 L typically since these grads compete for entry-level IT-support roles.",
+        "annual_placed": None,
+        "employment_rate_pct": 28.0,
+        "rate_source": "PLFS Annual 2023-24, age 25-30, Graduate (non-technical) bucket",
+        "avg_pay_lakh": 2.8,
+        "pay_metric": "mean monthly wage for regular salaried × 12",
+        "pay_source": "PLFS Annual 2023-24 (₹23,345/month avg regular wage)",
+        "pct_of_stem_ug": round(258203 / STEM_GRADS * 100, 2),
+        "pct_of_all_ug": round(258203 / TOTAL_UG_GRADS * 100, 2),
+        "notes": "BCA + B.Sc IT + B.Sc Computer Apps. PLFS doesn't have a separate code for these — they land in 'Graduate non-technical' alongside Arts/Sci/Com grads. Most BCA grads compete for entry-level IT-support roles (₹2.5-3.5 L typical) or move to MCA/PGDM.",
     },
     {
-        "bucket": "6. All others (long tail)",
+        "bucket": "6. All others (long tail engineering + non-MBBS medical)",
         "n_institutes": None,
-        # AISHE Eng total 829,627 - IITs 15,647 - NITs+IIITs 29,510 - NIRF Top-200 (non-IIT/NIT/IIIT) 155,398
-        # + AISHE Medical total 293,528 - Govt MBBS 54,000
-        "annual_grads": 829627 - 15647 - 29510 - 155398 + 293528 - 54000,
+        "annual_grads": 868600,
         "annual_placed": None,
-        "placement_pct": None,
-        "median_salary_lakh": 3.0,
-        "share_of_stem_pct": round((829627 - 15647 - 29510 - 155398 + 293528 - 54000) / 1382000 * 100, 2),
-        "source": "Engineering & Technology residual (AISHE 8.30 L − IIT 15.6K − NIT+IIIT 29.5K − NIRF-top-200-other 155K = ~629K) + Medical Science residual (AISHE 2.94 L − Govt MBBS 54K = ~240K)",
-        "notes": "The vast majority — ~6.3 L engineering grads from non-NIRF colleges + ~2.4 L non-MBBS medical (BDS, AYUSH, B.Pharm, Nursing). PLFS-implied avg salary for this cohort: ₹2.5-3.5 L/year in regular jobs, ~30-40% placement rate at best.",
+        "employment_rate_pct": 39.0,
+        "rate_source": "PLFS-derived: engineering bucket (64% regular for ALL engg incl. elite) back-calculated for non-elite (~35%) + Medical bucket (51% regular)",
+        "avg_pay_lakh": 2.7,
+        "pay_metric": "PLFS-derived weighted avg of non-elite engineering (~₹2.3 L) and non-MBBS medical (~₹3.65 L)",
+        "pay_source": "PLFS Annual 2023-24, age 25-30, Engineering and Medical buckets",
+        "pct_of_stem_ug": round(868600 / STEM_GRADS * 100, 2),
+        "pct_of_all_ug": round(868600 / TOTAL_UG_GRADS * 100, 2),
+        "notes": "Engineering residual: AISHE 8.30 L − IIT 15.6K − NIT/IIIT 29.5K − NIRF top-200 (non-IIT/NIT/IIIT) 155K = ~629K (mostly state engineering colleges + tier-3 private). Medical residual: AISHE 2.94 L − Govt MBBS 54K = ~240K (BDS, AYUSH, B.Pharm, Nursing, BPT, etc.).",
     },
 ]
 
@@ -107,30 +142,43 @@ ROWS = [
 def main():
     OUT.parent.mkdir(parents=True, exist_ok=True)
     cols = ["bucket", "n_institutes", "annual_grads", "annual_placed",
-            "placement_pct", "median_salary_lakh", "share_of_stem_pct",
-            "source", "notes"]
+            "employment_rate_pct", "rate_source",
+            "avg_pay_lakh", "pay_metric", "pay_source",
+            "pct_of_stem_ug", "pct_of_all_ug", "notes"]
     with OUT.open("w", newline="") as f:
         w = csv.DictWriter(f, fieldnames=cols)
         w.writeheader()
         w.writerows(ROWS)
 
-    total_grads = sum(r["annual_grads"] for r in ROWS if r["annual_grads"])
-    total_placed = sum(r["annual_placed"] for r in ROWS if r["annual_placed"])
+    total_grads_buckets = sum(r["annual_grads"] for r in ROWS)
     print(f"Wrote {len(ROWS)} rows -> {OUT}")
-    print(f"\n6-bucket STEM-track UG graduate split (India, annual, cohort 2023-24)")
-    print(f"{'Bucket':45s} {'Grads':>10s} {'% STEM':>8s} {'Placed':>8s} {'Place%':>7s} {'MedSal(L)':>10s}")
+    print(f"\n6-bucket STEM-track UG split (India, ~2023-24 cohort, AISHE 2021-22 base)")
+    print(f"Denominators: STEM UG = {STEM_GRADS:,}; ALL UG = {TOTAL_UG_GRADS:,}")
+    print()
+    print(f"{'Bucket':46s} {'Grads':>9s} {'%STEM':>6s} {'%AllUG':>7s} {'Job%':>5s} {'Pay (L)':>8s}")
     print("-" * 92)
     for r in ROWS:
-        g = r["annual_grads"] or 0
-        p = r["annual_placed"]
-        ppct = r["placement_pct"] or 0
-        ms = r["median_salary_lakh"] or 0
-        share = r["share_of_stem_pct"]
-        p_s = f"{p:,}" if p else "—"
-        ppct_s = f"{ppct:.0f}%" if ppct else "—"
-        print(f"{r['bucket']:45s} {g:>10,} {share:>7.1f}% {p_s:>8s} {ppct_s:>7s} {ms:>9.1f}")
-    print(f"\n  TOTAL STEM-track UG grads/yr (AISHE Eng+IT+Medical): 13,82,000")
-    print(f"  Captured in 6 buckets: {total_grads:,}")
+        print(f"{r['bucket']:46s} "
+              f"{r['annual_grads']:>9,} "
+              f"{r['pct_of_stem_ug']:>5.1f}% "
+              f"{r['pct_of_all_ug']:>6.2f}% "
+              f"{r['employment_rate_pct']:>4.0f}% "
+              f"{r['avg_pay_lakh']:>7.1f}")
+    print("-" * 92)
+    print(f"{'STEM-track total (Eng + IT + Medical)':46s} "
+          f"{total_grads_buckets:>9,} "
+          f"{100.0:>5.1f}% "
+          f"{total_grads_buckets/TOTAL_UG_GRADS*100:>6.2f}%")
+    non_stem = TOTAL_UG_GRADS - total_grads_buckets
+    print(f"{'Non-STEM UG (Arts, Sci, Com, Edu, Law, Mgmt, ...)':46s} "
+          f"{non_stem:>9,} "
+          f"{'—':>5s}  "
+          f"{non_stem/TOTAL_UG_GRADS*100:>6.2f}%  "
+          f"~28%   ~2.8")
+    print(f"{'ALL UG grads (AISHE 2021-22)':46s} "
+          f"{TOTAL_UG_GRADS:>9,} "
+          f"{'—':>5s}  "
+          f"{100.0:>6.2f}%")
 
 
 if __name__ == "__main__":
