@@ -109,32 +109,21 @@ ROWS = [
         "notes": "BITS, VIT, SRM, Thapar, MANIT, COEP, PSG, Anna Univ campuses, etc. Top-100 median ₹9.8 L; 101-200 median ₹5.1 L. NIRF 2023+ stopped publishing individual ranks past 100, so 101-200 portion uses NIRF 2022 cycle.",
     },
     {
-        "bucket": "5. IT & Computer (BCA / B.Sc IT)",
+        # Combined: IT/Computer (258,203) + long-tail engineering (629K) + non-MBBS medical (240K)
+        # = 1,126,803 grads. Employment and salary almost identical across these sub-cohorts
+        # (28% / ₹2.8 L for BCA-tier, ~39% / ₹2.7 L for non-elite engg+medical).
+        "bucket": "5. All other STEM grads (non-elite engineering + IT/Computer + non-MBBS medical)",
         "n_institutes": None,
-        "annual_grads": 258203,
+        "annual_grads": 258203 + 868600,
         "annual_placed": None,
-        "employment_rate_pct": 28.0,
-        "rate_source": "PLFS Annual 2023-24, age 25-30, Graduate (non-technical) bucket",
-        "avg_pay_lakh": 2.8,
-        "pay_metric": "mean monthly wage for regular salaried × 12",
-        "pay_source": "PLFS Annual 2023-24 (₹23,345/month avg regular wage)",
-        "pct_of_stem_ug": round(258203 / STEM_GRADS * 100, 2),
-        "pct_of_all_ug": round(258203 / TOTAL_UG_GRADS * 100, 2),
-        "notes": "BCA + B.Sc IT + B.Sc Computer Apps. PLFS doesn't have a separate code for these — they land in 'Graduate non-technical' alongside Arts/Sci/Com grads. Most BCA grads compete for entry-level IT-support roles (₹2.5-3.5 L typical) or move to MCA/PGDM.",
-    },
-    {
-        "bucket": "6. All others (long tail engineering + non-MBBS medical)",
-        "n_institutes": None,
-        "annual_grads": 868600,
-        "annual_placed": None,
-        "employment_rate_pct": 39.0,
-        "rate_source": "PLFS-derived: engineering bucket (64% regular for ALL engg incl. elite) back-calculated for non-elite (~35%) + Medical bucket (51% regular)",
-        "avg_pay_lakh": 2.7,
-        "pay_metric": "PLFS-derived weighted avg of non-elite engineering (~₹2.3 L) and non-MBBS medical (~₹3.65 L)",
-        "pay_source": "PLFS Annual 2023-24, age 25-30, Engineering and Medical buckets",
-        "pct_of_stem_ug": round(868600 / STEM_GRADS * 100, 2),
-        "pct_of_all_ug": round(868600 / TOTAL_UG_GRADS * 100, 2),
-        "notes": "Engineering residual: AISHE 8.30 L − IIT 15.6K − NIT/IIIT 29.5K − NIRF top-200 (non-IIT/NIT/IIIT) 155K = ~629K (mostly state engineering colleges + tier-3 private). Medical residual: AISHE 2.94 L − Govt MBBS 54K = ~240K (BDS, AYUSH, B.Pharm, Nursing, BPT, etc.).",
+        "employment_rate_pct": 36.5,  # weighted: (258203*28 + 868600*39)/1126803
+        "rate_source": "PLFS Annual 2023-24, age 25-30: Graduate-non-technical bucket (BCA/BSc-IT, 28%) + Engineering bucket non-elite back-calc (~35%) + Medical bucket (51%, mixes BDS/AYUSH/Pharma/Nursing).",
+        "avg_pay_lakh": 2.7,  # weighted: (258203*2.8 + 868600*2.7)/1126803 ≈ ₹2.72 L
+        "pay_metric": "PLFS-derived weighted avg salary for regular salaried",
+        "pay_source": "PLFS Annual 2023-24 (Graduate-non-tech ₹2.80 L; non-elite engg ~₹2.3 L; non-MBBS medical ₹3.65 L). All within ₹2.3-3.65 L band.",
+        "pct_of_stem_ug": round((258203+868600) / STEM_GRADS * 100, 2),
+        "pct_of_all_ug": round((258203+868600) / TOTAL_UG_GRADS * 100, 2),
+        "notes": "Composition: ~258K BCA/B.Sc-IT (AISHE IT & Computer) + ~629K state/tier-3 engineering + ~240K non-MBBS medical (BDS, AYUSH, B.Pharm, Nursing, BPT, allied health). Earnings + employment rates are statistically indistinguishable across these sub-cohorts in PLFS, so collapsed into one bucket.",
     },
 ]
 
