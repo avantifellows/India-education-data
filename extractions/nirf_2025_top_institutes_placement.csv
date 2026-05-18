@@ -1,0 +1,988 @@
+ranking_category,nirf_rank,institute_name,state,city,overall_score,academic_year,type,first_year_intake,graduating_on_time,students_placed,median_salary
+Agriculture and Allied Sectors,1,Indian Agricultural Research Institute,Delhi,New Delhi,89.23,2023-24,PG [2 Year Program(s)],,236.0,27.0,696000.0
+Agriculture and Allied Sectors,1,Indian Agricultural Research Institute,Delhi,New Delhi,89.23,2023-24,UG [4 Years Program(s)],,0.0,0.0,0.0
+Agriculture and Allied Sectors,2,ICAR - National Dairy Research Institute,Haryana,Karnal,75.87,2023-24,PG [2 Year Program(s)],,129.0,82.0,820000.0
+Agriculture and Allied Sectors,2,ICAR - National Dairy Research Institute,Haryana,Karnal,75.87,2023-24,UG [4 Years Program(s)],,49.0,37.0,750000.0
+Agriculture and Allied Sectors,3,"Punjab Agricultural University, Ludhiana",Punjab,Ludhiana,75.83,2023-24,PG [2 Year Program(s)],,273.0,135.0,480000.0
+Agriculture and Allied Sectors,3,"Punjab Agricultural University, Ludhiana",Punjab,Ludhiana,75.83,2023-24,UG [4 Years Program(s)],,290.0,81.0,480000.0
+Agriculture and Allied Sectors,4,Banaras Hindu University,Uttar Pradesh,Varanasi,68.95,2023-24,UG [4 Years Program(s)],,189.0,29.0,500000.0
+Agriculture and Allied Sectors,4,Banaras Hindu University,Uttar Pradesh,Varanasi,68.95,2023-24,UG [5 Years Program(s)],,43.0,0.0,0.0
+Agriculture and Allied Sectors,5,"Indian Veterinary Research Institute, Izatnagar",Uttar Pradesh,Bareilly,67.66,2023-24,PG [2 Year Program(s)],,111.0,43.0,1043460.0
+Agriculture and Allied Sectors,5,"Indian Veterinary Research Institute, Izatnagar",Uttar Pradesh,Bareilly,67.66,2023-24,UG [4 Years Program(s)],,0.0,0.0,0.0
+Agriculture and Allied Sectors,6,Tamil Nadu Agricultural University,Tamil Nadu,Coimbatore,67.06,2023-24,PG [2 Year Program(s)],,381.0,194.0,620000.0
+Agriculture and Allied Sectors,6,Tamil Nadu Agricultural University,Tamil Nadu,Coimbatore,67.06,2023-24,UG [4 Years Program(s)],,1381.0,335.0,450000.0
+Agriculture and Allied Sectors,7,"Sher-e-Kashmir University of Agricultural Science & Technology of Kashmir, Srinagar",Jammu and Kashmir,Srinagar,65.81,2023-24,PG [2 Year Program(s)],,422.0,246.0,684000.0
+Agriculture and Allied Sectors,7,"Sher-e-Kashmir University of Agricultural Science & Technology of Kashmir, Srinagar",Jammu and Kashmir,Srinagar,65.81,2023-24,UG [4 Years Program(s)],,599.0,201.0,648000.0
+Agriculture and Allied Sectors,8,"Central Institute of Fisheries Education, Fisheries University",Maharashtra,Mumbai,63.92,2023-24,PG [2 Year Program(s)],,96.0,45.0,400000.0
+Agriculture and Allied Sectors,9,"G.B. Pant Universtiy of Agriculture and Technology, Pantnagar",Uttarakhand,Pantnagar,61.56,2023-24,PG [2 Year Program(s)],,258.0,205.0,750000.0
+Agriculture and Allied Sectors,9,"G.B. Pant Universtiy of Agriculture and Technology, Pantnagar",Uttarakhand,Pantnagar,61.56,2023-24,UG [4 Years Program(s)],,715.0,458.0,560000.0
+Agriculture and Allied Sectors,9,"G.B. Pant Universtiy of Agriculture and Technology, Pantnagar",Uttarakhand,Pantnagar,61.56,2023-24,UG [5 Years Program(s)],,63.0,25.0,700000.0
+Agriculture and Allied Sectors,10,Chaudhary Charan Singh Haryana Agricultural University,Haryana,Hisar,61.47,2023-24,PG [2 Year Program(s)],,185.0,88.0,500000.0
+Agriculture and Allied Sectors,10,Chaudhary Charan Singh Haryana Agricultural University,Haryana,Hisar,61.47,2023-24,UG [4 Years Program(s)],,223.0,48.0,400000.0
+Agriculture and Allied Sectors,11,"University of Agricultural Sciences, Bangalore",Karnataka,Bengaluru,60.35,2023-24,PG [2 Year Program(s)],,666.0,248.0,1640000.0
+Agriculture and Allied Sectors,11,"University of Agricultural Sciences, Bangalore",Karnataka,Bengaluru,60.35,2023-24,UG [4 Years Program(s)],,1764.0,294.0,1250000.0
+Agriculture and Allied Sectors,12,"Kerala Agricultural University, Thrissur",Kerala,Thrissur,60.0,2023-24,PG [2 Year Program(s)],,294.0,202.0,650000.0
+Agriculture and Allied Sectors,12,"Kerala Agricultural University, Thrissur",Kerala,Thrissur,60.0,2023-24,UG [4 Years Program(s)],,651.0,163.0,450000.0
+Agriculture and Allied Sectors,12,"Kerala Agricultural University, Thrissur",Kerala,Thrissur,60.0,2023-24,UG [5 Years Program(s)],,26.0,11.0,480000.0
+Agriculture and Allied Sectors,13,"National Institute of Food Technology, Entrepreneurship and Management - Thanjavur (NIFTEM - Thanjavur)",Tamil Nadu,Thanjavur,58.76,2023-24,PG [2 Year Program(s)],,23.0,21.0,460000.0
+Agriculture and Allied Sectors,13,"National Institute of Food Technology, Entrepreneurship and Management - Thanjavur (NIFTEM - Thanjavur)",Tamil Nadu,Thanjavur,58.76,2023-24,UG [4 Years Program(s)],,57.0,38.0,365000.0
+Agriculture and Allied Sectors,14,"Dr Rajendra Prasad Central Agricultural University, Samastipur",Bihar,Samastipur,58.25,2023-24,PG [2 Year Program(s)],,232.0,117.0,720000.0
+Agriculture and Allied Sectors,14,"Dr Rajendra Prasad Central Agricultural University, Samastipur",Bihar,Samastipur,58.25,2023-24,UG [4 Years Program(s)],,291.0,84.0,650000.0
+Agriculture and Allied Sectors,15,Amity University,Uttar Pradesh,Gautam Budh Nagar,58.14,2023-24,PG [2 Year Program(s)],,77.0,45.0,300000.0
+Agriculture and Allied Sectors,15,Amity University,Uttar Pradesh,Gautam Budh Nagar,58.14,2023-24,UG [4 Years Program(s)],,98.0,35.0,300000.0
+Agriculture and Allied Sectors,16,Bidhan Chandra Krishi Vishwavidyalaya,West Bengal,Nadia,57.64,2023-24,PG [2 Year Program(s)],,123.0,58.0,695000.0
+Agriculture and Allied Sectors,16,Bidhan Chandra Krishi Vishwavidyalaya,West Bengal,Nadia,57.64,2023-24,UG [4 Years Program(s)],,237.0,72.0,480000.0
+Agriculture and Allied Sectors,17,Lovely Professional University,Punjab,Phagwara,57.61,2023-24,PG [2 Year Program(s)],,221.0,176.0,700000.0
+Agriculture and Allied Sectors,17,Lovely Professional University,Punjab,Phagwara,57.61,2023-24,UG [4 Years Program(s)],,705.0,153.0,541460.0
+Agriculture and Allied Sectors,18,"Assam Agricultural University, Jorhat",Assam,Jorhat,57.2,2023-24,PG [2 Year Program(s)],,245.0,114.0,75000.0
+Agriculture and Allied Sectors,18,"Assam Agricultural University, Jorhat",Assam,Jorhat,57.2,2023-24,UG [4 Years Program(s)],,486.0,104.0,72000.0
+Agriculture and Allied Sectors,19,"Orissa University of Agriculture and Technology, Bhubaneswar",Odisha,Khordha,56.61,2023-24,PG [2 Year Program(s)],,322.0,261.0,768000.0
+Agriculture and Allied Sectors,19,"Orissa University of Agriculture and Technology, Bhubaneswar",Odisha,Khordha,56.61,2023-24,UG [4 Years Program(s)],,593.0,300.0,600000.0
+Agriculture and Allied Sectors,19,"Orissa University of Agriculture and Technology, Bhubaneswar",Odisha,Khordha,56.61,2023-24,UG [5 Years Program(s)],,89.0,86.0,1016400.0
+Agriculture and Allied Sectors,20,"Dr. Y.S. Parmar University of Horticulture and Forestry, Solan",Himachal Pradesh,Solan,55.53,2023-24,PG [2 Year Program(s)],,136.0,55.0,550000.0
+Agriculture and Allied Sectors,20,"Dr. Y.S. Parmar University of Horticulture and Forestry, Solan",Himachal Pradesh,Solan,55.53,2023-24,UG [4 Years Program(s)],,462.0,138.0,412500.0
+Agriculture and Allied Sectors,21,Babasaheb Bhimrao Ambedkar University-Lucknow,Uttar Pradesh,Lucknow,55.46,2023-24,PG [2 Year Program(s)],,24.0,22.0,692400.0
+Agriculture and Allied Sectors,22,"National Institute of Food Technology, Entrepreneurship and Management - (NIFTEM - Sonipat)",Haryana,Sonipat,54.61,2023-24,PG [2 Year Program(s)],,80.0,55.0,625000.0
+Agriculture and Allied Sectors,22,"National Institute of Food Technology, Entrepreneurship and Management - (NIFTEM - Sonipat)",Haryana,Sonipat,54.61,2023-24,UG [4 Years Program(s)],,135.0,74.0,710000.0
+Agriculture and Allied Sectors,23,Sher-e-Kashmir University of Agricultural Science and Technology of Jammu,Jammu and Kashmir,Jammu,54.28,2023-24,PG [2 Year Program(s)],,110.0,59.0,1326500.0
+Agriculture and Allied Sectors,23,Sher-e-Kashmir University of Agricultural Science and Technology of Jammu,Jammu and Kashmir,Jammu,54.28,2023-24,UG [4 Years Program(s)],,117.0,37.0,1023900.0
+Agriculture and Allied Sectors,23,Sher-e-Kashmir University of Agricultural Science and Technology of Jammu,Jammu and Kashmir,Jammu,54.28,2023-24,UG [5 Years Program(s)],,58.0,31.0,1057300.0
+Agriculture and Allied Sectors,24,Professor Jayashankar Telangana Agricultural University (PJTAU),Telangana,Hyderabad,52.97,2023-24,PG [2 Year Program(s)],,174.0,99.0,570000.0
+Agriculture and Allied Sectors,24,Central Agricultural University,Manipur,Imphal West,52.97,2023-24,PG [2 Year Program(s)],,261.0,103.0,850000.0
+Agriculture and Allied Sectors,24,Professor Jayashankar Telangana Agricultural University (PJTAU),Telangana,Hyderabad,52.97,2023-24,UG [4 Years Program(s)],,705.0,177.0,399500.0
+Agriculture and Allied Sectors,24,Central Agricultural University,Manipur,Imphal West,52.97,2023-24,UG [4 Years Program(s)],,368.0,56.0,800000.0
+Agriculture and Allied Sectors,24,Central Agricultural University,Manipur,Imphal West,52.97,2023-24,UG [5 Years Program(s)],,94.0,30.0,912000.0
+Agriculture and Allied Sectors,26,Tamil Nadu Veterinary and Animal Sciences University,Tamil Nadu,Chennai,52.91,2023-24,PG [2 Year Program(s)],,67.0,53.0,1020000.0
+Agriculture and Allied Sectors,26,Tamil Nadu Veterinary and Animal Sciences University,Tamil Nadu,Chennai,52.91,2023-24,UG [4 Years Program(s)],,87.0,57.0,360000.0
+Agriculture and Allied Sectors,26,Tamil Nadu Veterinary and Animal Sciences University,Tamil Nadu,Chennai,52.91,2023-24,UG [5 Years Program(s)],,360.0,233.0,840000.0
+Agriculture and Allied Sectors,27,Anand Agricultural University,Gujarat,Anand,51.67,2023-24,PG [2 Year Program(s)],,125.0,89.0,840000.0
+Agriculture and Allied Sectors,27,Anand Agricultural University,Gujarat,Anand,51.67,2023-24,UG [4 Years Program(s)],,442.0,252.0,450000.0
+Agriculture and Allied Sectors,28,"Indira Gandhi Krishi Vishwavidyalaya, Raipur",Chhattisgarh,Raipur,50.6,2023-24,PG [2 Year Program(s)],,161.0,76.0,845000.0
+Agriculture and Allied Sectors,28,"Indira Gandhi Krishi Vishwavidyalaya, Raipur",Chhattisgarh,Raipur,50.6,2023-24,UG [4 Years Program(s)],,1293.0,608.0,790000.0
+Agriculture and Allied Sectors,29,Chaudhary Sarwan Kumar Himachal Pardesh Krishi Vishvavidyalaya,Himachal Pradesh,Kangra,50.18,2023-24,PG [2 Year Program(s)],,145.0,99.0,1950000.0
+Agriculture and Allied Sectors,29,Chaudhary Sarwan Kumar Himachal Pardesh Krishi Vishvavidyalaya,Himachal Pradesh,Kangra,50.18,2023-24,UG [4 Years Program(s)],,216.0,118.0,1300000.0
+Agriculture and Allied Sectors,30,Guru Angad Dev Veterinary and Animal Sciences University,Punjab,Ludhiana,50.02,2023-24,PG [2 Year Program(s)],,48.0,28.0,571200.0
+Agriculture and Allied Sectors,30,Guru Angad Dev Veterinary and Animal Sciences University,Punjab,Ludhiana,50.02,2023-24,UG [4 Years Program(s)],,64.0,21.0,300000.0
+Agriculture and Allied Sectors,30,Guru Angad Dev Veterinary and Animal Sciences University,Punjab,Ludhiana,50.02,2023-24,UG [5 Years Program(s)],,103.0,53.0,480000.0
+Agriculture and Allied Sectors,31,Acharya N G Ranga Agricultural University-Guntur,Andhra Pradesh,Guntur,49.45,2023-24,PG [2 Year Program(s)],,226.0,61.0,650000.0
+Agriculture and Allied Sectors,31,Kerala University of Fisheries and Ocean Studies,Kerala,Kochi,49.45,2023-24,PG [2 Year Program(s)],,62.0,34.0,660000.0
+Agriculture and Allied Sectors,31,Acharya N G Ranga Agricultural University-Guntur,Andhra Pradesh,Guntur,49.45,2023-24,UG [4 Years Program(s)],,482.0,35.0,500000.0
+Agriculture and Allied Sectors,31,Kerala University of Fisheries and Ocean Studies,Kerala,Kochi,49.45,2023-24,UG [4 Years Program(s)],,76.0,10.0,300000.0
+Agriculture and Allied Sectors,33,S.R.M. Institute of Science and Technology,Tamil Nadu,Chennai,49.38,2023-24,PG [2 Year Program(s)],,19.0,18.0,460000.0
+Agriculture and Allied Sectors,33,S.R.M. Institute of Science and Technology,Tamil Nadu,Chennai,49.38,2023-24,UG [4 Years Program(s)],,239.0,205.0,345000.0
+Agriculture and Allied Sectors,34,Navsari Agricultural University,Gujarat,Navsari,49.13,2023-24,PG [2 Year Program(s)],,205.0,122.0,630000.0
+Agriculture and Allied Sectors,34,Navsari Agricultural University,Gujarat,Navsari,49.13,2023-24,UG [4 Years Program(s)],,598.0,391.0,422000.0
+Agriculture and Allied Sectors,35,University of Agricultural Sciences-Dharwad,Karnataka,Dharwad,48.79,2023-24,PG [2 Year Program(s)],,174.0,56.0,575000.0
+Agriculture and Allied Sectors,35,University of Agricultural Sciences-Dharwad,Karnataka,Dharwad,48.79,2023-24,UG [4 Years Program(s)],,630.0,45.0,525000.0
+Agriculture and Allied Sectors,36,Bihar Agriculture University,Bihar,Bhagalpur,48.05,2023-24,PG [2 Year Program(s)],,89.0,51.0,900000.0
+Agriculture and Allied Sectors,36,Bihar Agriculture University,Bihar,Bhagalpur,48.05,2023-24,UG [4 Years Program(s)],,303.0,109.0,660000.0
+Agriculture and Allied Sectors,37,Lala lajpat Rai University of Veterinary and Animal Sciences,Haryana,Hisar,48.03,2023-24,PG [2 Year Program(s)],,35.0,23.0,1200000.0
+Agriculture and Allied Sectors,37,Lala lajpat Rai University of Veterinary and Animal Sciences,Haryana,Hisar,48.03,2023-24,UG [4 Years Program(s)],,24.0,5.0,500000.0
+Agriculture and Allied Sectors,37,Lala lajpat Rai University of Veterinary and Animal Sciences,Haryana,Hisar,48.03,2023-24,UG [5 Years Program(s)],,79.0,17.0,720000.0
+Agriculture and Allied Sectors,38,Annamalai University,Tamil Nadu,Annamalainagar,47.3,2023-24,PG [2 Year Program(s)],,193.0,132.0,431150.0
+Agriculture and Allied Sectors,38,Annamalai University,Tamil Nadu,Annamalainagar,47.3,2023-24,UG [4 Years Program(s)],,656.0,478.0,180000.0
+Agriculture and Allied Sectors,39,"West Bengal University of Animal and Fishery Sciences, Kolkata",West Bengal,Kolkata,46.97,2023-24,PG [2 Year Program(s)],,112.0,90.0,1245875.0
+Agriculture and Allied Sectors,39,"West Bengal University of Animal and Fishery Sciences, Kolkata",West Bengal,Kolkata,46.97,2023-24,UG [5 Years Program(s)],,145.0,123.0,741521.0
+Agriculture and Allied Sectors,40,Dr Y S R Horticulture University,Andhra Pradesh,West Godavari,46.87,2023-24,PG [2 Year Program(s)],,61.0,1.0,450000.0
+Agriculture and Allied Sectors,40,Dr Y S R Horticulture University,Andhra Pradesh,West Godavari,46.87,2023-24,UG [4 Years Program(s)],,348.0,30.0,500000.0
+Architecture and Planning,1,Indian Institute of Technology- Roorkee,Uttarakhand,Roorkee,83.95,2023-24,PG [2 Year Program(s)],,25.0,11.0,1100000.0
+Architecture and Planning,1,Indian Institute of Technology- Roorkee,Uttarakhand,Roorkee,83.95,2023-24,UG [5 Years Program(s)],,22.0,10.0,1000000.0
+Architecture and Planning,2,National Institute of Technology- Calicut,Kerala,Kozhikode,77.89,2023-24,PG [2 Year Program(s)],,16.0,15.0,800000.0
+Architecture and Planning,2,National Institute of Technology- Calicut,Kerala,Kozhikode,77.89,2023-24,UG [5 Years Program(s)],,51.0,32.0,650000.0
+Architecture and Planning,3,Indian Institute of Technology- Kharagpur,West Bengal,Kharagpur,77.38,2023-24,PG [2 Year Program(s)],,44.0,18.0,600000.0
+Architecture and Planning,3,Indian Institute of Technology- Kharagpur,West Bengal,Kharagpur,77.38,2023-24,UG [5 Years Program(s)],,37.0,25.0,1232800.0
+Architecture and Planning,4,"Indian Institute of Engineering Science and Technology, Shibpur",West Bengal,Howrah,68.37,2023-24,PG [2 Year Program(s)],,36.0,28.0,1250000.0
+Architecture and Planning,4,"Indian Institute of Engineering Science and Technology, Shibpur",West Bengal,Howrah,68.37,2023-24,UG [5 Years Program(s)],,46.0,42.0,960000.0
+Architecture and Planning,5,"Jamia Millia Islamia, New Delhi",Delhi,New Delhi,67.15,2023-24,PG [2 Year Program(s)],,138.0,122.0,840000.0
+Architecture and Planning,5,"Jamia Millia Islamia, New Delhi",Delhi,New Delhi,67.15,2023-24,UG [5 Years Program(s)],,41.0,34.0,720000.0
+Architecture and Planning,6,Centre for Environmental Planning and Technology University,Gujarat,Ahmedabad,65.73,2023-24,PG [2 Year Program(s)],,244.0,217.0,750000.0
+Architecture and Planning,6,Centre for Environmental Planning and Technology University,Gujarat,Ahmedabad,65.73,2023-24,UG [5 Years Program(s)],,97.0,65.0,600000.0
+Architecture and Planning,7,National Institute of Technology- Rourkela,Odisha,Rourkela,65.72,2023-24,UG [5 Years Program(s)],,19.0,14.0,650000.0
+Architecture and Planning,8,"School of Planning and Architecture, New Delhi",Delhi,New Delhi,65.11,2023-24,PG [2 Year Program(s)],,206.0,185.0,800000.0
+Architecture and Planning,8,"School of Planning and Architecture, New Delhi",Delhi,New Delhi,65.11,2023-24,UG [4 Years Program(s)],,38.0,7.0,523000.0
+Architecture and Planning,8,"School of Planning and Architecture, New Delhi",Delhi,New Delhi,65.11,2023-24,UG [5 Years Program(s)],,92.0,47.0,750000.0
+Architecture and Planning,9,National Institute of Technology- Tiruchirappalli,Tamil Nadu,Tiruchirappalli,64.3,2023-24,PG [2 Year Program(s)],,25.0,23.0,650000.0
+Architecture and Planning,9,National Institute of Technology- Tiruchirappalli,Tamil Nadu,Tiruchirappalli,64.3,2023-24,UG [5 Years Program(s)],,51.0,36.0,600000.0
+Architecture and Planning,10,"Visvesvaraya National Institute of Technology, Nagpur (Deemed University)",Maharashtra,Nagpur,61.22,2023-24,PG [2 Year Program(s)],,21.0,18.0,550000.0
+Architecture and Planning,10,"Visvesvaraya National Institute of Technology, Nagpur (Deemed University)",Maharashtra,Nagpur,61.22,2023-24,UG [5 Years Program(s)],,76.0,65.0,550000.0
+Architecture and Planning,11,School of Planning and Architecture-New Delhi,Madhya Pradesh,Bhopal,60.69,2023-24,PG [2 Year Program(s)],,258.0,244.0,1440000.0
+Architecture and Planning,11,School of Planning and Architecture-New Delhi,Madhya Pradesh,Bhopal,60.69,2023-24,UG [4 Years Program(s)],,52.0,26.0,960000.0
+Architecture and Planning,11,School of Planning and Architecture-New Delhi,Madhya Pradesh,Bhopal,60.69,2023-24,UG [5 Years Program(s)],,164.0,150.0,1320000.0
+Architecture and Planning,12,"Malaviya National Institute of Technology, Jaipur",Rajasthan,Jaipur,60.48,2023-24,PG [2 Year Program(s)],,22.0,17.0,650000.0
+Architecture and Planning,12,"Malaviya National Institute of Technology, Jaipur",Rajasthan,Jaipur,60.48,2023-24,UG [5 Years Program(s)],,64.0,58.0,578000.0
+Architecture and Planning,13,National Institute of Technology- Patna,Bihar,Patna,60.16,2023-24,PG [2 Year Program(s)],,16.0,3.0,800000.0
+Architecture and Planning,13,National Institute of Technology- Patna,Bihar,Patna,60.16,2023-24,UG [5 Years Program(s)],,35.0,15.0,396000.0
+Architecture and Planning,14,Chandigarh University,Punjab,Mohali,59.7,2023-24,PG [2 Year Program(s)],,10.0,6.0,520000.0
+Architecture and Planning,14,Chandigarh University,Punjab,Mohali,59.7,2023-24,UG [5 Years Program(s)],,70.0,15.0,480000.0
+Architecture and Planning,15,"College of Engineering, Trivandrum",Kerala,Thiruvananthapuram,59.63,2023-24,PG [2 Year Program(s)],,54.0,54.0,1835000.0
+Architecture and Planning,15,"College of Engineering, Trivandrum",Kerala,Thiruvananthapuram,59.63,2023-24,UG [5 Years Program(s)],,32.0,29.0,823000.0
+Architecture and Planning,16,Jadavpur University,West Bengal,Kolkata,59.3,2023-24,PG [2 Year Program(s)],,5.0,4.0,900000.0
+Architecture and Planning,16,Jadavpur University,West Bengal,Kolkata,59.3,2023-24,UG [5 Years Program(s)],,30.0,18.0,600000.0
+Architecture and Planning,17,Maulana Azad National Institute of Technology,Madhya Pradesh,Bhopal,58.8,2023-24,PG [2 Year Program(s)],,22.0,12.0,600000.0
+Architecture and Planning,17,Maulana Azad National Institute of Technology,Madhya Pradesh,Bhopal,58.8,2023-24,UG [4 Years Program(s)],,41.0,10.0,750000.0
+Architecture and Planning,17,Maulana Azad National Institute of Technology,Madhya Pradesh,Bhopal,58.8,2023-24,UG [5 Years Program(s)],,80.0,57.0,600000.0
+Architecture and Planning,18,S.R.M. Institute of Science and Technology,Tamil Nadu,Chennai,58.63,2023-24,PG [2 Year Program(s)],,10.0,10.0,810000.0
+Architecture and Planning,18,S.R.M. Institute of Science and Technology,Tamil Nadu,Chennai,58.63,2023-24,UG [5 Years Program(s)],,60.0,54.0,480000.0
+Architecture and Planning,19,School of Planning and Architecture-Vijayawada,Andhra Pradesh,Vijayawada,58.49,2023-24,PG [2 Year Program(s)],,282.0,276.0,1230000.0
+Architecture and Planning,19,School of Planning and Architecture-Vijayawada,Andhra Pradesh,Vijayawada,58.49,2023-24,UG [4 Years Program(s)],,56.0,28.0,1040000.0
+Architecture and Planning,19,School of Planning and Architecture-Vijayawada,Andhra Pradesh,Vijayawada,58.49,2023-24,UG [5 Years Program(s)],,158.0,116.0,1130000.0
+Architecture and Planning,20,BMS College of Architecture,Karnataka,Bengaluru,58.1,2023-24,PG [2 Year Program(s)],,9.0,9.0,720000.0
+Architecture and Planning,20,BMS College of Architecture,Karnataka,Bengaluru,58.1,2023-24,UG [5 Years Program(s)],,117.0,95.0,420000.0
+Architecture and Planning,21,"Manipal University, Jaipur",Rajasthan,Jaipur,56.83,2023-24,UG [5 Years Program(s)],,24.0,20.0,575100.0
+Architecture and Planning,22,Birla Institute of Technology,Jharkhand,Ranchi,56.76,2023-24,PG [2 Year Program(s)],,9.0,7.0,700000.0
+Architecture and Planning,22,Birla Institute of Technology,Jharkhand,Ranchi,56.76,2023-24,UG [5 Years Program(s)],,28.0,17.0,375000.0
+Architecture and Planning,23,Shri Mata Vaishno Devi University,Jammu and Kashmir,Katra,56.47,2023-24,UG [5 Years Program(s)],,21.0,13.0,320000.0
+Architecture and Planning,24,Lovely Professional University,Punjab,Phagwara,56.11,2023-24,PG [2 Year Program(s)],,5.0,5.0,840000.0
+Architecture and Planning,24,Lovely Professional University,Punjab,Phagwara,56.11,2023-24,UG [4 Years Program(s)],,7.0,4.0,820000.0
+Architecture and Planning,24,Lovely Professional University,Punjab,Phagwara,56.11,2023-24,UG [5 Years Program(s)],,77.0,46.0,822500.0
+Architecture and Planning,25,"Amity University, North Twenty Four Parganas",West Bengal,North Twenty Four Parganas,55.49,2023-24,UG [4 Years Program(s)],,60.0,51.0,867000.0
+Architecture and Planning,25,"Amity University, North Twenty Four Parganas",West Bengal,North Twenty Four Parganas,55.49,2023-24,UG [5 Years Program(s)],,21.0,15.0,345600.0
+Architecture and Planning,26,Aligarh Muslim University,Uttar Pradesh,Aligarh,55.11,2023-24,PG [2 Year Program(s)],,16.0,15.0,500000.0
+Architecture and Planning,26,Aligarh Muslim University,Uttar Pradesh,Aligarh,55.11,2023-24,UG [5 Years Program(s)],,22.0,11.0,395000.0
+Architecture and Planning,27,"Faculty of Architecture, Manipal Academy of Higher Education, Manipal",Karnataka,Udupi,54.68,2023-24,PG [2 Year Program(s)],,36.0,36.0,1440000.0
+Architecture and Planning,27,"Faculty of Architecture, Manipal Academy of Higher Education, Manipal",Karnataka,Udupi,54.68,2023-24,UG [5 Years Program(s)],,399.0,351.0,1056000.0
+Architecture and Planning,28,Anna University,Tamil Nadu,Chennai,54.6,2023-24,PG [2 Year Program(s)],,51.0,17.0,480000.0
+Architecture and Planning,28,Anna University,Tamil Nadu,Chennai,54.6,2023-24,UG [4 Years Program(s)],,0.0,0.0,0.0
+Architecture and Planning,28,Anna University,Tamil Nadu,Chennai,54.6,2023-24,UG [5 Years Program(s)],,67.0,12.0,307500.0
+Architecture and Planning,29,Nirma University,Gujarat,Ahmedabad,54.24,2023-24,UG [5 Years Program(s)],,80.0,46.0,400000.0
+Architecture and Planning,30,National Institute of Technology- Hamirpur,Himachal Pradesh,Hamirpur,54.0,2023-24,PG [2 Year Program(s)],,17.0,16.0,600000.0
+Architecture and Planning,30,National Institute of Technology- Hamirpur,Himachal Pradesh,Hamirpur,54.0,2023-24,UG [5 Years Program(s)],,52.0,49.0,600000.0
+Architecture and Planning,31,M. S. Ramaiah Institute of Technology-Bangalore,Karnataka,Bengaluru,53.54,2023-24,PG [2 Year Program(s)],,11.0,11.0,420000.0
+Architecture and Planning,31,M. S. Ramaiah Institute of Technology-Bangalore,Karnataka,Bengaluru,53.54,2023-24,UG [5 Years Program(s)],,75.0,72.0,252000.0
+Architecture and Planning,32,Dr. M. G. R. Educational and Research Institute,Tamil Nadu,Chennai,53.26,2023-24,PG [2 Year Program(s)],,59.0,56.0,960000.0
+Architecture and Planning,32,Dr. M. G. R. Educational and Research Institute,Tamil Nadu,Chennai,53.26,2023-24,UG [5 Years Program(s)],,78.0,0.0,0.0
+Architecture and Planning,33,Thiagarajar College of Engineering-Madurai,Tamil Nadu,Madurai,52.56,2023-24,PG [2 Year Program(s)],,13.0,13.0,450000.0
+Architecture and Planning,33,Thiagarajar College of Engineering-Madurai,Tamil Nadu,Madurai,52.56,2023-24,UG [5 Years Program(s)],,74.0,55.0,325000.0
+Architecture and Planning,34,Christ University,Karnataka,Bengaluru,51.79,2023-24,PG [2 Year Program(s)],,1.0,1.0,620187.0
+Architecture and Planning,34,Christ University,Karnataka,Bengaluru,51.79,2023-24,UG [5 Years Program(s)],,39.0,10.0,672000.0
+Architecture and Planning,35,National Institute of Technology- Raipur,Chhattisgarh,Raipur,51.3,2023-24,UG [5 Years Program(s)],,49.0,24.0,300000.0
+Architecture and Planning,36,Guru Gobind Singh Indraprastha University,Delhi,New Delhi,51.0,2023-24,PG [2 Year Program(s)],,9.0,9.0,525000.0
+Architecture and Planning,36,Guru Gobind Singh Indraprastha University,Delhi,New Delhi,51.0,2023-24,UG [5 Years Program(s)],,77.0,72.0,334000.0
+Architecture and Planning,37,"BMS School of Architecture, Yelahanka",Karnataka,Bengaluru,48.45,2023-24,PG [2 Year Program(s)],,4.0,3.0,400000.0
+Architecture and Planning,37,"BMS School of Architecture, Yelahanka",Karnataka,Bengaluru,48.45,2023-24,UG [5 Years Program(s)],,92.0,70.0,210000.0
+Architecture and Planning,38,Chitkara  University,Punjab,Rajpura,48.16,2023-24,UG [5 Years Program(s)],,94.0,44.0,730000.0
+Architecture and Planning,39,"Faculty of Architecture and Planning, Dr APJ Abbdul Kalam Technical University, Lucknow",Uttar Pradesh,Lucknow,47.94,2023-24,PG [2 Year Program(s)],,30.0,28.0,691000.0
+Architecture and Planning,39,"Faculty of Architecture and Planning, Dr APJ Abbdul Kalam Technical University, Lucknow",Uttar Pradesh,Lucknow,47.94,2023-24,UG [5 Years Program(s)],,81.0,64.0,403000.0
+Architecture and Planning,40,Anant National University,Gujarat,Ahmedabad,47.61,2023-24,UG [5 Years Program(s)],,69.0,50.0,320000.0
+Dental,1,"All India Institute of Medical Sciences, Delhi",Delhi,New Delhi,89.12,2023-24,PG [3 Year Program(s)],,16.0,16.0,2000000.0
+Dental,2,Saveetha Institute of Medical and Technical Sciences,Tamil Nadu,Chennai,85.31,2023-24,PG [3 Year Program(s)],,51.0,37.0,720000.0
+Dental,2,Saveetha Institute of Medical and Technical Sciences,Tamil Nadu,Chennai,85.31,2023-24,UG [5 Years Program(s)],,89.0,34.0,410000.0
+Dental,3,Maulana Azad Institute of Dental Sciences,Delhi,Delhi,72.55,2023-24,PG [3 Year Program(s)],,22.0,10.0,1857800.0
+Dental,3,Maulana Azad Institute of Dental Sciences,Delhi,Delhi,72.55,2023-24,UG [5 Years Program(s)],,50.0,20.0,1475400.0
+Dental,4,Dr. D. Y. Patil Vidyapeeth,Maharashtra,Pune,72.36,2023-24,PG [3 Year Program(s)],,48.0,44.0,1045000.0
+Dental,4,Dr. D. Y. Patil Vidyapeeth,Maharashtra,Pune,72.36,2023-24,UG [5 Years Program(s)],,95.0,59.0,690000.0
+Dental,5,"Manipal College of Dental Sciences, Mangalore",Karnataka,Manipal,70.58,2023-24,PG [3 Year Program(s)],,64.0,56.0,1130000.0
+Dental,5,"Manipal College of Dental Sciences, Mangalore",Karnataka,Manipal,70.58,2023-24,UG [5 Years Program(s)],,180.0,38.0,850000.0
+Dental,6,A.B.Shetty Memorial Institute of Dental Sciences,Karnataka,Mangaluru,69.0,2023-24,PG [3 Year Program(s)],,48.0,48.0,380000.0
+Dental,6,A.B.Shetty Memorial Institute of Dental Sciences,Karnataka,Mangaluru,69.0,2023-24,UG [5 Years Program(s)],,93.0,64.0,300000.0
+Dental,7,King George`s Medical University,Uttar Pradesh,Lucknow,68.89,2023-24,PG [3 Year Program(s)],,42.0,42.0,1650000.0
+Dental,7,King George`s Medical University,Uttar Pradesh,Lucknow,68.89,2023-24,UG [5 Years Program(s)],,58.0,52.0,900000.0
+Dental,8,SRM Dental College,Tamil Nadu,Chennai,68.19,2023-24,PG [3 Year Program(s)],,54.0,54.0,522000.0
+Dental,8,SRM Dental College,Tamil Nadu,Chennai,68.19,2023-24,UG [5 Years Program(s)],,99.0,86.0,312000.0
+Dental,9,Shiksha 'O' Anusandhan,Odisha,Bhubaneswar,63.12,2023-24,PG [3 Year Program(s)],,30.0,30.0,840000.0
+Dental,9,Shiksha 'O' Anusandhan,Odisha,Bhubaneswar,63.12,2023-24,UG [5 Years Program(s)],,67.0,64.0,540000.0
+Dental,10,JSS Dental College and Hospital,Karnataka,Mysuru,62.59,2023-24,PG [3 Year Program(s)],,31.0,28.0,2300000.0
+Dental,10,JSS Dental College and Hospital,Karnataka,Mysuru,62.59,2023-24,UG [5 Years Program(s)],,86.0,64.0,600000.0
+Dental,11,"Manipal College of Dental Sciences, Mangalore",Karnataka,Mangaluru,62.43,2023-24,PG [3 Year Program(s)],,27.0,25.0,850000.0
+Dental,11,"Manipal College of Dental Sciences, Mangalore",Karnataka,Mangaluru,62.43,2023-24,UG [5 Years Program(s)],,97.0,57.0,660000.0
+Dental,12,Postgraduate Institute of Dental Sciences,Haryana,Rohtak,62.03,2023-24,PG [3 Year Program(s)],,33.0,31.0,1668000.0
+Dental,12,Postgraduate Institute of Dental Sciences,Haryana,Rohtak,62.03,2023-24,UG [5 Years Program(s)],,81.0,57.0,924000.0
+Dental,13,Sri Ramachandra Institute of Higher Education and Research,Tamil Nadu,Chennai,61.28,2023-24,PG [3 Year Program(s)],,38.0,37.0,1360000.0
+Dental,13,Sri Ramachandra Institute of Higher Education and Research,Tamil Nadu,Chennai,61.28,2023-24,UG [5 Years Program(s)],,92.0,0.0,0.0
+Dental,14,Amrita School of Dentistry,Tamil Nadu,Coimbatore,60.83,2023-24,PG [3 Year Program(s)],,50.0,48.0,3400000.0
+Dental,14,Amrita School of Dentistry,Tamil Nadu,Coimbatore,60.83,2023-24,UG [5 Years Program(s)],,104.0,54.0,2400000.0
+Dental,15,Banaras Hindu University,Uttar Pradesh,Varanasi,60.14,2023-24,PG [3 Year Program(s)],,24.0,10.0,1420000.0
+Dental,15,Banaras Hindu University,Uttar Pradesh,Varanasi,60.14,2023-24,UG [5 Years Program(s)],,47.0,20.0,960000.0
+Dental,16,Meenakshi Academy of Higher Education and Research,Tamil Nadu,Chennai,59.92,2023-24,PG [3 Year Program(s)],,44.0,30.0,820000.0
+Dental,16,Meenakshi Academy of Higher Education and Research,Tamil Nadu,Chennai,59.92,2023-24,UG [5 Years Program(s)],,85.0,60.0,780000.0
+Dental,17,"Jamia Millia Islamia, New Delhi",Delhi,New Delhi,59.5,2023-24,UG [5 Years Program(s)],,50.0,33.0,1440000.0
+Dental,18,"Faculty of Dental Sciences, Institute of Medical Sciences",Uttar Pradesh,Varanasi,58.21,2023-24,PG [3 Year Program(s)],,48.0,20.0,2400000.0
+Dental,18,"Faculty of Dental Sciences, Institute of Medical Sciences",Uttar Pradesh,Varanasi,58.21,2023-24,UG [5 Years Program(s)],,94.0,40.0,1920000.0
+Dental,19,Nair Hospital Dental College,Maharashtra,Mumbai,58.1,2023-24,PG [3 Year Program(s)],,24.0,24.0,120000.0
+Dental,19,Nair Hospital Dental College,Maharashtra,Mumbai,58.1,2023-24,UG [5 Years Program(s)],,44.0,15.0,1000000.0
+Dental,20,"Govt. Dental College, Nagpur",Maharashtra,Nagpur,57.7,2023-24,PG [3 Year Program(s)],,19.0,19.0,1250000.0
+Dental,20,"Govt. Dental College, Nagpur",Maharashtra,Nagpur,57.7,2023-24,UG [5 Years Program(s)],,37.0,20.0,750000.0
+Dental,21,"Govt. Dental College, Mumbai",Maharashtra,Mumbai,57.42,2023-24,PG [3 Year Program(s)],,23.0,22.0,1225000.0
+Dental,21,"Govt. Dental College, Mumbai",Maharashtra,Mumbai,57.42,2023-24,UG [5 Years Program(s)],,107.0,85.0,285000.0
+Dental,22,M. S. Ramaiah University of Applied Sciences,Karnataka,Bengaluru,57.39,2023-24,PG [3 Year Program(s)],,35.0,33.0,810000.0
+Dental,22,M. S. Ramaiah University of Applied Sciences,Karnataka,Bengaluru,57.39,2023-24,UG [5 Years Program(s)],,60.0,53.0,320000.0
+Dental,23,Mahatma Gandhi P.G. Institute of Dental Sciences,Puducherry,Pondicherry,57.05,2023-24,PG [3 Year Program(s)],,12.0,12.0,700000.0
+Dental,23,Mahatma Gandhi P.G. Institute of Dental Sciences,Puducherry,Pondicherry,57.05,2023-24,UG [5 Years Program(s)],,31.0,17.0,500000.0
+Dental,24,Christian Dental College,Punjab,Ludhiana,56.96,2023-24,PG [3 Year Program(s)],,9.0,8.0,980000.0
+Dental,24,Christian Dental College,Punjab,Ludhiana,56.96,2023-24,UG [5 Years Program(s)],,37.0,27.0,440000.0
+Dental,25,SDM College of Dental Sciences and Hospital,Karnataka,Dharwad,56.49,2023-24,PG [3 Year Program(s)],,39.0,37.0,720000.0
+Dental,25,SDM College of Dental Sciences and Hospital,Karnataka,Dharwad,56.49,2023-24,UG [5 Years Program(s)],,100.0,44.0,480000.0
+Dental,26,Kalinga Institute of Industrial Technology,Odisha,Bhubaneswar,56.34,2023-24,PG [3 Year Program(s)],,21.0,21.0,1650000.0
+Dental,26,Kalinga Institute of Industrial Technology,Odisha,Bhubaneswar,56.34,2023-24,UG [5 Years Program(s)],,68.0,61.0,1130000.0
+Dental,27,Sree Balaji Dental College and Hospital,Tamil Nadu,Chennai,56.32,2023-24,PG [3 Year Program(s)],,26.0,24.0,740000.0
+Dental,27,Sree Balaji Dental College and Hospital,Tamil Nadu,Chennai,56.32,2023-24,UG [5 Years Program(s)],,94.0,56.0,420000.0
+Dental,28,Aligarh Muslim University,Uttar Pradesh,Aligarh,55.69,2023-24,PG [3 Year Program(s)],,17.0,17.0,1275000.0
+Dental,28,Aligarh Muslim University,Uttar Pradesh,Aligarh,55.69,2023-24,UG [5 Years Program(s)],,24.0,15.0,155000.0
+Dental,29,KLE Vishwanath Katti Institute of Dental Sciences,Karnataka,Belgaum,55.42,2023-24,PG [3 Year Program(s)],,40.0,35.0,650000.0
+Dental,29,KLE Vishwanath Katti Institute of Dental Sciences,Karnataka,Belgaum,55.42,2023-24,UG [5 Years Program(s)],,88.0,50.0,300000.0
+Dental,30,Dr. M. G. R. Educational and Research Institute,Tamil Nadu,Chennai,55.08,2023-24,PG [3 Year Program(s)],,34.0,32.0,1250000.0
+Dental,30,Dr. M. G. R. Educational and Research Institute,Tamil Nadu,Chennai,55.08,2023-24,UG [5 Years Program(s)],,76.0,40.0,650000.0
+Dental,31,Yenepoya Dental College,Karnataka,Mangaluru,55.0,2023-24,PG [3 Year Program(s)],,46.0,44.0,900000.0
+Dental,31,Yenepoya Dental College,Karnataka,Mangaluru,55.0,2023-24,UG [5 Years Program(s)],,92.0,67.0,700000.0
+Dental,32,Chettinad Dental College and Research Institute,Tamil Nadu,Kelambakkam,54.9,2023-24,PG [3 Year Program(s)],,23.0,23.0,1140000.0
+Dental,32,Chettinad Dental College and Research Institute,Tamil Nadu,Kelambakkam,54.9,2023-24,UG [5 Years Program(s)],,97.0,32.0,420000.0
+Dental,33,Manav Rachna International Institute of Research and Studies,Haryana,Faridabad,54.86,2023-24,PG [3 Year Program(s)],,15.0,15.0,800000.0
+Dental,33,Manav Rachna International Institute of Research and Studies,Haryana,Faridabad,54.86,2023-24,UG [5 Years Program(s)],,89.0,28.0,456000.0
+Dental,34,"Government Dental College, Bangalore",Karnataka,Bengaluru,54.8,2023-24,PG [3 Year Program(s)],,27.0,25.0,980000.0
+Dental,34,"Government Dental College, Bangalore",Karnataka,Bengaluru,54.8,2023-24,UG [5 Years Program(s)],,45.0,40.0,535000.0
+Dental,35,Government Dental College,Kerala,Thiruvananthapuram,54.73,2023-24,PG [3 Year Program(s)],,25.0,21.0,840000.0
+Dental,36,Datta Meghe Institute of Higher Education and Research,Maharashtra,Wardha,54.29,2023-24,PG [3 Year Program(s)],,66.0,52.0,2280000.0
+Dental,36,Datta Meghe Institute of Higher Education and Research,Maharashtra,Wardha,54.29,2023-24,UG [5 Years Program(s)],,150.0,120.0,1560000.0
+Dental,37,Government Dental College,Gujarat,Ahmedabad,54.13,2023-24,PG [3 Year Program(s)],,36.0,36.0,1274000.0
+Dental,38,Government Dental College,Kerala,Kozhikode,52.97,2023-24,PG [3 Year Program(s)],,18.0,17.0,3500000.0
+Dental,38,Government Dental College,Kerala,Kozhikode,52.97,2023-24,UG [5 Years Program(s)],,48.0,21.0,720000.0
+Dental,39,SRM Kattankulathur Dental College,Tamil Nadu,Chennai,52.88,2023-24,PG [3 Year Program(s)],,18.0,18.0,1440000.0
+Dental,39,SRM Kattankulathur Dental College,Tamil Nadu,Chennai,52.88,2023-24,UG [5 Years Program(s)],,85.0,75.0,705000.0
+Dental,40,K L E Society's Institute of Dental Sciences,Karnataka,Bengaluru,52.19,2023-24,PG [3 Year Program(s)],,21.0,19.0,600000.0
+Dental,40,K L E Society's Institute of Dental Sciences,Karnataka,Bengaluru,52.19,2023-24,UG [5 Years Program(s)],,49.0,20.0,360000.0
+Engineering,1,Indian Institute of Technology- Madras,Tamil Nadu,Chennai,88.72,2023-24,PG [2 Year Program(s)],,471.0,448.0,1500000.0
+Engineering,1,Indian Institute of Technology- Madras,Tamil Nadu,Chennai,88.72,2023-24,PG [3 Year Program(s)],,129.0,63.0,1225000.0
+Engineering,1,Indian Institute of Technology- Madras,Tamil Nadu,Chennai,88.72,2023-24,UG [4 Years Program(s)],,714.0,549.0,1750000.0
+Engineering,1,Indian Institute of Technology- Madras,Tamil Nadu,Chennai,88.72,2023-24,UG [5 Years Program(s)],,244.0,215.0,1940000.0
+Engineering,2,Indian Institute of Technology- Delhi,Delhi,New Delhi,85.74,2023-24,PG [2 Year Program(s)],,666.0,538.0,1559000.0
+Engineering,2,Indian Institute of Technology- Delhi,Delhi,New Delhi,85.74,2023-24,UG [4 Years Program(s)],,946.0,711.0,1908000.0
+Engineering,2,Indian Institute of Technology- Delhi,Delhi,New Delhi,85.74,2023-24,UG [5 Years Program(s)],,118.0,99.0,2430000.0
+Engineering,3,Indian Institute of Technology- Bombay,Maharashtra,Mumbai,83.65,2023-24,PG [2 Year Program(s)],,851.0,552.0,1540000.0
+Engineering,3,Indian Institute of Technology- Bombay,Maharashtra,Mumbai,83.65,2023-24,UG [4 Years Program(s)],,990.0,731.0,1961000.0
+Engineering,3,Indian Institute of Technology- Bombay,Maharashtra,Mumbai,83.65,2023-24,UG [5 Years Program(s)],,182.0,156.0,1925000.0
+Engineering,4,Indian Institute of Technology- Kanpur,Uttar Pradesh,Kanpur,81.82,2023-24,PG [2 Year Program(s)],,821.0,513.0,1470000.0
+Engineering,4,Indian Institute of Technology- Kanpur,Uttar Pradesh,Kanpur,81.82,2023-24,UG [4 Years Program(s)],,1133.0,754.0,1940000.0
+Engineering,5,Indian Institute of Technology- Kharagpur,West Bengal,Kharagpur,78.69,2023-24,PG [2 Year Program(s)],,815.0,471.0,1400000.0
+Engineering,5,Indian Institute of Technology- Kharagpur,West Bengal,Kharagpur,78.69,2023-24,UG [4 Years Program(s)],,679.0,517.0,1976000.0
+Engineering,5,Indian Institute of Technology- Kharagpur,West Bengal,Kharagpur,78.69,2023-24,UG [5 Years Program(s)],,638.0,442.0,2043000.0
+Engineering,6,Indian Institute of Technology- Roorkee,Uttarakhand,Roorkee,75.44,2023-24,PG [2 Year Program(s)],,648.0,247.0,1100000.0
+Engineering,6,Indian Institute of Technology- Roorkee,Uttarakhand,Roorkee,75.44,2023-24,PG [5 Year Program(s)],,128.0,68.0,2100000.0
+Engineering,6,Indian Institute of Technology- Roorkee,Uttarakhand,Roorkee,75.44,2023-24,UG [4 Years Program(s)],,1102.0,769.0,1700000.0
+Engineering,7,Indian Institute of Technology- Hyderabad,Telangana,Hyderabad,72.31,2023-24,PG [2 Year Program(s)],,320.0,283.0,1450000.0
+Engineering,7,Indian Institute of Technology- Hyderabad,Telangana,Hyderabad,72.31,2023-24,PG [3 Year Program(s)],,36.0,28.0,3460000.0
+Engineering,7,Indian Institute of Technology- Hyderabad,Telangana,Hyderabad,72.31,2023-24,UG [4 Years Program(s)],,399.0,306.0,2100000.0
+Engineering,8,Indian Institute of Technology- Guwahati,Assam,Guwahati,72.24,2023-24,PG [2 Year Program(s)],,599.0,440.0,1100000.0
+Engineering,8,Indian Institute of Technology- Guwahati,Assam,Guwahati,72.24,2023-24,UG [4 Years Program(s)],,856.0,658.0,1948000.0
+Engineering,9,National Institute of Technology- Tiruchirappalli,Tamil Nadu,Tiruchirappalli,68.14,2023-24,PG [2 Year Program(s)],,523.0,472.0,950000.0
+Engineering,9,National Institute of Technology- Tiruchirappalli,Tamil Nadu,Tiruchirappalli,68.14,2023-24,UG [4 Years Program(s)],,1029.0,791.0,1435000.0
+Engineering,10,Indian Institute of Technology- (Banaras Hindu University) Varanasi,Uttar Pradesh,Varanasi,67.24,2023-24,PG [2 Year Program(s)],,263.0,196.0,1000000.0
+Engineering,10,Indian Institute of Technology- (Banaras Hindu University) Varanasi,Uttar Pradesh,Varanasi,67.24,2023-24,UG [4 Years Program(s)],,1073.0,996.0,2000000.0
+Engineering,10,Indian Institute of Technology- (Banaras Hindu University) Varanasi,Uttar Pradesh,Varanasi,67.24,2023-24,UG [5 Years Program(s)],,319.0,273.0,2116000.0
+Engineering,11,"Birla Institute of Technology and Science, Pilani",Rajasthan,Pilani,67.02,2023-24,PG [2 Year Program(s)],,622.0,596.0,1573280.0
+Engineering,11,"Birla Institute of Technology and Science, Pilani",Rajasthan,Pilani,67.02,2023-24,UG [4 Years Program(s)],,2759.0,2458.0,1800000.0
+Engineering,12,Indian Institute of Technology- Indore,Madhya Pradesh,Indore,66.65,2023-24,PG [2 Year Program(s)],,153.0,63.0,1000000.0
+Engineering,12,Indian Institute of Technology- Indore,Madhya Pradesh,Indore,66.65,2023-24,UG [4 Years Program(s)],,331.0,234.0,1948000.0
+Engineering,13,National Institute of Technology- Rourkela,Odisha,Rourkela,66.62,2023-24,PG [2 Year Program(s)],,467.0,342.0,1150000.0
+Engineering,13,National Institute of Technology- Rourkela,Odisha,Rourkela,66.62,2023-24,PG [5 Year Program(s)],,39.0,33.0,1000000.0
+Engineering,13,National Institute of Technology- Rourkela,Odisha,Rourkela,66.62,2023-24,UG [4 Years Program(s)],,1011.0,821.0,1525000.0
+Engineering,14,S. R. M. Institute of Science and Technology,Tamil Nadu,Chennai,65.83,2023-24,PG [2 Year Program(s)],,297.0,278.0,612000.0
+Engineering,14,S. R. M. Institute of Science and Technology,Tamil Nadu,Chennai,65.83,2023-24,PG [5 Year Program(s)],,0.0,0.0,0.0
+Engineering,14,S. R. M. Institute of Science and Technology,Tamil Nadu,Chennai,65.83,2023-24,UG [4 Years Program(s)],,4552.0,4210.0,620000.0
+Engineering,15,Indian Institute of Technology (Indian School of Mines) Dhanbad,Jharkhand,Dhanbad,65.37,2023-24,PG [2 Year Program(s)],,324.0,229.0,1000000.0
+Engineering,15,Indian Institute of Technology (Indian School of Mines) Dhanbad,Jharkhand,Dhanbad,65.37,2023-24,UG [4 Years Program(s)],,884.0,714.0,1200000.0
+Engineering,15,Indian Institute of Technology (Indian School of Mines) Dhanbad,Jharkhand,Dhanbad,65.37,2023-24,UG [5 Years Program(s)],,79.0,68.0,1443000.0
+Engineering,16,Vellore Institute of Technology,Tamil Nadu,Vellore,65.25,2023-24,PG [2 Year Program(s)],,1270.0,884.0,915000.0
+Engineering,16,Vellore Institute of Technology,Tamil Nadu,Vellore,65.25,2023-24,PG [5 Year Program(s)],,918.0,679.0,870000.0
+Engineering,16,Vellore Institute of Technology,Tamil Nadu,Vellore,65.25,2023-24,UG [4 Years Program(s)],,5964.0,4031.0,899000.0
+Engineering,17,"National Institute of Technology Karnataka, Surathkal",Karnataka,Surathkal,64.59,2023-24,PG [2 Year Program(s)],,665.0,550.0,1000000.0
+Engineering,17,"National Institute of Technology Karnataka, Surathkal",Karnataka,Surathkal,64.59,2023-24,UG [4 Years Program(s)],,986.0,756.0,1400000.0
+Engineering,18,Jadavpur University,West Bengal,Kolkata,64.54,2023-24,PG [2 Year Program(s)],,311.0,169.0,925000.0
+Engineering,18,Jadavpur University,West Bengal,Kolkata,64.54,2023-24,UG [4 Years Program(s)],,868.0,790.0,1050000.0
+Engineering,19,Indian Institute of Technology- Patna,Bihar,Patna,64.52,2023-24,PG [2 Year Program(s)],,130.0,120.0,2800000.0
+Engineering,19,Indian Institute of Technology- Patna,Bihar,Patna,64.52,2023-24,UG [4 Years Program(s)],,335.0,320.0,2250000.0
+Engineering,20,Anna University,Tamil Nadu,Chennai,63.51,2023-24,PG [2 Year Program(s)],,538.0,324.0,750000.0
+Engineering,20,Anna University,Tamil Nadu,Chennai,63.51,2023-24,UG [4 Years Program(s)],,1588.0,1149.0,800000.0
+Engineering,21,National Institute of Technology- Calicut,Kerala,Kozhikode,63.05,2023-24,PG [2 Year Program(s)],,430.0,381.0,1152018.0
+Engineering,21,National Institute of Technology- Calicut,Kerala,Kozhikode,63.05,2023-24,UG [4 Years Program(s)],,902.0,799.0,1250000.0
+Engineering,22,Shiksha 'O' Anusandhan,Odisha,Bhubaneswar,62.58,2023-24,PG [2 Year Program(s)],,51.0,46.0,525000.0
+Engineering,22,Shiksha 'O' Anusandhan,Odisha,Bhubaneswar,62.58,2023-24,UG [4 Years Program(s)],,1903.0,1802.0,600000.0
+Engineering,23,Amrita School of Engineering,Tamil Nadu,Coimbatore,62.46,2023-24,PG [2 Year Program(s)],,548.0,332.0,1257000.0
+Engineering,23,Amrita School of Engineering,Tamil Nadu,Coimbatore,62.46,2023-24,UG [4 Years Program(s)],,5268.0,3758.0,1550000.0
+Engineering,24,"Jamia Millia Islamia, New Delhi",Delhi,New Delhi,62.42,2023-24,PG [2 Year Program(s)],,171.0,138.0,1500000.0
+Engineering,24,"Jamia Millia Islamia, New Delhi",Delhi,New Delhi,62.42,2023-24,UG [4 Years Program(s)],,351.0,297.0,1378000.0
+Engineering,25,Indian Institute of Technology- Gandhinagar,Gujarat,Gandhinagar,62.31,2023-24,PG [2 Year Program(s)],,73.0,52.0,1350000.0
+Engineering,25,Indian Institute of Technology- Gandhinagar,Gujarat,Gandhinagar,62.31,2023-24,UG [4 Years Program(s)],,214.0,160.0,1400000.0
+Engineering,25,Indian Institute of Technology- Gandhinagar,Gujarat,Gandhinagar,62.31,2023-24,UG [5 Years Program(s)],,0.0,0.0,0.0
+Engineering,26,Indian Institute of Technology- Mandi,Himachal Pradesh,Mandi,62.08,2023-24,PG [2 Year Program(s)],,251.0,95.0,715000.0
+Engineering,26,Indian Institute of Technology- Mandi,Himachal Pradesh,Mandi,62.08,2023-24,UG [4 Years Program(s)],,280.0,196.0,1850000.0
+Engineering,26,Indian Institute of Technology- Mandi,Himachal Pradesh,Mandi,62.08,2023-24,UG [5 Years Program(s)],,6.0,1.0,4400000.0
+Engineering,27,Indian Institute of Technology- Jodhpur,Rajasthan,Jodhpur,61.31,2023-24,PG [2 Year Program(s)],,159.0,122.0,800013.0
+Engineering,27,Indian Institute of Technology- Jodhpur,Rajasthan,Jodhpur,61.31,2023-24,PG [3 Year Program(s)],,0.0,0.0,0.0
+Engineering,27,Indian Institute of Technology- Jodhpur,Rajasthan,Jodhpur,61.31,2023-24,UG [4 Years Program(s)],,418.0,322.0,1200000.0
+Engineering,28,National Institute of Technology- Warangal,Telangana,Warangal,61.05,2023-24,PG [2 Year Program(s)],,539.0,356.0,1000000.0
+Engineering,28,National Institute of Technology- Warangal,Telangana,Warangal,61.05,2023-24,UG [4 Years Program(s)],,909.0,650.0,1420000.0
+Engineering,29,Thapar Institute of Engineering and Technology (Deemed-to-be-university),Punjab,Patiala,60.97,2023-24,PG [2 Year Program(s)],,183.0,125.0,1050000.0
+Engineering,29,Thapar Institute of Engineering and Technology (Deemed-to-be-university),Punjab,Patiala,60.97,2023-24,UG [4 Years Program(s)],,2082.0,1708.0,1000000.0
+Engineering,30,Delhi Technological University,Delhi,New Delhi,60.85,2023-24,PG [2 Year Program(s)],,213.0,171.0,1300000.0
+Engineering,30,Delhi Technological University,Delhi,New Delhi,60.85,2023-24,UG [4 Years Program(s)],,2412.0,1759.0,1325000.0
+Engineering,31,Chandigarh University,Punjab,Mohali,60.46,2023-24,PG [2 Year Program(s)],,221.0,150.0,720000.0
+Engineering,31,Chandigarh University,Punjab,Mohali,60.46,2023-24,UG [4 Years Program(s)],,2933.0,1087.0,800000.0
+Engineering,31,Chandigarh University,Punjab,Mohali,60.46,2023-24,UG [5 Years Program(s)],,0.0,0.0,0.0
+Engineering,32,Indian Institute of Technology- Ropar,Punjab,Rupnagar,59.66,2023-24,PG [2 Year Program(s)],,206.0,72.0,1000000.0
+Engineering,32,Indian Institute of Technology- Ropar,Punjab,Rupnagar,59.66,2023-24,PG [5 Year Program(s)],,12.0,8.0,1219000.0
+Engineering,32,Indian Institute of Technology- Ropar,Punjab,Rupnagar,59.66,2023-24,UG [4 Years Program(s)],,321.0,220.0,1697000.0
+Engineering,33,Kalasalingam Academy of Research and Higher Education,Tamil Nadu,Krishnan Koil,59.03,2023-24,PG [2 Year Program(s)],,208.0,200.0,1320000.0
+Engineering,33,Kalasalingam Academy of Research and Higher Education,Tamil Nadu,Krishnan Koil,59.03,2023-24,UG [4 Years Program(s)],,2952.0,2718.0,1220000.0
+Engineering,34,Aligarh Muslim University,Uttar Pradesh,Aligarh,59.01,2023-24,PG [2 Year Program(s)],,173.0,24.0,625000.0
+Engineering,34,Aligarh Muslim University,Uttar Pradesh,Aligarh,59.01,2023-24,UG [4 Years Program(s)],,352.0,196.0,600000.0
+Engineering,35,Koneru Lakshmaiah Education Foundation University (K L College of Engineering),Andhra Pradesh,Vaddeswaram,58.95,2023-24,PG [2 Year Program(s)],,214.0,84.0,800000.0
+Engineering,35,Koneru Lakshmaiah Education Foundation University (K L College of Engineering),Andhra Pradesh,Vaddeswaram,58.95,2023-24,UG [4 Years Program(s)],,2674.0,1854.0,852000.0
+Engineering,36,Kalinga Institute of Industrial Technology,Odisha,Bhubaneswar,58.79,2023-24,PG [2 Year Program(s)],,120.0,115.0,800000.0
+Engineering,36,Kalinga Institute of Industrial Technology,Odisha,Bhubaneswar,58.79,2023-24,UG [4 Years Program(s)],,3547.0,1236.0,740000.0
+Engineering,37,"Amity University, North Twenty Four Parganas",Uttar Pradesh,Gautam Budh Nagar,58.53,2023-24,PG [2 Year Program(s)],,290.0,246.0,800000.0
+Engineering,37,"Amity University, North Twenty Four Parganas",Uttar Pradesh,Gautam Budh Nagar,58.53,2023-24,PG [5 Year Program(s)],,116.0,92.0,1000000.0
+Engineering,37,"Amity University, North Twenty Four Parganas",Uttar Pradesh,Gautam Budh Nagar,58.53,2023-24,UG [4 Years Program(s)],,2066.0,1178.0,1200000.0
+Engineering,38,International Institute of Information Technology Hyderabad,Telangana,Hyderabad,58.45,2023-24,PG [2 Year Program(s)],,145.0,136.0,2300000.0
+Engineering,38,International Institute of Information Technology Hyderabad,Telangana,Hyderabad,58.45,2023-24,UG [4 Years Program(s)],,188.0,177.0,3200000.0
+Engineering,38,International Institute of Information Technology Hyderabad,Telangana,Hyderabad,58.45,2023-24,UG [5 Years Program(s)],,38.0,35.0,3000000.0
+Engineering,39,Indian Institute of Technology- Bhubaneswar,Odisha,Bhubaneswar,58.22,2023-24,PG [2 Year Program(s)],,142.0,115.0,800000.0
+Engineering,39,Indian Institute of Technology- Bhubaneswar,Odisha,Bhubaneswar,58.22,2023-24,UG [4 Years Program(s)],,321.0,254.0,1400000.0
+Engineering,39,Indian Institute of Technology- Bhubaneswar,Odisha,Bhubaneswar,58.22,2023-24,UG [5 Years Program(s)],,99.0,74.0,1338000.0
+Engineering,40,Shanmugha Arts Science Technology and Research Academy (SASTRA),Tamil Nadu,Thanjavur,58.02,2023-24,PG [2 Year Program(s)],,80.0,49.0,550000.0
+Engineering,40,Shanmugha Arts Science Technology and Research Academy (SASTRA),Tamil Nadu,Thanjavur,58.02,2023-24,PG [5 Year Program(s)],,20.0,10.0,550000.0
+Engineering,40,Shanmugha Arts Science Technology and Research Academy (SASTRA),Tamil Nadu,Thanjavur,58.02,2023-24,UG [4 Years Program(s)],,1823.0,1621.0,760000.0
+Engineering,41,Institute of Chemical Technology,Maharashtra,Mumbai,57.96,2023-24,PG [2 Year Program(s)],,227.0,169.0,700000.0
+Engineering,41,Institute of Chemical Technology,Maharashtra,Mumbai,57.96,2023-24,PG [5 Year Program(s)],,116.0,31.0,750000.0
+Engineering,41,Institute of Chemical Technology,Maharashtra,Mumbai,57.96,2023-24,UG [4 Years Program(s)],,233.0,121.0,900000.0
+Engineering,42,"Malaviya National Institute of Technology, Jaipur",Rajasthan,Jaipur,57.45,2023-24,PG [2 Year Program(s)],,260.0,195.0,800000.0
+Engineering,42,"Malaviya National Institute of Technology, Jaipur",Rajasthan,Jaipur,57.45,2023-24,UG [4 Years Program(s)],,733.0,603.0,1100000.0
+Engineering,43,University of Petroleum and Energy Studies,Uttarakhand,Dehradun,56.99,2023-24,PG [2 Year Program(s)],,354.0,310.0,1200000.0
+Engineering,43,University of Petroleum and Energy Studies,Uttarakhand,Dehradun,56.99,2023-24,UG [4 Years Program(s)],,2544.0,2316.0,1300000.0
+Engineering,44,"Visvesvaraya National Institute of Technology, Nagpur (Deemed University)",Maharashtra,Nagpur,56.58,2023-24,PG [2 Year Program(s)],,239.0,170.0,750000.0
+Engineering,44,"Visvesvaraya National Institute of Technology, Nagpur (Deemed University)",Maharashtra,Nagpur,56.58,2023-24,UG [4 Years Program(s)],,756.0,575.0,900000.0
+Engineering,45,Saveetha Institute of Medical and Technical Sciences,Tamil Nadu,Chennai,56.55,2023-24,PG [2 Year Program(s)],,29.0,27.0,450000.0
+Engineering,45,Saveetha Institute of Medical and Technical Sciences,Tamil Nadu,Chennai,56.55,2023-24,UG [4 Years Program(s)],,1269.0,786.0,472000.0
+Engineering,46,Symbiosis International,Maharashtra,Pune,56.22,2023-24,PG [2 Year Program(s)],,63.0,56.0,860000.0
+Engineering,46,Symbiosis International,Maharashtra,Pune,56.22,2023-24,UG [4 Years Program(s)],,452.0,406.0,950000.0
+Engineering,47,Sri Sivasubramaniya Nadar College of Engineering,Tamil Nadu,Kalavakkam,56.08,2023-24,PG [2 Year Program(s)],,39.0,36.0,620000.0
+Engineering,47,Sri Sivasubramaniya Nadar College of Engineering,Tamil Nadu,Kalavakkam,56.08,2023-24,PG [5 Year Program(s)],,0.0,0.0,0.0
+Engineering,47,Sri Sivasubramaniya Nadar College of Engineering,Tamil Nadu,Kalavakkam,56.08,2023-24,UG [4 Years Program(s)],,803.0,624.0,860000.0
+Engineering,48,Lovely Professional University,Punjab,Phagwara,55.99,2023-24,PG [2 Year Program(s)],,82.0,68.0,840000.0
+Engineering,48,Lovely Professional University,Punjab,Phagwara,55.99,2023-24,PG [5 Year Program(s)],,15.0,15.0,900000.0
+Engineering,48,Lovely Professional University,Punjab,Phagwara,55.99,2023-24,UG [4 Years Program(s)],,3891.0,2754.0,800000.0
+Engineering,49,National Institute of Technology- Durgapur,West Bengal,Durgapur,55.94,2023-24,PG [2 Year Program(s)],,192.0,90.0,1121000.0
+Engineering,49,National Institute of Technology- Durgapur,West Bengal,Durgapur,55.94,2023-24,UG [4 Years Program(s)],,810.0,566.0,1124000.0
+Engineering,49,National Institute of Technology- Durgapur,West Bengal,Durgapur,55.94,2023-24,UG [5 Years Program(s)],,9.0,7.0,681000.0
+Engineering,50,National Institute of Technology- Silchar,Assam,Silchar,55.91,2023-24,PG [2 Year Program(s)],,159.0,89.0,600000.0
+Engineering,50,National Institute of Technology- Silchar,Assam,Silchar,55.91,2023-24,UG [4 Years Program(s)],,823.0,520.0,1100000.0
+Engineering,51,Birla Institute of Technology,Jharkhand,Ranchi,55.28,2023-24,PG [2 Year Program(s)],,190.0,66.0,672000.0
+Engineering,51,Birla Institute of Technology,Jharkhand,Ranchi,55.28,2023-24,UG [4 Years Program(s)],,694.0,512.0,952576.0
+Engineering,52,Graphic Era University,Uttarakhand,Dehradun,55.26,2023-24,PG [2 Year Program(s)],,26.0,11.0,650000.0
+Engineering,52,Graphic Era University,Uttarakhand,Dehradun,55.26,2023-24,UG [4 Years Program(s)],,916.0,452.0,500000.0
+Engineering,53,National Institute of Technology- Patna,Bihar,Patna,53.89,2023-24,PG [2 Year Program(s)],,121.0,21.0,680000.0
+Engineering,53,National Institute of Technology- Patna,Bihar,Patna,53.89,2023-24,UG [4 Years Program(s)],,738.0,591.0,700000.0
+Engineering,54,"Indian Institute of Engineering Science and Technology, Shibpur",West Bengal,Howrah,53.63,2023-24,PG [2 Year Program(s)],,254.0,170.0,1500000.0
+Engineering,54,"Indian Institute of Engineering Science and Technology, Shibpur",West Bengal,Howrah,53.63,2023-24,UG [4 Years Program(s)],,1234.0,1060.0,1700000.0
+Engineering,55,"Dr. B R Ambedkar National Institute of Technology, Jalandhar",Punjab,Jalandhar,53.38,2023-24,PG [2 Year Program(s)],,292.0,121.0,1600000.0
+Engineering,55,"Dr. B R Ambedkar National Institute of Technology, Jalandhar",Punjab,Jalandhar,53.38,2023-24,UG [4 Years Program(s)],,1082.0,720.0,794000.0
+Engineering,56,Indian Institute of Technology- Jammu,Jammu and Kashmir,Jammu,53.08,2023-24,PG [2 Year Program(s)],,69.0,48.0,915000.0
+Engineering,56,Indian Institute of Technology- Jammu,Jammu and Kashmir,Jammu,53.08,2023-24,PG [3 Year Program(s)],,3.0,3.0,1900000.0
+Engineering,56,Indian Institute of Technology- Jammu,Jammu and Kashmir,Jammu,53.08,2023-24,UG [4 Years Program(s)],,178.0,113.0,1169500.0
+Engineering,57,Indian Institute of Technology- Tirupati,Andhra Pradesh,Tirupati,52.73,2023-24,PG [2 Year Program(s)],,78.0,55.0,800000.0
+Engineering,57,Indian Institute of Technology- Tirupati,Andhra Pradesh,Tirupati,52.73,2023-24,UG [4 Years Program(s)],,205.0,114.0,1100000.0
+Engineering,58,"Manipal University, Jaipur",Rajasthan,Jaipur,52.69,2023-24,PG [2 Year Program(s)],,13.0,12.0,745000.0
+Engineering,58,"Manipal University, Jaipur",Rajasthan,Jaipur,52.69,2023-24,UG [4 Years Program(s)],,1563.0,1070.0,788000.0
+Engineering,59,Manipal Institute of Technology,Karnataka,Manipal,52.55,2023-24,PG [2 Year Program(s)],,231.0,196.0,750000.0
+Engineering,59,Manipal Institute of Technology,Karnataka,Manipal,52.55,2023-24,UG [4 Years Program(s)],,1755.0,1140.0,850000.0
+Engineering,60,Madan Mohan Malaviya University of Technology,Uttar Pradesh,Gorakhpur,52.45,2023-24,PG [2 Year Program(s)],,108.0,95.0,1500000.0
+Engineering,60,Madan Mohan Malaviya University of Technology,Uttar Pradesh,Gorakhpur,52.45,2023-24,UG [4 Years Program(s)],,792.0,574.0,1350000.0
+Engineering,61,Indian Institute of Science Education and Research- Thiruvananthapuram,Kerala,Thiruvananthapuram,52.44,2023-24,PG [2 Year Program(s)],,114.0,79.0,820000.0
+Engineering,61,Indian Institute of Science Education and Research- Thiruvananthapuram,Kerala,Thiruvananthapuram,52.44,2023-24,UG [4 Years Program(s)],,116.0,89.0,1164636.0
+Engineering,61,Indian Institute of Science Education and Research- Thiruvananthapuram,Kerala,Thiruvananthapuram,52.44,2023-24,UG [5 Years Program(s)],,22.0,18.0,1164636.0
+Engineering,62,Motilal Nehru National Institute of Technology,Uttar Pradesh,Prayagraj,52.15,2023-24,PG [2 Year Program(s)],,342.0,294.0,800000.0
+Engineering,62,Motilal Nehru National Institute of Technology,Uttar Pradesh,Prayagraj,52.15,2023-24,UG [4 Years Program(s)],,1050.0,968.0,1200000.0
+Engineering,63,Indraprastha Institute of Information Technology-New Delhi,Delhi,New Delhi,51.33,2023-24,PG [2 Year Program(s)],,195.0,177.0,1734000.0
+Engineering,63,Indraprastha Institute of Information Technology-New Delhi,Delhi,New Delhi,51.33,2023-24,UG [4 Years Program(s)],,444.0,420.0,1800000.0
+Engineering,64,Indian Institute of Technology- Palakkad,Kerala,Palakkad,51.2,2023-24,PG [2 Year Program(s)],,87.0,48.0,900000.0
+Engineering,64,Indian Institute of Technology- Palakkad,Kerala,Palakkad,51.2,2023-24,UG [4 Years Program(s)],,156.0,105.0,1200000.0
+Engineering,65,National Institute of Technology- Delhi,Delhi,Delhi,50.79,2023-24,PG [2 Year Program(s)],,62.0,32.0,1325000.0
+Engineering,65,National Institute of Technology- Delhi,Delhi,Delhi,50.79,2023-24,UG [4 Years Program(s)],,161.0,134.0,1590000.0
+Engineering,66,Sardar Vallabhbhai National Institute of Technology,Gujarat,SURAT,50.77,2023-24,PG [2 Year Program(s)],,259.0,196.0,800000.0
+Engineering,66,Sardar Vallabhbhai National Institute of Technology,Gujarat,SURAT,50.77,2023-24,UG [4 Years Program(s)],,808.0,596.0,968000.0
+Engineering,67,Sathyabama Institute of Science and Technology,Tamil Nadu,Chennai,50.64,2023-24,PG [2 Year Program(s)],,138.0,82.0,600000.0
+Engineering,67,PSG College of Technology,Tamil Nadu,Coimbatore,50.64,2023-24,PG [2 Year Program(s)],,120.0,91.0,700000.0
+Engineering,67,PSG College of Technology,Tamil Nadu,Coimbatore,50.64,2023-24,UG [4 Years Program(s)],,1114.0,831.0,700000.0
+Engineering,67,Sathyabama Institute of Science and Technology,Tamil Nadu,Chennai,50.64,2023-24,UG [4 Years Program(s)],,2801.0,1502.0,600000.0
+Engineering,67,PSG College of Technology,Tamil Nadu,Coimbatore,50.64,2023-24,UG [5 Years Program(s)],,171.0,136.0,600000.0
+Engineering,69,International Institute of Information Technology Bangalore,Karnataka,Bengaluru,50.46,2023-24,PG [2 Year Program(s)],,174.0,174.0,2000000.0
+Engineering,69,International Institute of Information Technology Bangalore,Karnataka,Bengaluru,50.46,2023-24,PG [5 Year Program(s)],,120.0,107.0,2937000.0
+Engineering,70,Netaji Subhas University of Technology (NSUT),Delhi,Delhi,50.43,2023-24,PG [2 Year Program(s)],,127.0,70.0,1350000.0
+Engineering,70,Netaji Subhas University of Technology (NSUT),Delhi,Delhi,50.43,2023-24,UG [4 Years Program(s)],,1725.0,1362.0,1650000.0
+Engineering,71,Banasthali Vidyapith,Rajasthan,Banasthali,50.38,2023-24,PG [2 Year Program(s)],,16.0,7.0,820000.0
+Engineering,71,Banasthali Vidyapith,Rajasthan,Banasthali,50.38,2023-24,UG [4 Years Program(s)],,804.0,692.0,950000.0
+Engineering,72,Indian Institute of Technology- Bhilai,Chhattisgarh,Durg,50.37,2023-24,PG [2 Year Program(s)],,18.0,14.0,1020000.0
+Engineering,72,Indian Institute of Technology- Bhilai,Chhattisgarh,Durg,50.37,2023-24,UG [4 Years Program(s)],,162.0,116.0,1200000.0
+Engineering,73,National Institute of Technology- Srinagar,Jammu and Kashmir,Srinagar,50.23,2023-24,PG [2 Year Program(s)],,208.0,56.0,950000.0
+Engineering,73,National Institute of Technology- Srinagar,Jammu and Kashmir,Srinagar,50.23,2023-24,UG [4 Years Program(s)],,713.0,413.0,1100000.0
+Engineering,74,University of Hyderabad,Telangana,Hyderabad,49.36,2023-24,PG [2 Year Program(s)],,78.0,51.0,975000.0
+Engineering,74,University of Hyderabad,Telangana,Hyderabad,49.36,2023-24,PG [5 Year Program(s)],,16.0,16.0,1500000.0
+Engineering,75,M. S. Ramaiah Institute of Technology-Bangalore,Karnataka,Bengaluru,49.26,2023-24,PG [2 Year Program(s)],,98.0,84.0,610000.0
+Engineering,75,M. S. Ramaiah Institute of Technology-Bangalore,Karnataka,Bengaluru,49.26,2023-24,UG [4 Years Program(s)],,1075.0,787.0,750000.0
+Engineering,76,Christ University,Karnataka,Bengaluru,49.03,2023-24,PG [2 Year Program(s)],,46.0,35.0,896000.0
+Engineering,76,Christ University,Karnataka,Bengaluru,49.03,2023-24,UG [4 Years Program(s)],,465.0,86.0,500000.0
+Engineering,77,Indian Institute of Technology- Dharwad,Karnataka,Dharwad,48.61,2023-24,PG [2 Year Program(s)],,10.0,7.0,800000.0
+Engineering,77,Indian Institute of Technology- Dharwad,Karnataka,Dharwad,48.61,2023-24,PG [3 Year Program(s)],,11.0,6.0,1075000.0
+Engineering,77,Indian Institute of Technology- Dharwad,Karnataka,Dharwad,48.61,2023-24,UG [4 Years Program(s)],,154.0,95.0,1162000.0
+Engineering,77,Indian Institute of Technology- Dharwad,Karnataka,Dharwad,48.61,2023-24,UG [5 Years Program(s)],,0.0,0.0,0.0
+Engineering,78,Rajiv Gandhi Institute of Petroleum Technology,Uttar Pradesh,Amethi,48.52,2023-24,PG [2 Year Program(s)],,7.0,4.0,460000.0
+Engineering,78,Rajiv Gandhi Institute of Petroleum Technology,Uttar Pradesh,Amethi,48.52,2023-24,PG [5 Year Program(s)],,0.0,0.0,0.0
+Engineering,78,Rajiv Gandhi Institute of Petroleum Technology,Uttar Pradesh,Amethi,48.52,2023-24,UG [4 Years Program(s)],,157.0,82.0,900000.0
+Engineering,79,Sant Longowal Institute of Engineering and Technology-Sangrur,Punjab,Longowal,48.42,2023-24,PG [2 Year Program(s)],,32.0,7.0,360000.0
+Engineering,79,Sant Longowal Institute of Engineering and Technology-Sangrur,Punjab,Longowal,48.42,2023-24,UG [4 Years Program(s)],,593.0,320.0,400000.0
+Engineering,80,"Vignan's Foundation for Science, Technology and Research",Andhra Pradesh,Guntur,48.27,2023-24,PG [2 Year Program(s)],,114.0,94.0,620000.0
+Engineering,80,"Vignan's Foundation for Science, Technology and Research",Andhra Pradesh,Guntur,48.27,2023-24,UG [4 Years Program(s)],,1594.0,691.0,336000.0
+Engineering,81,Maulana Azad National Institute of Technology,Madhya Pradesh,Bhopal,48.26,2023-24,PG [2 Year Program(s)],,246.0,147.0,1009000.0
+Engineering,81,Maulana Azad National Institute of Technology,Madhya Pradesh,Bhopal,48.26,2023-24,PG [5 Year Program(s)],,0.0,0.0,0.0
+Engineering,81,Maulana Azad National Institute of Technology,Madhya Pradesh,Bhopal,48.26,2023-24,UG [4 Years Program(s)],,963.0,863.0,1100000.0
+Engineering,82,National Institute of Technology- Jamshedpur,Jharkhand,Jamshedpur,48.25,2023-24,PG [2 Year Program(s)],,198.0,128.0,960000.0
+Engineering,82,National Institute of Technology- Jamshedpur,Jharkhand,Jamshedpur,48.25,2023-24,UG [4 Years Program(s)],,740.0,701.0,1080000.0
+Engineering,83,National Institute of Technology- Meghalaya,Meghalaya,Shillong,48.21,2023-24,PG [2 Year Program(s)],,9.0,5.0,750000.0
+Engineering,83,National Institute of Technology- Meghalaya,Meghalaya,Shillong,48.21,2023-24,UG [4 Years Program(s)],,140.0,112.0,1050000.0
+Engineering,84,"Jain University, Bangalore",Karnataka,Bengaluru,48.01,2023-24,PG [2 Year Program(s)],,53.0,48.0,800000.0
+Engineering,84,"Jain University, Bangalore",Karnataka,Bengaluru,48.01,2023-24,UG [4 Years Program(s)],,891.0,344.0,756000.0
+Engineering,85,National Institute of Technology- Kurukshetra,Haryana,Kurukshetra,47.98,2023-24,PG [2 Year Program(s)],,290.0,247.0,901000.0
+Engineering,85,National Institute of Technology- Kurukshetra,Haryana,Kurukshetra,47.98,2023-24,UG [4 Years Program(s)],,1100.0,590.0,900000.0
+Engineering,86,National Institute of Technology- Raipur,Chhattisgarh,Raipur,47.59,2023-24,PG [2 Year Program(s)],,70.0,25.0,750000.0
+Engineering,86,National Institute of Technology- Raipur,Chhattisgarh,Raipur,47.59,2023-24,PG [3 Year Program(s)],,18.0,7.0,600000.0
+Engineering,86,National Institute of Technology- Raipur,Chhattisgarh,Raipur,47.59,2023-24,UG [4 Years Program(s)],,1000.0,724.0,850000.0
+Engineering,87,Vel Tech Rangarajan Dr. Sagunthala R and D Institute of Science and Technology,Tamil Nadu,Chennai,47.43,2023-24,PG [2 Year Program(s)],,90.0,80.0,520000.0
+Engineering,87,Vel Tech Rangarajan Dr. Sagunthala R and D Institute of Science and Technology,Tamil Nadu,Chennai,47.43,2023-24,UG [4 Years Program(s)],,1596.0,785.0,400000.0
+Engineering,88,College of Engineering Visakhapatnam,Andhra Pradesh,Visakhapatnam,47.37,2023-24,PG [2 Year Program(s)],,1012.0,998.0,2100000.0
+Engineering,88,College of Engineering Visakhapatnam,Andhra Pradesh,Visakhapatnam,47.37,2023-24,UG [4 Years Program(s)],,1026.0,584.0,1250000.0
+Engineering,89,Chitkara  University,Punjab,Rajpura,47.34,2023-24,PG [2 Year Program(s)],,8.0,8.0,750000.0
+Engineering,89,Chitkara  University,Punjab,Rajpura,47.34,2023-24,PG [3 Year Program(s)],,8.0,8.0,980000.0
+Engineering,89,Chitkara  University,Punjab,Rajpura,47.34,2023-24,UG [4 Years Program(s)],,1999.0,598.0,675000.0
+Engineering,90,COEP Technological University,Maharashtra,Pune,47.31,2023-24,PG [2 Year Program(s)],,217.0,140.0,660000.0
+Engineering,90,COEP Technological University,Maharashtra,Pune,47.31,2023-24,UG [4 Years Program(s)],,741.0,587.0,1050000.0
+Engineering,91,SR Engineering College,Telangana,Warangal,47.16,2023-24,PG [2 Year Program(s)],,72.0,64.0,600000.0
+Engineering,91,SR Engineering College,Telangana,Warangal,47.16,2023-24,UG [4 Years Program(s)],,873.0,708.0,600000.0
+Engineering,92,Defence Institute of Advanced Technology,Maharashtra,Pune,46.98,2023-24,PG [2 Year Program(s)],,220.0,156.0,929000.0
+Engineering,93,Punjab University,Chandigarh,Chandigarh,46.9,2023-24,PG [2 Year Program(s)],,46.0,32.0,725000.0
+Engineering,93,Punjab University,Chandigarh,Chandigarh,46.9,2023-24,UG [4 Years Program(s)],,625.0,489.0,825000.0
+Engineering,93,Punjab University,Chandigarh,Chandigarh,46.9,2023-24,UG [5 Years Program(s)],,27.0,21.0,750000.0
+Engineering,94,Jawaharlal Nehru Technological University,Telangana,Hyderabad,46.74,2023-24,PG [2 Year Program(s)],,695.0,592.0,971357.0
+Engineering,94,Jawaharlal Nehru Technological University,Telangana,Hyderabad,46.74,2023-24,UG [4 Years Program(s)],,1301.0,577.0,500000.0
+Engineering,95,C.V.Raman College of Engineering-Bhubaneswar,Odisha,Bhubaneswar,46.62,2023-24,PG [2 Year Program(s)],,258.0,246.0,970000.0
+Engineering,95,C.V.Raman College of Engineering-Bhubaneswar,Odisha,Bhubaneswar,46.62,2023-24,UG [4 Years Program(s)],,2316.0,2124.0,1290000.0
+Engineering,96,Atal Bihari Vajpayee Indian Institute of Information Technology and Management,Madhya Pradesh,Gwalior,46.25,2023-24,PG [2 Year Program(s)],,19.0,3.0,1000000.0
+Engineering,96,Atal Bihari Vajpayee Indian Institute of Information Technology and Management,Madhya Pradesh,Gwalior,46.25,2023-24,PG [5 Year Program(s)],,110.0,83.0,2200000.0
+Engineering,96,Atal Bihari Vajpayee Indian Institute of Information Technology and Management,Madhya Pradesh,Gwalior,46.25,2023-24,UG [4 Years Program(s)],,73.0,54.0,2200000.0
+Engineering,97,National Institute of Technology- Hamirpur,Himachal Pradesh,Hamirpur,46.1,2023-24,PG [2 Year Program(s)],,249.0,114.0,1029000.0
+Engineering,97,National Institute of Technology- Hamirpur,Himachal Pradesh,Hamirpur,46.1,2023-24,PG [5 Year Program(s)],,142.0,105.0,1451000.0
+Engineering,97,National Institute of Technology- Hamirpur,Himachal Pradesh,Hamirpur,46.1,2023-24,UG [4 Years Program(s)],,757.0,632.0,1005000.0
+Engineering,98,Pandit Deendayal Petroleum University,Gujarat,Gandhinagar,45.97,2023-24,PG [2 Year Program(s)],,238.0,68.0,1250000.0
+Engineering,98,Pandit Deendayal Petroleum University,Gujarat,Gandhinagar,45.97,2023-24,UG [4 Years Program(s)],,2224.0,1236.0,1284000.0
+Engineering,99,National Institute of Technology- Puducherry,Puducherry,Karaikal,45.83,2023-24,PG [2 Year Program(s)],,15.0,8.0,1237500.0
+Engineering,99,National Institute of Technology- Puducherry,Puducherry,Karaikal,45.83,2023-24,UG [4 Years Program(s)],,230.0,158.0,700000.0
+Engineering,100,Sri Krishna College of Engineering and Technology-Coimbatore,Tamil Nadu,Coimbatore,45.55,2023-24,PG [2 Year Program(s)],,32.0,30.0,620000.0
+Engineering,100,Sri Krishna College of Engineering and Technology-Coimbatore,Tamil Nadu,Coimbatore,45.55,2023-24,UG [4 Years Program(s)],,1084.0,991.0,700000.0
+Engineering,100,Sri Krishna College of Engineering and Technology-Coimbatore,Tamil Nadu,Coimbatore,45.55,2023-24,UG [5 Years Program(s)],,32.0,24.0,700000.0
+Law,1,National Law School of India University,Karnataka,Bengaluru,82.97,2023-24,PG [1 Year Program(s)],100.0,90.0,77.0,700000.0
+Law,1,National Law School of India University,Karnataka,Bengaluru,82.97,2023-24,PG [3 Year Program(s)],,0.0,0.0,0.0
+Law,1,National Law School of India University,Karnataka,Bengaluru,82.97,2023-24,UG [5 Years Program(s)],,85.0,70.0,1600000.0
+Law,2,National Law University-New Delhi,Delhi,New Delhi,80.0,2023-24,PG [1 Year Program(s)],81.0,72.0,48.0,1068000.0
+Law,3,Nalsar University of Law,Telangana,Hyderabad,79.5,2023-24,PG [1 Year Program(s)],82.0,67.0,59.0,780000.0
+Law,3,Nalsar University of Law,Telangana,Hyderabad,79.5,2023-24,PG [2 Year Program(s)],,0.0,0.0,0.0
+Law,3,Nalsar University of Law,Telangana,Hyderabad,79.5,2023-24,UG [5 Years Program(s)],,115.0,108.0,1750000.0
+Law,4,The West Bengal National University of Juridicial Sciences,West Bengal,Kolkata,79.39,2023-24,PG [1 Year Program(s)],100.0,100.0,75.0,1000000.0
+Law,4,The West Bengal National University of Juridicial Sciences,West Bengal,Kolkata,79.39,2023-24,UG [5 Years Program(s)],,127.0,122.0,2000000.0
+Law,5,Gujarat National Law University,Gujarat,Gandhinagar,76.23,2023-24,PG [1 Year Program(s)],67.0,67.0,43.0,620000.0
+Law,5,Gujarat National Law University,Gujarat,Gandhinagar,76.23,2023-24,UG [5 Years Program(s)],,181.0,175.0,1800000.0
+Law,6,Indian Institute of Technology- Kharagpur,West Bengal,Kharagpur,74.09,2023-24,PG [2 Year Program(s)],,34.0,22.0,800000.0
+Law,6,Indian Institute of Technology- Kharagpur,West Bengal,Kharagpur,74.09,2023-24,UG [3 Years Program(s)],,34.0,30.0,1500000.0
+Law,7,"Symbiosis Law School, Pune",Maharashtra,Pune,74.07,2023-24,PG [1 Year Program(s)],80.0,78.0,75.0,1200000.0
+Law,7,"Symbiosis Law School, Pune",Maharashtra,Pune,74.07,2023-24,UG [3 Years Program(s)],,69.0,64.0,1200000.0
+Law,7,"Symbiosis Law School, Pune",Maharashtra,Pune,74.07,2023-24,UG [5 Years Program(s)],,301.0,275.0,1800000.0
+Law,8,"Jamia Millia Islamia, New Delhi",Delhi,New Delhi,66.39,2023-24,PG [2 Year Program(s)],,31.0,25.0,1440000.0
+Law,8,"Jamia Millia Islamia, New Delhi",Delhi,New Delhi,66.39,2023-24,UG [5 Years Program(s)],,62.0,15.0,840000.0
+Law,9,Aligarh Muslim University,Uttar Pradesh,Aligarh,65.82,2023-24,PG [2 Year Program(s)],,35.0,15.0,1052000.0
+Law,9,Aligarh Muslim University,Uttar Pradesh,Aligarh,65.82,2023-24,UG [5 Years Program(s)],,218.0,182.0,1250000.0
+Law,10,Shiksha 'O' Anusandhan,Odisha,Bhubaneswar,65.36,2023-24,PG [1 Year Program(s)],100.0,93.0,88.0,540000.0
+Law,10,Shiksha 'O' Anusandhan,Odisha,Bhubaneswar,65.36,2023-24,UG [3 Years Program(s)],,52.0,38.0,540000.0
+Law,10,Shiksha 'O' Anusandhan,Odisha,Bhubaneswar,65.36,2023-24,UG [5 Years Program(s)],,144.0,81.0,540000.0
+Law,11,Shanmugha Arts Science Technology and Research Academy (SASTRA),Tamil Nadu,Thanjavur,65.29,2023-24,UG [5 Years Program(s)],,124.0,101.0,560000.0
+Law,12,Babasaheb Bhimrao Ambedkar University-Lucknow,Uttar Pradesh,Lucknow,65.26,2023-24,PG [2 Year Program(s)],,38.0,27.0,660150.0
+Law,13,Cochin University of Science and Technology,Kerala,Cochin,65.19,2023-24,PG [2 Year Program(s)],,45.0,15.0,360000.0
+Law,13,Cochin University of Science and Technology,Kerala,Cochin,65.19,2023-24,UG [5 Years Program(s)],,60.0,40.0,300000.0
+Law,14,Kalinga Institute of Industrial Technology,Odisha,Bhubaneswar,65.04,2023-24,PG [1 Year Program(s)],25.0,30.0,29.0,950000.0
+Law,14,Kalinga Institute of Industrial Technology,Odisha,Bhubaneswar,65.04,2023-24,UG [5 Years Program(s)],,268.0,87.0,650000.0
+Law,15,National Law University-New Delhi,Odisha,Cuttack,63.66,2023-24,PG [1 Year Program(s)],100.0,86.0,64.0,1200000.0
+Law,15,National Law University-New Delhi,Odisha,Cuttack,63.66,2023-24,UG [3 Years Program(s)],,0.0,0.0,0.0
+Law,15,National Law University-New Delhi,Odisha,Cuttack,63.66,2023-24,UG [5 Years Program(s)],,316.0,154.0,2800000.0
+Law,16,Dr. B. R. Ambedkar College of Law,Andhra Pradesh,Visakhapatnam,63.12,2023-24,PG [2 Year Program(s)],,12.0,8.0,480000.0
+Law,16,Dr. B. R. Ambedkar College of Law,Andhra Pradesh,Visakhapatnam,63.12,2023-24,UG [3 Years Program(s)],,40.0,24.0,410000.0
+Law,16,Dr. B. R. Ambedkar College of Law,Andhra Pradesh,Visakhapatnam,63.12,2023-24,UG [5 Years Program(s)],,67.0,42.0,430000.0
+Law,17,Chanakya National Law University,Bihar,Patna,62.4,2023-24,PG [1 Year Program(s)],66.0,66.0,51.0,720000.0
+Law,17,Chanakya National Law University,Bihar,Patna,62.4,2023-24,UG [5 Years Program(s)],,136.0,110.0,1080000.0
+Law,18,University of Petroleum and Energy Studies,Uttarakhand,Dehradun,61.45,2023-24,PG [1 Year Program(s)],90.0,66.0,0.0,0.0
+Law,18,University of Petroleum and Energy Studies,Uttarakhand,Dehradun,61.45,2023-24,UG [5 Years Program(s)],,758.0,624.0,920000.0
+Law,19,Saveetha Institute of Medical and Technical Sciences,Tamil Nadu,Chennai,60.9,2023-24,PG [1 Year Program(s)],30.0,30.0,23.0,610000.0
+Law,19,Saveetha Institute of Medical and Technical Sciences,Tamil Nadu,Chennai,60.9,2023-24,UG [5 Years Program(s)],,198.0,75.0,615000.0
+Law,20,Alliance University,Karnataka,Bengaluru,60.83,2023-24,PG [1 Year Program(s)],40.0,39.0,29.0,620000.0
+Law,20,Alliance University,Karnataka,Bengaluru,60.83,2023-24,UG [3 Years Program(s)],,0.0,0.0,0.0
+Law,20,Alliance University,Karnataka,Bengaluru,60.83,2023-24,UG [5 Years Program(s)],,147.0,106.0,620000.0
+Law,21,"Dr. Ram Manohar Lohiya National Law University, Lucknow",Uttar Pradesh,Lucknow,60.12,2023-24,PG [1 Year Program(s)],31.0,27.0,0.0,0.0
+Law,21,"Dr. Ram Manohar Lohiya National Law University, Lucknow",Uttar Pradesh,Lucknow,60.12,2023-24,UG [5 Years Program(s)],,171.0,158.0,700000.0
+Law,22,Guru Gobind Singh Indraprastha University,Delhi,New Delhi,60.05,2023-24,PG [1 Year Program(s)],80.0,79.0,70.0,535000.0
+Law,22,Guru Gobind Singh Indraprastha University,Delhi,New Delhi,60.05,2023-24,UG [5 Years Program(s)],,102.0,86.0,610000.0
+Law,23,Central University of South Bihar,Bihar,Gaya,58.84,2023-24,PG [1 Year Program(s)],35.0,22.0,15.0,720000.0
+Law,23,Central University of South Bihar,Bihar,Gaya,58.84,2023-24,UG [5 Years Program(s)],,101.0,63.0,680000.0
+Law,24,Christ University,Karnataka,Bengaluru,58.4,2023-24,PG [1 Year Program(s)],140.0,161.0,134.0,585000.0
+Law,24,Christ University,Karnataka,Bengaluru,58.4,2023-24,UG [5 Years Program(s)],,397.0,177.0,590920.0
+Law,25,S.R.M. Institute of Science and Technology,Tamil Nadu,Chennai,58.0,2023-24,PG [1 Year Program(s)],40.0,34.0,28.0,600000.0
+Law,25,S.R.M. Institute of Science and Technology,Tamil Nadu,Chennai,58.0,2023-24,UG [3 Years Program(s)],,97.0,83.0,500000.0
+Law,25,S.R.M. Institute of Science and Technology,Tamil Nadu,Chennai,58.0,2023-24,UG [5 Years Program(s)],,201.0,150.0,500000.0
+Law,26,Lovely Professional University,Punjab,Phagwara,57.98,2023-24,PG [1 Year Program(s)],12.0,13.0,11.0,820000.0
+Law,26,Lovely Professional University,Punjab,Phagwara,57.98,2023-24,UG [3 Years Program(s)],,13.0,11.0,820000.0
+Law,26,Lovely Professional University,Punjab,Phagwara,57.98,2023-24,UG [5 Years Program(s)],,67.0,7.0,500000.0
+Law,27,"National Law Institute University, Bhopal",Madhya Pradesh,Bhopal,57.64,2023-24,PG [1 Year Program(s)],60.0,55.0,19.0,700000.0
+Law,27,"National Law Institute University, Bhopal",Madhya Pradesh,Bhopal,57.64,2023-24,PG [2 Year Program(s)],,61.0,54.0,850000.0
+Law,27,"National Law Institute University, Bhopal",Madhya Pradesh,Bhopal,57.64,2023-24,UG [5 Years Program(s)],,113.0,48.0,1600000.0
+Law,28,"Maharashtra National Law University, Nagpur",Maharashtra,Nagpur,56.54,2023-24,PG [1 Year Program(s)],60.0,30.0,21.0,60000.0
+Law,28,"Maharashtra National Law University, Nagpur",Maharashtra,Nagpur,56.54,2023-24,UG [5 Years Program(s)],,110.0,85.0,764000.0
+Law,29,University of Lucknow,Uttar Pradesh,Lucknow,55.85,2023-24,PG [2 Year Program(s)],,53.0,38.0,956700.0
+Law,29,University of Lucknow,Uttar Pradesh,Lucknow,55.85,2023-24,UG [3 Years Program(s)],,313.0,221.0,828300.0
+Law,29,University of Lucknow,Uttar Pradesh,Lucknow,55.85,2023-24,UG [5 Years Program(s)],,155.0,121.0,838500.0
+Law,30,"National University of Study and Research in Law, Ranchi",Jharkhand,Ranchi,55.81,2023-24,PG [1 Year Program(s)],40.0,40.0,12.0,650000.0
+Law,30,"National University of Study and Research in Law, Ranchi",Jharkhand,Ranchi,55.81,2023-24,UG [5 Years Program(s)],,101.0,39.0,933000.0
+Law,31,"ICFAI Foundation for Higher Education, Hyderabad",Telangana,Hyderabad,55.28,2023-24,PG [1 Year Program(s)],6.0,4.0,1.0,650000.0
+Law,31,"ICFAI Foundation for Higher Education, Hyderabad",Telangana,Hyderabad,55.28,2023-24,UG [5 Years Program(s)],,184.0,131.0,648000.0
+Law,32,"Manipal University, Jaipur",Rajasthan,Jaipur,54.83,2023-24,PG [1 Year Program(s)],30.0,26.0,24.0,535000.0
+Law,32,"Manipal University, Jaipur",Rajasthan,Jaipur,54.83,2023-24,UG [3 Years Program(s)],,22.0,15.0,450000.0
+Law,32,"Manipal University, Jaipur",Rajasthan,Jaipur,54.83,2023-24,UG [5 Years Program(s)],,129.0,65.0,475000.0
+Law,33,Nirma University,Gujarat,Ahmedabad,53.7,2023-24,PG [1 Year Program(s)],30.0,27.0,21.0,525000.0
+Law,33,Nirma University,Gujarat,Ahmedabad,53.7,2023-24,UG [5 Years Program(s)],,227.0,185.0,521000.0
+Law,34,"Himachal Pradesh National Law University, Shimla",Himachal Pradesh,Shimla,53.49,2023-24,PG [1 Year Program(s)],80.0,74.0,36.0,1500000.0
+Law,34,"Himachal Pradesh National Law University, Shimla",Himachal Pradesh,Shimla,53.49,2023-24,UG [5 Years Program(s)],,111.0,52.0,100000.0
+Law,35,National Law University and Judicial Academy,Assam,Kamrup,53.39,2023-24,PG [1 Year Program(s)],40.0,38.0,6.0,180000.0
+Law,35,National Law University and Judicial Academy,Assam,Kamrup,53.39,2023-24,UG [5 Years Program(s)],,58.0,18.0,890000.0
+Law,36,Galgotias University,Uttar Pradesh,Gautam Budh Nagar,53.33,2023-24,PG [1 Year Program(s)],40.0,39.0,35.0,740000.0
+Law,36,Galgotias University,Uttar Pradesh,Gautam Budh Nagar,53.33,2023-24,UG [3 Years Program(s)],,34.0,31.0,620000.0
+Law,36,Galgotias University,Uttar Pradesh,Gautam Budh Nagar,53.33,2023-24,UG [5 Years Program(s)],,198.0,185.0,640000.0
+Law,37,"Army Institute of Law, Sector-68",Punjab,Mohali,53.27,2023-24,PG [1 Year Program(s)],15.0,8.0,0.0,0.0
+Law,37,"Army Institute of Law, Sector-68",Punjab,Mohali,53.27,2023-24,UG [5 Years Program(s)],,75.0,45.0,630000.0
+Law,38,Gandhi Institute of Technology and Management (GITAM),Andhra Pradesh,Visakhapatnam,53.26,2023-24,PG [1 Year Program(s)],20.0,19.0,19.0,450000.0
+Law,38,Gandhi Institute of Technology and Management (GITAM),Andhra Pradesh,Visakhapatnam,53.26,2023-24,UG [5 Years Program(s)],,90.0,80.0,470000.0
+Law,39,"Amity University Haryana, Gurgaon",Haryana,"Gurugram, Haryana",53.22,2023-24,PG [1 Year Program(s)],35.0,36.0,31.0,317000.0
+Law,39,"Amity University Haryana, Gurgaon",Haryana,"Gurugram, Haryana",53.22,2023-24,UG [5 Years Program(s)],,98.0,51.0,367000.0
+Law,40,Central University of Punjab-Bathinda,Punjab,Bathinda,52.7,2023-24,PG [2 Year Program(s)],,37.0,3.0,1180000.0
+Management,1,"Indian Institute of Management, Ahmedabad",Gujarat,Ahmedabad,83.29,2023-24,PG [2 Year Program(s)],,444.0,434.0,3100000.0
+Management,2,"Indian Institute of Management, Bangaluru",Karnataka,Bengaluru,81.56,2023-24,PG [2 Year Program(s)],,517.0,517.0,3250000.0
+Management,3,"Indian Institute of Management, Kozhikode",Kerala,Kozhikode,79.85,2023-24,PG [2 Year Program(s)],,547.0,547.0,2700000.0
+Management,4,Indian Institute of Technology- Delhi,Delhi,New Delhi,78.94,2023-24,PG [2 Year Program(s)],,89.0,89.0,2205000.0
+Management,5,"Indian Institute of Management, Lucknow",Uttar Pradesh,Lucknow,77.97,2023-24,PG [2 Year Program(s)],,614.0,614.0,3000000.0
+Management,6,"National Institute of Industrial Engineering, Mumbai",Maharashtra,Mumbai,77.58,2023-24,PG [2 Year Program(s)],,1072.0,1072.0,6600000.0
+Management,7,"Indian Institute of Management, Calcutta",West Bengal,Kolkata,77.34,2023-24,PG [2 Year Program(s)],,528.0,528.0,3000000.0
+Management,8,"Indian Institute of Management, Indore",Madhya Pradesh,Indore,75.68,2023-24,PG [2 Year Program(s)],,635.0,633.0,2550000.0
+Management,9,Management Development Institute,Haryana,Gurugram,71.96,2023-24,PG [2 Year Program(s)],,556.0,547.0,2613000.0
+Management,10,Xavier Labour Relations Institute (XLRI),Jharkhand,Jamshedpur,70.63,2023-24,PG [2 Year Program(s)],,768.0,764.0,5600000.0
+Management,11,Symbiosis Institute of Business Management,Maharashtra,Pune,67.9,2023-24,PG [2 Year Program(s)],,247.0,239.0,2500000.0
+Management,12,Indian Institute of Technology- Kharagpur,West Bengal,Kharagpur,66.97,2023-24,PG [2 Year Program(s)],,125.0,124.0,2065000.0
+Management,13,Indian Institute of Technology- Madras,Tamil Nadu,Chennai,66.5,2023-24,PG [2 Year Program(s)],,84.0,83.0,1678293.0
+Management,13,Indian Institute of Technology- Madras,Tamil Nadu,Chennai,66.5,2023-24,PG [5 Year Program(s)],,6.0,5.0,2119300.0
+Management,14,Indian Institute of Technology- Bombay,Maharashtra,Mumbai,65.82,2023-24,PG [2 Year Program(s)],,114.0,111.0,2673000.0
+Management,15,"Indian Institute of Management, Raipur",Chhattisgarh,Raipur,65.03,2023-24,PG [2 Year Program(s)],,302.0,302.0,1750000.0
+Management,16,"Indian Institute of Management, Tiruchirappalli",Tamil Nadu,Tiruchirappalli,64.95,2023-24,PG [2 Year Program(s)],,386.0,383.0,1810000.0
+Management,17,Indian Institute of Foreign Trade,Delhi,New Delhi,62.93,2023-24,PG [2 Year Program(s)],,399.0,399.0,2500000.0
+Management,18,"Indian Institute of Management, Ranchi",Jharkhand,Ranchi,62.77,2023-24,PG [2 Year Program(s)],,340.0,340.0,1800000.0
+Management,18,"Indian Institute of Management, Ranchi",Jharkhand,Ranchi,62.77,2023-24,PG [5 Year Program(s)],,0.0,0.0,0.0
+Management,19,"Indian Institute of Management, Rohtak",Haryana,Rohtak,62.6,2023-24,PG [2 Year Program(s)],,227.0,227.0,1927000.0
+Management,20,S. P. Jain Institute of Management and Research,Maharashtra,Mumbai,62.06,2023-24,PG [2 Year Program(s)],,292.0,292.0,3150000.0
+Management,21,"Indian Institute of Management, Udaipur",Rajasthan,Udaipur,61.79,2023-24,PG [2 Year Program(s)],,315.0,315.0,1800000.0
+Management,22,Indian Institute of Technology- Roorkee,Uttarakhand,Roorkee,61.77,2023-24,PG [2 Year Program(s)],,82.0,79.0,1850000.0
+Management,23,"Indian Institute of Management, Kashipur",Uttarakhand,Kashipur,61.74,2023-24,PG [2 Year Program(s)],,318.0,308.0,1503084.0
+Management,24,SVKM's Narsee Monjee Institute of Management Studies,Maharashtra,Mumbai,60.99,2023-24,PG [2 Year Program(s)],,600.0,600.0,2000000.0
+Management,25,Indian Institute of Management- Sirmaur,Maharashtra,Nagpur,60.88,2023-24,PG [2 Year Program(s)],,518.0,510.0,3200000.0
+Management,26,Amrita Vishwa Vidyapeetham,Tamil Nadu,Coimbatore,60.25,2023-24,PG [2 Year Program(s)],,388.0,354.0,760000.0
+Management,27,Indian Institute of Technology- Kanpur,Uttar Pradesh,Kanpur,60.15,2023-24,PG [2 Year Program(s)],,49.0,44.0,1990000.0
+Management,28,"Jamia Millia Islamia, New Delhi",Delhi,New Delhi,60.06,2023-24,PG [2 Year Program(s)],,103.0,97.0,1260000.0
+Management,29,"Indian Institute of Management, Visakhapatnam",Andhra Pradesh,Visakhapatnam,59.95,2023-24,PG [2 Year Program(s)],,267.0,255.0,1550000.0
+Management,30,"Institute of Management Technology, Ghaziabad",Uttar Pradesh,Ghaziabad,59.85,2023-24,PG [2 Year Program(s)],,1216.0,1170.0,3172000.0
+Management,31,"Indian Institute of Management, Bodh Gaya",Bihar,Gaya,59.65,2023-24,PG [2 Year Program(s)],,266.0,264.0,1300001.0
+Management,32,Chandigarh University,Punjab,Mohali,59.4,2023-24,PG [2 Year Program(s)],,630.0,531.0,800000.0
+Management,33,MICA,Gujarat,Ahmedabad,59.22,2023-24,PG [2 Year Program(s)],,200.0,200.0,1800000.0
+Management,34,"Indian Institute of Management, Sambalpur",Odisha,Sambalpur,58.59,2023-24,PG [2 Year Program(s)],,192.0,173.0,1315000.0
+Management,35,Indian Institute of Management Jammu (IIMJ),Jammu and Kashmir,Jammu,58.5,2023-24,PG [2 Year Program(s)],,244.0,244.0,1500000.0
+Management,36,University of Petroleum and Energy Studies,Uttarakhand,Dehradun,58.33,2023-24,PG [2 Year Program(s)],,732.0,648.0,1650000.0
+Management,37,Great Lakes Institute of Management,Tamil Nadu,Chennai,58.05,2023-24,PG [2 Year Program(s)],,240.0,181.0,1085000.0
+Management,38,"Indian Institute of Management, Shillong",Meghalaya,Shillong,57.7,2023-24,PG [2 Year Program(s)],,281.0,281.0,2567000.0
+Management,39,"T. A. Pai Management Institute, Manipal",Karnataka,Manipal,57.13,2023-24,PG [2 Year Program(s)],,514.0,514.0,1309000.0
+Management,40,International Management Institute-New Delhi,Delhi,New Delhi,56.59,2023-24,PG [2 Year Program(s)],,407.0,404.0,1660000.0
+Management,41,Jaipuria Institute of Management-Jaipur,Uttar Pradesh,Noida,56.46,2023-24,PG [2 Year Program(s)],,347.0,340.0,885000.0
+Management,42,International Management Institute-New Delhi,West Bengal,Kolkata,55.42,2023-24,PG [2 Year Program(s)],,378.0,378.0,2496000.0
+Management,43,Goa Institute of Management,Goa,Sanquelim,55.27,2023-24,PG [2 Year Program(s)],,413.0,380.0,1440000.0
+Management,44,Lovely Professional University,Punjab,Phagwara,55.0,2023-24,PG [2 Year Program(s)],,625.0,261.0,677000.0
+Management,45,Xavier University,Odisha,Bhubaneswar,54.73,2023-24,PG [2 Year Program(s)],,700.0,696.0,3906000.0
+Management,46,"ICFAI Foundation for Higher Education, Hyderabad",Telangana,Hyderabad,54.4,2023-24,PG [2 Year Program(s)],,1320.0,898.0,800000.0
+Management,46,Thapar Institute of Engineering and Technology (Deemed-to-be-university),Punjab,Patiala,54.4,2023-24,PG [2 Year Program(s)],,196.0,164.0,786000.0
+Management,48,Indian Institute of Technology (Indian School of Mines) Dhanbad,Jharkhand,Dhanbad,54.34,2023-24,PG [2 Year Program(s)],,72.0,59.0,955000.0
+Management,49,"Amity University, North Twenty Four Parganas",Uttar Pradesh,Gautam Budh Nagar,54.15,2023-24,PG [2 Year Program(s)],,1574.0,608.0,1200000.0
+Management,49,"Amity University, North Twenty Four Parganas",Uttar Pradesh,Gautam Budh Nagar,54.15,2023-24,PG [5 Year Program(s)],,46.0,16.0,1500000.0
+Management,50,"Great Lakes Institute of Management,Gurgaon",Haryana,Gurgaon,54.08,2023-24,PG [2 Year Program(s)],,120.0,115.0,1000000.0
+Management,51,Indian Institute of Management- Sirmaur,Himachal Pradesh,Sirmaur,54.03,2023-24,PG [2 Year Program(s)],,297.0,295.0,1298000.0
+Management,52,Graphic Era University,Uttarakhand,Dehradun,53.98,2023-24,PG [2 Year Program(s)],,290.0,99.0,672000.0
+Management,53,Nirma University,Gujarat,Ahmedabad,53.48,2023-24,PG [2 Year Program(s)],,434.0,395.0,1050000.0
+Management,54,Institute of Rural Management Anand (IRMA),Gujarat,Anand,53.34,2023-24,PG [2 Year Program(s)],,265.0,265.0,1500000.0
+Management,55,Loyola Institute of Business Administration,Tamil Nadu,Chennai,53.12,2023-24,PG [2 Year Program(s)],,238.0,232.0,1100000.0
+Management,56,S.R.M. Institute of Science and Technology,Tamil Nadu,Chennai,52.74,2023-24,PG [2 Year Program(s)],,414.0,396.0,865000.0
+Management,57,Christ University,Karnataka,Bengaluru,52.47,2023-24,PG [2 Year Program(s)],,1126.0,674.0,760000.0
+Management,57,National Institute of Technology- Tiruchirappalli,Tamil Nadu,Tiruchirappalli,52.47,2023-24,PG [2 Year Program(s)],,87.0,79.0,870000.0
+Management,59,Fore School of Management,Delhi,New Delhi,52.23,2023-24,PG [2 Year Program(s)],,370.0,366.0,1552000.0
+Management,60,Banaras Hindu University,Uttar Pradesh,Varanasi,52.14,2023-24,PG [2 Year Program(s)],,180.0,178.0,1210000.0
+Management,61,Birla Institute of Management Technology,Uttar Pradesh,Greater Noida,52.09,2023-24,PG [2 Year Program(s)],,454.0,454.0,1050000.0
+Management,62,"Malaviya National Institute of Technology, Jaipur",Rajasthan,Jaipur,52.07,2023-24,PG [2 Year Program(s)],,66.0,60.0,800000.0
+Management,63,Saveetha Institute of Medical and Technical Sciences,Tamil Nadu,Chennai,52.01,2023-24,PG [2 Year Program(s)],,115.0,22.0,325000.0
+Management,64,"Indian Institute of Management, Amritsar",Punjab,Amritsar,51.7,2023-24,PG [2 Year Program(s)],,278.0,277.0,1560000.0
+Management,65,K J Somaiya Institute of Management Studies and Research,Maharashtra,Mumbai,51.28,2023-24,PG [2 Year Program(s)],,643.0,595.0,1200000.0
+Management,66,Shiksha 'O' Anusandhan,Odisha,Bhubaneswar,50.88,2023-24,PG [2 Year Program(s)],,180.0,175.0,520000.0
+Management,67,"Jaipuria Institute of Management, Lucknow",Uttar Pradesh,Lucknow,50.86,2023-24,PG [2 Year Program(s)],,694.0,674.0,1758000.0
+Management,68,Kalinga Institute of Industrial Technology,Odisha,Bhubaneswar,50.68,2023-24,PG [2 Year Program(s)],,302.0,187.0,700000.0
+Management,69,Aligarh Muslim University,Uttar Pradesh,Aligarh,49.95,2023-24,PG [2 Year Program(s)],,267.0,179.0,630000.0
+Management,70,Koneru Lakshmaiah Education Foundation University (K L College of Engineering),Andhra Pradesh,Vaddeswaram,49.89,2023-24,PG [2 Year Program(s)],,241.0,209.0,750000.0
+Management,71,Alliance University,Karnataka,Bengaluru,49.85,2023-24,PG [2 Year Program(s)],,511.0,403.0,800000.0
+Management,72,Institute of Management Technology-Nagpur,Telangana,Hyderabad,49.38,2023-24,PG [2 Year Program(s)],,213.0,203.0,1075000.0
+Management,73,"Jain University, Bangalore",Karnataka,Bengaluru,49.28,2023-24,PG [2 Year Program(s)],,939.0,852.0,850000.0
+Management,74,Jaipuria Institute of Management-Jaipur,Rajasthan,Jaipur,49.26,2023-24,PG [2 Year Program(s)],,235.0,232.0,879000.0
+Management,75,Prin. L.N. Welingkar Institute of Management Development and Research (PGDM),Maharashtra,Mumbai,49.08,2023-24,PG [2 Year Program(s)],,653.0,635.0,1150000.0
+Management,76,Guru Gobind Singh Indraprastha University,Delhi,New Delhi,48.88,2023-24,PG [2 Year Program(s)],,205.0,187.0,650000.0
+Management,77,BML Munjal University,Haryana,Gurgaon,48.41,2023-24,PG [2 Year Program(s)],,273.0,253.0,900000.0
+Management,78,Chitkara  University,Punjab,Rajpura,48.3,2023-24,PG [2 Year Program(s)],,694.0,347.0,962000.0
+Management,79,Babasaheb Bhimrao Ambedkar University-Lucknow,Uttar Pradesh,Lucknow,48.13,2023-24,PG [2 Year Program(s)],,76.0,72.0,1278000.0
+Management,80,Thiagarajar School of Management,Tamil Nadu,Madurai,48.05,2023-24,PG [2 Year Program(s)],,237.0,228.0,750000.0
+Management,81,"Manipal University, Jaipur",Rajasthan,Jaipur,47.56,2023-24,PG [2 Year Program(s)],,60.0,25.0,579000.0
+Management,82,Cochin University of Science and Technology-Cochin,Kerala,Cochin,47.47,2023-24,PG [2 Year Program(s)],,129.0,80.0,788000.0
+Management,83,Madan Mohan Malaviya University of Technology,Uttar Pradesh,Gorakhpur,47.46,2023-24,PG [2 Year Program(s)],,60.0,55.0,1300000.0
+Management,84,PSG College of Technology,Tamil Nadu,Coimbatore,47.38,2023-24,PG [2 Year Program(s)],,201.0,201.0,850000.0
+Management,85,National Institute of Technology- Calicut,Kerala,Kozhikode,47.3,2023-24,PG [2 Year Program(s)],,45.0,43.0,807000.0
+Management,86,New Delhi Institute of Management,Delhi,New Delhi,47.25,2023-24,PG [2 Year Program(s)],,505.0,504.0,950000.0
+Management,87,Jamia Hamdard-New Delhi,Delhi,New Delhi,47.1,2023-24,PG [2 Year Program(s)],,230.0,202.0,595000.0
+Management,88,Anna University,Tamil Nadu,Chennai,46.92,2023-24,PG [2 Year Program(s)],,79.0,43.0,600000.0
+Management,89,Pandit Deendayal Petroleum University,Gujarat,Gandhinagar,46.81,2023-24,PG [2 Year Program(s)],,242.0,178.0,1400000.0
+Management,90,Jagan Institute of Management Studies,Delhi,Delhi,46.63,2023-24,PG [2 Year Program(s)],,257.0,257.0,905000.0
+Management,91,Rajagiri Business School,Kerala,Cochin,46.62,2023-24,PG [2 Year Program(s)],,215.0,204.0,700000.0
+Management,92,Punjab University,Chandigarh,Chandigarh,46.31,2023-24,PG [2 Year Program(s)],,127.0,120.0,1000000.0
+Management,93,Atal Bihari Vajpayee Indian Institute of Information Technology and Management,Madhya Pradesh,Gwalior,46.3,2023-24,PG [2 Year Program(s)],,16.0,2.0,800000.0
+Management,93,Atal Bihari Vajpayee Indian Institute of Information Technology and Management,Madhya Pradesh,Gwalior,46.3,2023-24,PG [5 Year Program(s)],,61.0,40.0,1500000.0
+Management,94,"International Management Institute, Bhubaneswar",Odisha,Bhubaneswar,46.24,2023-24,PG [2 Year Program(s)],,358.0,358.0,2400000.0
+Management,95,National Institute of Agricultural Extension Management,Telangana,Hyderabad,45.48,2023-24,PG [2 Year Program(s)],,65.0,63.0,1159828.0
+Management,96,Bharathidasan Institute of Management,Tamil Nadu,Tiruchirappalli,45.36,2023-24,PG [2 Year Program(s)],,118.0,112.0,1000000.0
+Management,97,Birla Institute of Technology,Jharkhand,Ranchi,45.25,2023-24,PG [2 Year Program(s)],,152.0,108.0,600000.0
+Management,98,Indian Institute of Technology Jodhpur,Rajasthan,Jodhpur,45.02,2023-24,PG [2 Year Program(s)],,74.0,70.0,1000000.0
+Management,99,"Institute of Management Technology, Nagpur",Maharashtra,Nagpur,44.93,2023-24,PG [2 Year Program(s)],,305.0,305.0,1107146.0
+Management,100,University of Lucknow,Uttar Pradesh,Lucknow,44.53,2023-24,PG [2 Year Program(s)],,177.0,155.0,845300.0
+Medical,1,All India Institute of Medical Sciences-New Delhi,Delhi,New Delhi,91.8,2023-24,PG [2 Year Program(s)],,130.0,110.0,1350000.0
+Medical,1,All India Institute of Medical Sciences-New Delhi,Delhi,New Delhi,91.8,2023-24,PG [3 Year Program(s)],,460.0,420.0,2400000.0
+Medical,2,Post Graduate Institute of Medical Education and Research,Chandigarh,Chandigarh,82.58,2023-24,PG [2 Year Program(s)],,70.0,10.0,1150000.0
+Medical,2,Post Graduate Institute of Medical Education and Research,Chandigarh,Chandigarh,82.58,2023-24,PG [3 Year Program(s)],,305.0,50.0,1900000.0
+Medical,3,Christian Medical College,Tamil Nadu,Vellore,76.48,2023-24,PG [2 Year Program(s)],,1.0,1.0,763685.0
+Medical,3,Christian Medical College,Tamil Nadu,Vellore,76.48,2023-24,PG [3 Year Program(s)],,177.0,175.0,1210300.0
+Medical,4,Jawaharlal Institute of Post Graduate Medical Education and Research,Puducherry,Puducherry,73.3,2023-24,PG [2 Year Program(s)],,4.0,3.0,2400000.0
+Medical,4,Jawaharlal Institute of Post Graduate Medical Education and Research,Puducherry,Puducherry,73.3,2023-24,PG [3 Year Program(s)],,245.0,183.0,2600000.0
+Medical,5,Sanjay Gandhi Postgraduate Institute of Medical Sciences,Uttar Pradesh,Lucknow,70.09,2023-24,PG [2 Year Program(s)],,6.0,4.0,2400000.0
+Medical,5,Sanjay Gandhi Postgraduate Institute of Medical Sciences,Uttar Pradesh,Lucknow,70.09,2023-24,PG [3 Year Program(s)],,116.0,112.0,3050000.0
+Medical,6,Banaras Hindu University,Uttar Pradesh,Varanasi,70.05,2023-24,PG [3 Year Program(s)],,142.0,110.0,2200000.0
+Medical,7,"National Institute of Mental Health and Neuro Sciences, Bangalore",Karnataka,Bengaluru,69.77,2023-24,PG [2 Year Program(s)],,90.0,90.0,1609620.0
+Medical,7,"National Institute of Mental Health and Neuro Sciences, Bangalore",Karnataka,Bengaluru,69.77,2023-24,PG [3 Year Program(s)],,71.0,71.0,1804992.0
+Medical,8,King George`s Medical University,Uttar Pradesh,Lucknow,68.77,2023-24,PG [3 Year Program(s)],,270.0,247.0,1600000.0
+Medical,9,Amrita Institute of Medical Sciences and Research,Tamil Nadu,Coimbatore,68.52,2023-24,PG [3 Year Program(s)],,288.0,256.0,3600000.0
+Medical,10,"Kasturba Medical College, Manipal",Karnataka,Manipal,68.05,2023-24,PG [3 Year Program(s)],,182.0,12.0,1678368.0
+Medical,11,Saveetha Institute of Medical and Technical Sciences,Tamil Nadu,Chennai,66.5,2023-24,PG [3 Year Program(s)],,150.0,139.0,1560000.0
+Medical,12,Dr. D. Y. Patil Vidyapeeth,Maharashtra,Pune,65.17,2023-24,PG [3 Year Program(s)],,203.0,200.0,1320000.0
+Medical,13,"All India Institute of Medical Sciences, Rishikesh",Uttarakhand,Rishikesh,65.02,2023-24,PG [2 Year Program(s)],,17.0,15.0,1350000.0
+Medical,13,"All India Institute of Medical Sciences, Rishikesh",Uttarakhand,Rishikesh,65.02,2023-24,PG [3 Year Program(s)],,144.0,136.0,2450000.0
+Medical,14,All India Institute of Medical Sciences Bhubaneswar,Odisha,Khordha,64.31,2023-24,PG [2 Year Program(s)],,20.0,15.0,1200000.0
+Medical,14,All India Institute of Medical Sciences Bhubaneswar,Odisha,Khordha,64.31,2023-24,PG [3 Year Program(s)],,86.0,70.0,1800000.0
+Medical,15,Shiksha 'O' Anusandhan,Odisha,Bhubaneswar,63.73,2023-24,PG [3 Year Program(s)],,106.0,106.0,1200000.0
+Medical,16,"Madras Medical College and Government General Hospital, Chennai",Tamil Nadu,Chennai,63.71,2023-24,PG [2 Year Program(s)],,3.0,2.0,1282000.0
+Medical,16,"Madras Medical College and Government General Hospital, Chennai",Tamil Nadu,Chennai,63.71,2023-24,PG [3 Year Program(s)],,606.0,476.0,1440000.0
+Medical,17,"Sree Chitra Tirunal Institute for Medical Sciences and Technology, Thiruvananthapuram",Kerala,Thiruvananthapuram,63.36,2023-24,PG [2 Year Program(s)],,62.0,56.0,755400.0
+Medical,17,"Sree Chitra Tirunal Institute for Medical Sciences and Technology, Thiruvananthapuram",Kerala,Thiruvananthapuram,63.36,2023-24,PG [3 Year Program(s)],,34.0,23.0,2880000.0
+Medical,18,S. R. M. Institute of Science and Technology,Tamil Nadu,Chennai,63.22,2023-24,PG [3 Year Program(s)],,109.0,109.0,1800000.0
+Medical,19,All India Institute of Medical Sciences-Jodhpur,Rajasthan,Jodhpur,63.18,2023-24,PG [2 Year Program(s)],,49.0,37.0,888000.0
+Medical,19,All India Institute of Medical Sciences-Jodhpur,Rajasthan,Jodhpur,63.18,2023-24,PG [3 Year Program(s)],,94.0,71.0,1650000.0
+Medical,20,Datta Meghe Institute of Higher Education and Research,Maharashtra,Wardha,62.37,2023-24,PG [3 Year Program(s)],,292.0,268.0,3600000.0
+Medical,21,Sri Ramachandra Institute of Higher Education and Research,Tamil Nadu,Chennai,61.54,2023-24,PG [3 Year Program(s)],,181.0,155.0,2500000.0
+Medical,22,Vardhman Mahavir Medical College and Safdarjung Hospital,Delhi,New Delhi,61.5,2023-24,PG [3 Year Program(s)],,240.0,207.0,148000.0
+Medical,23,Institute of Post Graduate Medical Education and Research,West Bengal,Kolkata,61.07,2023-24,PG [3 Year Program(s)],,193.0,180.0,840000.0
+Medical,24,Kalinga Institute of Industrial Technology,Odisha,Bhubaneswar,61.0,2023-24,PG [3 Year Program(s)],,97.0,97.0,1800000.0
+Medical,25,All India Institute of Medical Sciences-Bhopal,Madhya Pradesh,Bhopal,60.15,2023-24,PG [2 Year Program(s)],,18.0,18.0,1100000.0
+Medical,25,All India Institute of Medical Sciences-Bhopal,Madhya Pradesh,Bhopal,60.15,2023-24,PG [3 Year Program(s)],,60.0,50.0,2100000.0
+Medical,26,Maulana Azad Medical College,Delhi,Delhi,59.47,2023-24,PG [2 Year Program(s)],,1.0,1.0,1860948.0
+Medical,26,Maulana Azad Medical College,Delhi,Delhi,59.47,2023-24,PG [3 Year Program(s)],,215.0,52.0,1860948.0
+Medical,27,"All India Institute of Medical Sciences, Patna",Bihar,Patna,59.24,2023-24,PG [2 Year Program(s)],,5.0,5.0,960000.0
+Medical,27,"All India Institute of Medical Sciences, Patna",Bihar,Patna,59.24,2023-24,PG [3 Year Program(s)],,73.0,59.0,1440000.0
+Medical,28,Institute of Liver and Biliary Sciences,Delhi,New Delhi,59.22,2023-24,PG [3 Year Program(s)],,16.0,16.0,4700000.0
+Medical,29,Aligarh Muslim University,Uttar Pradesh,Aligarh,58.82,2023-24,PG [2 Year Program(s)],,9.0,7.0,2000000.0
+Medical,29,Aligarh Muslim University,Uttar Pradesh,Aligarh,58.82,2023-24,PG [3 Year Program(s)],,201.0,180.0,2000000.0
+Medical,30,St. John's Medical College,Karnataka,Bengaluru,58.74,2023-24,PG [2 Year Program(s)],,48.0,46.0,380000.0
+Medical,30,St. John's Medical College,Karnataka,Bengaluru,58.74,2023-24,PG [3 Year Program(s)],,113.0,100.0,1350000.0
+Medical,31,"All India Institute of Medical Sciences, Raipur",Chhattisgarh,Raipur,58.44,2023-24,PG [2 Year Program(s)],,6.0,4.0,1000000.0
+Medical,31,"All India Institute of Medical Sciences, Raipur",Chhattisgarh,Raipur,58.44,2023-24,PG [3 Year Program(s)],,110.0,94.0,2000000.0
+Medical,32,Lady Hardinge Medical College,Delhi,New Delhi,57.98,2023-24,PG [3 Year Program(s)],,150.0,125.0,150000.0
+Medical,33,Maharishi Markandeshwar (Deemed to be University),Haryana,Ambala,56.68,2023-24,PG [3 Year Program(s)],,124.0,124.0,1800000.0
+Medical,34,Government Medical College and Hospital,Chandigarh,Chandigarh,56.67,2023-24,PG [3 Year Program(s)],,256.0,204.0,3120000.0
+Medical,35,"Kasturba Medical College, Mangalore",Karnataka,Mangaluru,56.45,2023-24,PG [3 Year Program(s)],,117.0,97.0,912000.0
+Medical,36,Dayanand Medical College,Punjab,Ludhiana,55.65,2023-24,PG [3 Year Program(s)],,0.0,0.0,0.0
+Medical,37,"JSS Medical College, Mysore",Karnataka,Mysuru,55.51,2023-24,PG [2 Year Program(s)],,1.0,1.0,80000.0
+Medical,37,"JSS Medical College, Mysore",Karnataka,Mysuru,55.51,2023-24,PG [3 Year Program(s)],,140.0,130.0,1910000.0
+Medical,38,University College of Medical Sciences,Delhi,Delhi,54.21,2023-24,PG [2 Year Program(s)],,4.0,4.0,420000.0
+Medical,38,University College of Medical Sciences,Delhi,Delhi,54.21,2023-24,PG [3 Year Program(s)],,145.0,120.0,1700000.0
+Medical,39,Sawai Man Singh Medical College,Rajasthan,Jaipur,52.69,2023-24,PG [3 Year Program(s)],,571.0,527.0,2010000.0
+Medical,40,Jamia Hamdard-New Delhi,Delhi,New Delhi,52.57,2023-24,PG [2 Year Program(s)],,6.0,6.0,610000.0
+Medical,40,Jamia Hamdard-New Delhi,Delhi,New Delhi,52.57,2023-24,PG [3 Year Program(s)],,42.0,42.0,1700000.0
+Medical,41,Medical College,West Bengal,Kolkata,52.54,2023-24,PG [2 Year Program(s)],,53.0,20.0,725000.0
+Medical,41,Medical College,West Bengal,Kolkata,52.54,2023-24,PG [3 Year Program(s)],,160.0,125.0,730000.0
+Medical,42,Mahatma Gandhi Medical College and Research Institute,Puducherry,Puducherry,52.42,2023-24,PG [3 Year Program(s)],,136.0,130.0,1910000.0
+Medical,43,"PSG Institute of Medical Sciences and Research, Coimbatore",Tamil Nadu,Coimbatore,52.41,2023-24,PG [2 Year Program(s)],,2.0,2.0,1108600.0
+Medical,43,"PSG Institute of Medical Sciences and Research, Coimbatore",Tamil Nadu,Coimbatore,52.41,2023-24,PG [3 Year Program(s)],,70.0,70.0,1580625.0
+Medical,44,Gujarat Cancer and Research Institute,Gujarat,Ahmadabad,52.15,2023-24,PG [3 Year Program(s)],,21.0,15.0,170120.0
+Medical,45,B. J. Medical College,Gujarat,Ahmadabad,51.84,2023-24,PG [2 Year Program(s)],,0.0,0.0,0.0
+Medical,45,B. J. Medical College,Gujarat,Ahmadabad,51.84,2023-24,PG [3 Year Program(s)],,275.0,130.0,2500000.0
+Medical,46,Jawaharlal Nehru Medical College,Karnataka,Belagavi,51.7,2023-24,PG [2 Year Program(s)],,8.0,8.0,720000.0
+Medical,46,Jawaharlal Nehru Medical College,Karnataka,Belagavi,51.7,2023-24,PG [3 Year Program(s)],,179.0,179.0,936000.0
+Medical,47,"Christian Medical College, Brown Road, Ludhiana",Punjab,Ludhiana,51.47,2023-24,PG [3 Year Program(s)],,66.0,63.0,1600000.0
+Medical,48,Osmania Medical College,Telangana,HYDERABAD,51.46,2023-24,PG [2 Year Program(s)],,10.0,7.0,1250000.0
+Medical,48,Osmania Medical College,Telangana,HYDERABAD,51.46,2023-24,PG [3 Year Program(s)],,386.0,317.0,2000000.0
+Medical,49,Chettinad Academy of Research and Education,Tamil Nadu,"Kelambakkam, Chengalpattu District",51.41,2023-24,PG [2 Year Program(s)],,29.0,26.0,550000.0
+Medical,49,Chettinad Academy of Research and Education,Tamil Nadu,"Kelambakkam, Chengalpattu District",51.41,2023-24,PG [3 Year Program(s)],,113.0,113.0,1850000.0
+Medical,50,M. S. Ramaiah Medical College,Karnataka,Bengaluru,50.91,2023-24,PG [3 Year Program(s)],,0.0,0.0,0.0
+Pharmacy,1,Jamia Hamdard-New Delhi,Delhi,New Delhi,86.59,2023-24,PG [2 Year Program(s)],,77.0,61.0,735470.0
+Pharmacy,1,Jamia Hamdard-New Delhi,Delhi,New Delhi,86.59,2023-24,UG [4 Years Program(s)],,130.0,61.0,525453.0
+Pharmacy,2,"Birla Institute of Technology and Science, Pilani",Rajasthan,Pilani,82.28,2023-24,PG [2 Year Program(s)],,70.0,70.0,557100.0
+Pharmacy,2,"Birla Institute of Technology and Science, Pilani",Rajasthan,Pilani,82.28,2023-24,UG [4 Years Program(s)],,64.0,49.0,1370000.0
+Pharmacy,3,Punjab University,Chandigarh,Chandigarh,76.39,2023-24,PG [2 Year Program(s)],,61.0,49.0,600000.0
+Pharmacy,3,Punjab University,Chandigarh,Chandigarh,76.39,2023-24,UG [4 Years Program(s)],,52.0,3.0,180000.0
+Pharmacy,4,JSS College of Pharmacy,Tamil Nadu,Ooty,76.14,2023-24,PG [2 Year Program(s)],,90.0,86.0,820000.0
+Pharmacy,4,JSS College of Pharmacy,Tamil Nadu,Ooty,76.14,2023-24,PG [3 Year Program(s)],,10.0,10.0,800000.0
+Pharmacy,4,JSS College of Pharmacy,Tamil Nadu,Ooty,76.14,2023-24,PG [6 Year Program(s)],,30.0,27.0,820000.0
+Pharmacy,5,National Institute of Pharmaceutical Education and Research- Hyderabad,Telangana,Hyderabad,75.64,2023-24,PG [2 Year Program(s)],,179.0,165.0,620000.0
+Pharmacy,6,Institute of Chemical Technology,Maharashtra,Mumbai,74.77,2023-24,PG [2 Year Program(s)],,21.0,16.0,575000.0
+Pharmacy,6,Institute of Chemical Technology,Maharashtra,Mumbai,74.77,2023-24,UG [4 Years Program(s)],,30.0,7.0,600000.0
+Pharmacy,7,JSS College of Pharmacy,Karnataka,Mysore,73.38,2023-24,PG [2 Year Program(s)],,117.0,99.0,835000.0
+Pharmacy,7,JSS College of Pharmacy,Karnataka,Mysore,73.38,2023-24,PG [3 Year Program(s)],,10.0,9.0,850000.0
+Pharmacy,7,JSS College of Pharmacy,Karnataka,Mysore,73.38,2023-24,PG [6 Year Program(s)],,30.0,18.0,850000.0
+Pharmacy,7,JSS College of Pharmacy,Karnataka,Mysore,73.38,2023-24,UG [4 Years Program(s)],,110.0,33.0,500000.0
+Pharmacy,8,"Manipal College of Pharmaceutical Sciences, Manipal",Karnataka,Udupi,73.25,2023-24,PG [2 Year Program(s)],,105.0,97.0,650000.0
+Pharmacy,8,"Manipal College of Pharmaceutical Sciences, Manipal",Karnataka,Udupi,73.25,2023-24,PG [3 Year Program(s)],,3.0,2.0,1400000.0
+Pharmacy,8,"Manipal College of Pharmaceutical Sciences, Manipal",Karnataka,Udupi,73.25,2023-24,PG [6 Year Program(s)],,29.0,18.0,600000.0
+Pharmacy,8,"Manipal College of Pharmaceutical Sciences, Manipal",Karnataka,Udupi,73.25,2023-24,UG [4 Years Program(s)],,107.0,79.0,400000.0
+Pharmacy,9,National Institute of Pharmaceutical Education and Research- Hyderabad,Punjab,Mohali,70.96,2023-24,PG [2 Year Program(s)],,560.0,470.0,1178000.0
+Pharmacy,9,National Institute of Pharmaceutical Education and Research- Hyderabad,Punjab,Mohali,70.96,2023-24,PG [5 Year Program(s)],,0.0,0.0,0.0
+Pharmacy,10,S. R. M. Institute of Science and Technology,Tamil Nadu,Chennai,70.84,2023-24,PG [2 Year Program(s)],,99.0,93.0,750000.0
+Pharmacy,10,S. R. M. Institute of Science and Technology,Tamil Nadu,Chennai,70.84,2023-24,PG [6 Year Program(s)],,30.0,26.0,800000.0
+Pharmacy,10,S. R. M. Institute of Science and Technology,Tamil Nadu,Chennai,70.84,2023-24,UG [4 Years Program(s)],,100.0,54.0,625000.0
+Pharmacy,11,SVKM's Narsee Monjee Institute of Management Studies,Maharashtra,Mumbai,70.59,2023-24,PG [3 Year Program(s)],,53.0,53.0,750000.0
+Pharmacy,11,SVKM's Narsee Monjee Institute of Management Studies,Maharashtra,Mumbai,70.59,2023-24,PG [5 Year Program(s)],,74.0,72.0,800000.0
+Pharmacy,11,SVKM's Narsee Monjee Institute of Management Studies,Maharashtra,Mumbai,70.59,2023-24,UG [4 Years Program(s)],,27.0,18.0,641626.0
+Pharmacy,12,National Institute of Pharmaceutical Education and Research- Guwahati,Assam,Guwahati,69.64,2023-24,PG [2 Year Program(s)],,143.0,89.0,470000.0
+Pharmacy,13,Lovely Professional University,Punjab,Phagwara,68.59,2023-24,PG [2 Year Program(s)],,59.0,56.0,700000.0
+Pharmacy,13,Lovely Professional University,Punjab,Phagwara,68.59,2023-24,UG [4 Years Program(s)],,188.0,146.0,680000.0
+Pharmacy,14,Amrita Vishwa Vidyapeetham,Tamil Nadu,Coimbatore,68.39,2023-24,PG [2 Year Program(s)],,100.0,52.0,900000.0
+Pharmacy,14,Amrita Vishwa Vidyapeetham,Tamil Nadu,Coimbatore,68.39,2023-24,PG [3 Year Program(s)],,14.0,6.0,1000000.0
+Pharmacy,14,Amrita Vishwa Vidyapeetham,Tamil Nadu,Coimbatore,68.39,2023-24,PG [6 Year Program(s)],,56.0,2.0,1200000.0
+Pharmacy,14,Amrita Vishwa Vidyapeetham,Tamil Nadu,Coimbatore,68.39,2023-24,UG [4 Years Program(s)],,114.0,4.0,800000.0
+Pharmacy,15,Chandigarh University,Punjab,Mohali,68.34,2023-24,PG [2 Year Program(s)],,39.0,30.0,525000.0
+Pharmacy,15,Chandigarh University,Punjab,Mohali,68.34,2023-24,PG [6 Year Program(s)],,0.0,0.0,0.0
+Pharmacy,15,Chandigarh University,Punjab,Mohali,68.34,2023-24,UG [4 Years Program(s)],,87.0,65.0,525000.0
+Pharmacy,16,Chitkara  University,Punjab,Rajpura,66.85,2023-24,PG [2 Year Program(s)],,52.0,40.0,900000.0
+Pharmacy,16,Chitkara  University,Punjab,Rajpura,66.85,2023-24,PG [3 Year Program(s)],,8.0,8.0,8750000.0
+Pharmacy,16,Chitkara  University,Punjab,Rajpura,66.85,2023-24,PG [6 Year Program(s)],,25.0,24.0,900000.0
+Pharmacy,16,Chitkara  University,Punjab,Rajpura,66.85,2023-24,UG [4 Years Program(s)],,88.0,10.0,750000.0
+Pharmacy,17,National Institute of Pharmaceutical Education and Research- Raebareli,Uttar Pradesh,Lucknow,66.65,2023-24,PG [2 Year Program(s)],,108.0,69.0,450000.0
+Pharmacy,17,National Institute of Pharmaceutical Education and Research- Raebareli,Uttar Pradesh,Lucknow,66.65,2023-24,PG [5 Year Program(s)],,0.0,0.0,0.0
+Pharmacy,18,"Amity University, North Twenty Four Parganas",Uttar Pradesh,Gautam Budh Nagar,66.27,2023-24,PG [2 Year Program(s)],,148.0,98.0,524000.0
+Pharmacy,18,"Amity University, North Twenty Four Parganas",Uttar Pradesh,Gautam Budh Nagar,66.27,2023-24,UG [4 Years Program(s)],,292.0,136.0,705600.0
+Pharmacy,19,Delhi Pharmaceutical Sciences and Research University,Delhi,Delhi,66.24,2023-24,PG [2 Year Program(s)],,111.0,35.0,580000.0
+Pharmacy,19,Delhi Pharmaceutical Sciences and Research University,Delhi,Delhi,66.24,2023-24,UG [4 Years Program(s)],,136.0,6.0,350000.0
+Pharmacy,20,Central University of Punjab-Bathinda,Punjab,Bathinda,64.73,2023-24,PG [2 Year Program(s)],,44.0,41.0,400000.0
+Pharmacy,21,National Institute of Pharmaceutical Education and Research- Ahmedabad,Gujarat,Gandhinagar,64.44,2023-24,PG [2 Year Program(s)],,326.0,264.0,1000000.0
+Pharmacy,22,Banasthali Vidyapith,Rajasthan,Banasthali,63.96,2023-24,PG [2 Year Program(s)],,26.0,21.0,780000.0
+Pharmacy,22,Banasthali Vidyapith,Rajasthan,Banasthali,63.96,2023-24,UG [4 Years Program(s)],,57.0,21.0,620000.0
+Pharmacy,23,Babasaheb Bhimrao Ambedkar University-Lucknow,Uttar Pradesh,Lucknow,62.29,2023-24,PG [2 Year Program(s)],,30.0,27.0,852000.0
+Pharmacy,24,Jadavpur University,West Bengal,Kolkata,62.18,2023-24,PG [2 Year Program(s)],,47.0,36.0,563156.0
+Pharmacy,24,Jadavpur University,West Bengal,Kolkata,62.18,2023-24,UG [4 Years Program(s)],,47.0,30.0,553813.0
+Pharmacy,25,I. S. F. College of Pharmacy,Punjab,Moga,61.96,2023-24,PG [2 Year Program(s)],,88.0,75.0,540000.0
+Pharmacy,25,I. S. F. College of Pharmacy,Punjab,Moga,61.96,2023-24,PG [3 Year Program(s)],,10.0,7.0,540000.0
+Pharmacy,25,I. S. F. College of Pharmacy,Punjab,Moga,61.96,2023-24,PG [6 Year Program(s)],,28.0,21.0,540000.0
+Pharmacy,25,I. S. F. College of Pharmacy,Punjab,Moga,61.96,2023-24,UG [4 Years Program(s)],,110.0,90.0,345000.0
+Pharmacy,26,Maharishi Markandeshwar (Deemed to be University),Haryana,Ambala,60.89,2023-24,PG [2 Year Program(s)],,33.0,32.0,520000.0
+Pharmacy,26,Maharishi Markandeshwar (Deemed to be University),Haryana,Ambala,60.89,2023-24,PG [3 Year Program(s)],,7.0,7.0,610000.0
+Pharmacy,26,Maharishi Markandeshwar (Deemed to be University),Haryana,Ambala,60.89,2023-24,PG [6 Year Program(s)],,28.0,26.0,610000.0
+Pharmacy,26,Maharishi Markandeshwar (Deemed to be University),Haryana,Ambala,60.89,2023-24,UG [4 Years Program(s)],,79.0,59.0,440000.0
+Pharmacy,27,Central University of Rajasthan,Rajasthan,Kishangarh,60.44,2023-24,PG [2 Year Program(s)],,16.0,12.0,336000.0
+Pharmacy,28,Birla Institute of Technology,Jharkhand,Ranchi,59.97,2023-24,PG [2 Year Program(s)],,40.0,31.0,350000.0
+Pharmacy,28,Birla Institute of Technology,Jharkhand,Ranchi,59.97,2023-24,UG [4 Years Program(s)],,45.0,23.0,498500.0
+Pharmacy,29,National Institute of Pharmaceutical Education and Research- Kolkata,West Bengal,Kolkata,59.12,2023-24,PG [2 Year Program(s)],,88.0,61.0,505000.0
+Pharmacy,29,National Institute of Pharmaceutical Education and Research- Kolkata,West Bengal,Kolkata,59.12,2023-24,PG [6 Year Program(s)],,0.0,0.0,0.0
+Pharmacy,30,National Institute of Pharmaceutical Education and Research- Hajipur,Bihar,Hajipur,58.44,2023-24,PG [2 Year Program(s)],,91.0,63.0,490000.0
+Pharmacy,31,"AU College of Pharmaceutical Sciences, Andhra University",Andhra Pradesh,Visakhapatnam,58.19,2023-24,PG [2 Year Program(s)],,98.0,90.0,450000.0
+Pharmacy,31,"AU College of Pharmaceutical Sciences, Andhra University",Andhra Pradesh,Visakhapatnam,58.19,2023-24,PG [3 Year Program(s)],,11.0,11.0,450000.0
+Pharmacy,31,"AU College of Pharmaceutical Sciences, Andhra University",Andhra Pradesh,Visakhapatnam,58.19,2023-24,PG [6 Year Program(s)],,30.0,23.0,450000.0
+Pharmacy,31,"AU College of Pharmaceutical Sciences, Andhra University",Andhra Pradesh,Visakhapatnam,58.19,2023-24,UG [4 Years Program(s)],,48.0,35.0,400000.0
+Pharmacy,32,Nirma University,Gujarat,Ahmedabad,57.08,2023-24,PG [2 Year Program(s)],,50.0,46.0,366923.0
+Pharmacy,32,Nirma University,Gujarat,Ahmedabad,57.08,2023-24,UG [4 Years Program(s)],,110.0,13.0,250000.0
+Pharmacy,33,Gandhi Institute of Technology and Management (GITAM),Andhra Pradesh,Visakhapatnam,56.66,2023-24,PG [2 Year Program(s)],,43.0,38.0,340000.0
+Pharmacy,33,Gandhi Institute of Technology and Management (GITAM),Andhra Pradesh,Visakhapatnam,56.66,2023-24,UG [4 Years Program(s)],,120.0,100.0,320000.0
+Pharmacy,34,"Poona College of Pharmacy, Erandwane, Pune",Maharashtra,Pune,56.28,2023-24,PG [2 Year Program(s)],,104.0,92.0,450000.0
+Pharmacy,34,"Poona College of Pharmacy, Erandwane, Pune",Maharashtra,Pune,56.28,2023-24,PG [6 Year Program(s)],,40.0,34.0,500000.0
+Pharmacy,34,"Poona College of Pharmacy, Erandwane, Pune",Maharashtra,Pune,56.28,2023-24,UG [4 Years Program(s)],,110.0,68.0,400000.0
+Pharmacy,35,Padmashree Dr. D. Y. Patil Institute of Pharmaceutical Sciences and Research,Maharashtra,Pune,56.18,2023-24,PG [2 Year Program(s)],,51.0,48.0,360000.0
+Pharmacy,35,Padmashree Dr. D. Y. Patil Institute of Pharmaceutical Sciences and Research,Maharashtra,Pune,56.18,2023-24,PG [6 Year Program(s)],,29.0,26.0,410000.0
+Pharmacy,35,Padmashree Dr. D. Y. Patil Institute of Pharmaceutical Sciences and Research,Maharashtra,Pune,56.18,2023-24,UG [4 Years Program(s)],,118.0,57.0,345000.0
+Pharmacy,36,Sri Ramachandra Institute of Higher Education and Research,Tamil Nadu,Chennai,55.99,2023-24,PG [2 Year Program(s)],,77.0,72.0,620000.0
+Pharmacy,36,Sri Ramachandra Institute of Higher Education and Research,Tamil Nadu,Chennai,55.99,2023-24,PG [3 Year Program(s)],,10.0,10.0,500000.0
+Pharmacy,36,Sri Ramachandra Institute of Higher Education and Research,Tamil Nadu,Chennai,55.99,2023-24,PG [6 Year Program(s)],,26.0,22.0,800000.0
+Pharmacy,36,Sri Ramachandra Institute of Higher Education and Research,Tamil Nadu,Chennai,55.99,2023-24,UG [4 Years Program(s)],,90.0,32.0,420000.0
+Pharmacy,37,Noida Institute of Engineering and Technology (Pharmacy Institute),Uttar Pradesh,Greater Noida,55.66,2023-24,PG [2 Year Program(s)],,45.0,43.0,442500.0
+Pharmacy,37,Noida Institute of Engineering and Technology (Pharmacy Institute),Uttar Pradesh,Greater Noida,55.66,2023-24,UG [4 Years Program(s)],,110.0,99.0,456700.0
+Pharmacy,38,SVKM'S Dr. Bhanuben Nanavati College of Pharmacy,Maharashtra,Mumbai,55.55,2023-24,PG [2 Year Program(s)],,58.0,54.0,540000.0
+Pharmacy,38,SVKM'S Dr. Bhanuben Nanavati College of Pharmacy,Maharashtra,Mumbai,55.55,2023-24,UG [4 Years Program(s)],,101.0,52.0,480000.0
+Pharmacy,39,Suresh Gyan Vihar University,Rajasthan,Jaipur,55.28,2023-24,UG [4 Years Program(s)],,99.0,8.0,352000.0
+Pharmacy,40,Integral University,Uttar Pradesh,Lucknow,54.97,2023-24,PG [2 Year Program(s)],,35.0,27.0,510000.0
+Pharmacy,40,Integral University,Uttar Pradesh,Lucknow,54.97,2023-24,PG [3 Year Program(s)],,10.0,9.0,475000.0
+Pharmacy,40,Integral University,Uttar Pradesh,Lucknow,54.97,2023-24,PG [6 Year Program(s)],,33.0,31.0,480000.0
+Pharmacy,40,Integral University,Uttar Pradesh,Lucknow,54.97,2023-24,UG [4 Years Program(s)],,107.0,26.0,500000.0
+Pharmacy,41,Parul University,Gujarat,Vadodara,54.89,2023-24,PG [2 Year Program(s)],,70.0,66.0,600000.0
+Pharmacy,41,Parul University,Gujarat,Vadodara,54.89,2023-24,PG [3 Year Program(s)],,9.0,6.0,500000.0
+Pharmacy,41,Parul University,Gujarat,Vadodara,54.89,2023-24,PG [6 Year Program(s)],,24.0,20.0,625000.0
+Pharmacy,41,Parul University,Gujarat,Vadodara,54.89,2023-24,UG [4 Years Program(s)],,99.0,18.0,275000.0
+Pharmacy,42,Annamalai University,Tamil Nadu,Annamalainagar,54.68,2023-24,PG [2 Year Program(s)],,27.0,25.0,572800.0
+Pharmacy,42,Annamalai University,Tamil Nadu,Annamalainagar,54.68,2023-24,PG [3 Year Program(s)],,6.0,6.0,934600.0
+Pharmacy,42,Annamalai University,Tamil Nadu,Annamalainagar,54.68,2023-24,PG [6 Year Program(s)],,29.0,29.0,1135600.0
+Pharmacy,42,Annamalai University,Tamil Nadu,Annamalainagar,54.68,2023-24,UG [4 Years Program(s)],,66.0,54.0,302400.0
+Pharmacy,43,Maharishi Dayanand University,Haryana,Rohtak,54.4,2023-24,PG [2 Year Program(s)],,50.0,46.0,525000.0
+Pharmacy,43,Maharishi Dayanand University,Haryana,Rohtak,54.4,2023-24,UG [4 Years Program(s)],,55.0,36.0,400000.0
+Pharmacy,44,Shoolini University of Biotechnology and Management Sciences-Solan,Himachal Pradesh,Solan,53.81,2023-24,PG [2 Year Program(s)],,31.0,11.0,425000.0
+Pharmacy,44,Shoolini University of Biotechnology and Management Sciences-Solan,Himachal Pradesh,Solan,53.81,2023-24,UG [4 Years Program(s)],,81.0,37.0,310000.0
+Pharmacy,45,L. M. College of Pharmacy,Gujarat,Ahmedabad,53.66,2023-24,PG [2 Year Program(s)],,53.0,45.0,330000.0
+Pharmacy,45,L. M. College of Pharmacy,Gujarat,Ahmedabad,53.66,2023-24,PG [3 Year Program(s)],,0.0,0.0,0.0
+Pharmacy,45,L. M. College of Pharmacy,Gujarat,Ahmedabad,53.66,2023-24,PG [6 Year Program(s)],,30.0,21.0,333000.0
+Pharmacy,45,L. M. College of Pharmacy,Gujarat,Ahmedabad,53.66,2023-24,UG [4 Years Program(s)],,108.0,24.0,225000.0
+Pharmacy,46,Maharaja Sayajirao University of Baroda,Gujarat,Vadodara,53.45,2023-24,PG [2 Year Program(s)],,48.0,38.0,325017.0
+Pharmacy,46,Maharaja Sayajirao University of Baroda,Gujarat,Vadodara,53.45,2023-24,UG [4 Years Program(s)],,28.0,2.0,267000.0
+Pharmacy,47,Guru Ghasidas Vishwavidyalaya,Chhattisgarh,Bilaspur (Chhattisgarh),53.36,2023-24,PG [2 Year Program(s)],,54.0,49.0,360000.0
+Pharmacy,47,Guru Ghasidas Vishwavidyalaya,Chhattisgarh,Bilaspur (Chhattisgarh),53.36,2023-24,UG [4 Years Program(s)],,72.0,47.0,300000.0
+Pharmacy,48,G. L. A. University,Uttar Pradesh,Mathura,53.32,2023-24,PG [2 Year Program(s)],,28.0,16.0,400000.0
+Pharmacy,48,G. L. A. University,Uttar Pradesh,Mathura,53.32,2023-24,UG [4 Years Program(s)],,83.0,7.0,325000.0
+Pharmacy,49,"Guru Jambheshwar University of Science and Technology, Hissar",Haryana,Hisar,53.03,2023-24,PG [2 Year Program(s)],,41.0,37.0,496191.0
+Pharmacy,49,"Guru Jambheshwar University of Science and Technology, Hissar",Haryana,Hisar,53.03,2023-24,UG [4 Years Program(s)],,58.0,30.0,425000.0
+Pharmacy,50,KLE College of Pharmacy-Bangalore,Karnataka,Belgaum,52.86,2023-24,PG [2 Year Program(s)],,134.0,104.0,600000.0
+Pharmacy,50,KLE College of Pharmacy-Bangalore,Karnataka,Belgaum,52.86,2023-24,PG [6 Year Program(s)],,56.0,18.0,560000.0
+Pharmacy,50,KLE College of Pharmacy-Bangalore,Karnataka,Belgaum,52.86,2023-24,UG [4 Years Program(s)],,170.0,44.0,480000.0
+Pharmacy,51,Nitte Gulabi Shetty Memorial Institute of Pharmaceutical Sciences,Karnataka,Mangaluru,52.6,2023-24,PG [2 Year Program(s)],,150.0,146.0,800000.0
+Pharmacy,51,Nitte Gulabi Shetty Memorial Institute of Pharmaceutical Sciences,Karnataka,Mangaluru,52.6,2023-24,PG [6 Year Program(s)],,60.0,46.0,750000.0
+Pharmacy,51,Nitte Gulabi Shetty Memorial Institute of Pharmaceutical Sciences,Karnataka,Mangaluru,52.6,2023-24,UG [4 Years Program(s)],,202.0,152.0,550000.0
+Pharmacy,52,R. C. Patel Institute of Pharmaceutical Education and Research,Maharashtra,Shirpur,52.55,2023-24,PG [2 Year Program(s)],,139.0,128.0,520000.0
+Pharmacy,52,R. C. Patel Institute of Pharmaceutical Education and Research,Maharashtra,Shirpur,52.55,2023-24,UG [4 Years Program(s)],,110.0,58.0,360000.0
+Pharmacy,53,Dibrugarh University,Assam,Dibrugarh,50.91,2023-24,PG [2 Year Program(s)],,26.0,23.0,400000.0
+Pharmacy,53,Dibrugarh University,Assam,Dibrugarh,50.91,2023-24,UG [4 Years Program(s)],,46.0,21.0,340000.0
+Pharmacy,54,The Rashtrasant Tukadoji Maharaj Nagpur University,Maharashtra,Nagpur,50.79,2023-24,PG [2 Year Program(s)],,41.0,36.0,550000.0
+Pharmacy,54,The Rashtrasant Tukadoji Maharaj Nagpur University,Maharashtra,Nagpur,50.79,2023-24,UG [4 Years Program(s)],,40.0,4.0,280000.0
+Pharmacy,55,Galgotias University,Uttar Pradesh,Gautam Budh Nagar,50.66,2023-24,PG [2 Year Program(s)],,15.0,12.0,724000.0
+Pharmacy,55,Galgotias University,Uttar Pradesh,Gautam Budh Nagar,50.66,2023-24,UG [4 Years Program(s)],,83.0,31.0,427000.0
+Pharmacy,56,M. S. Ramaiah University of Applied Sciences,Karnataka,Bengaluru,50.2,2023-24,PG [2 Year Program(s)],,61.0,56.0,680000.0
+Pharmacy,56,M. S. Ramaiah University of Applied Sciences,Karnataka,Bengaluru,50.2,2023-24,PG [6 Year Program(s)],,29.0,24.0,700000.0
+Pharmacy,56,M. S. Ramaiah University of Applied Sciences,Karnataka,Bengaluru,50.2,2023-24,UG [4 Years Program(s)],,79.0,40.0,450000.0
+Pharmacy,57,Sharda University,Uttar Pradesh,Greater Noida,49.99,2023-24,UG [4 Years Program(s)],,63.0,15.0,300000.0
+Pharmacy,58,Gujarat Technological University,Gujarat,Ahmedabad,49.72,2023-24,PG [2 Year Program(s)],,52.0,48.0,750000.0
+Pharmacy,59,"Punjabi University, Patiala",Punjab,Patiala,49.35,2023-24,PG [2 Year Program(s)],,36.0,27.0,480000.0
+Pharmacy,59,"Punjabi University, Patiala",Punjab,Patiala,49.35,2023-24,UG [4 Years Program(s)],,50.0,15.0,325000.0
+Pharmacy,60,Sri Padmavathi Mahila Visva Vidyalayam,Andhra Pradesh,Tirupati,49.12,2023-24,PG [2 Year Program(s)],,42.0,35.0,320000.0
+Pharmacy,60,Sri Padmavathi Mahila Visva Vidyalayam,Andhra Pradesh,Tirupati,49.12,2023-24,UG [4 Years Program(s)],,45.0,16.0,250000.0
+Pharmacy,61,Vels Institute of Science Technology and Advanced Studies (VISTAS)-Chennai,Tamil Nadu,Chennai,49.03,2023-24,PG [2 Year Program(s)],,45.0,45.0,532000.0
+Pharmacy,61,Vels Institute of Science Technology and Advanced Studies (VISTAS)-Chennai,Tamil Nadu,Chennai,49.03,2023-24,PG [3 Year Program(s)],,4.0,4.0,532000.0
+Pharmacy,61,Vels Institute of Science Technology and Advanced Studies (VISTAS)-Chennai,Tamil Nadu,Chennai,49.03,2023-24,PG [6 Year Program(s)],,27.0,23.0,590000.0
+Pharmacy,61,Vels Institute of Science Technology and Advanced Studies (VISTAS)-Chennai,Tamil Nadu,Chennai,49.03,2023-24,UG [4 Years Program(s)],,98.0,53.0,481000.0
+Pharmacy,62,"Amity University Haryana, Gurgaon",Haryana,"Gurugram, Haryana",48.64,2023-24,UG [4 Years Program(s)],,40.0,22.0,400000.0
+Pharmacy,63,Central University of South Bihar,Bihar,Gaya,48.23,2023-24,PG [2 Year Program(s)],,29.0,16.0,620000.0
+Pharmacy,64,Mohan Lal Sukhadia University,Rajasthan,Udaipur,48.19,2023-24,UG [4 Years Program(s)],,34.0,18.0,440000.0
+Pharmacy,65,PSG College of Pharmacy,Tamil Nadu,Coimbatore,46.96,2023-24,PG [2 Year Program(s)],,33.0,33.0,450000.0
+Pharmacy,65,PSG College of Pharmacy,Tamil Nadu,Coimbatore,46.96,2023-24,PG [3 Year Program(s)],,0.0,0.0,0.0
+Pharmacy,65,PSG College of Pharmacy,Tamil Nadu,Coimbatore,46.96,2023-24,PG [6 Year Program(s)],,25.0,16.0,550000.0
+Pharmacy,65,PSG College of Pharmacy,Tamil Nadu,Coimbatore,46.96,2023-24,UG [4 Years Program(s)],,106.0,60.0,475000.0
+Pharmacy,66,Smt. Kishoritai Bhoyar College of Pharmacy,Maharashtra,Nagpur,46.46,2023-24,PG [2 Year Program(s)],,79.0,68.0,490000.0
+Pharmacy,66,Smt. Kishoritai Bhoyar College of Pharmacy,Maharashtra,Nagpur,46.46,2023-24,UG [4 Years Program(s)],,128.0,29.0,455000.0
+Pharmacy,67,Acharya Nagarjuna University College of Pharmaceutical Sciences,Andhra Pradesh,Guntur,46.34,2023-24,PG [2 Year Program(s)],,48.0,44.0,600000.0
+Pharmacy,67,Acharya Nagarjuna University College of Pharmaceutical Sciences,Andhra Pradesh,Guntur,46.34,2023-24,UG [4 Years Program(s)],,109.0,28.0,450000.0
+Pharmacy,68,Bundelkhand University,Uttar Pradesh,Jhansi,46.31,2023-24,PG [2 Year Program(s)],,12.0,9.0,550000.0
+Pharmacy,68,Bundelkhand University,Uttar Pradesh,Jhansi,46.31,2023-24,UG [4 Years Program(s)],,86.0,54.0,455000.0
+Pharmacy,69,"Chandigarh College of Pharmacy, Landran",Punjab,Landran,45.89,2023-24,PG [2 Year Program(s)],,27.0,24.0,740000.0
+Pharmacy,69,"Chandigarh College of Pharmacy, Landran",Punjab,Landran,45.89,2023-24,UG [4 Years Program(s)],,105.0,19.0,475000.0
+Pharmacy,70,Dr. Vishwanath Karad MIT World Peace University,Maharashtra,Pune,45.76,2023-24,PG [2 Year Program(s)],,54.0,36.0,300000.0
+Pharmacy,70,Dr. Vishwanath Karad MIT World Peace University,Maharashtra,Pune,45.76,2023-24,PG [6 Year Program(s)],,0.0,0.0,0.0
+Pharmacy,70,Dr. Vishwanath Karad MIT World Peace University,Maharashtra,Pune,45.76,2023-24,UG [4 Years Program(s)],,79.0,16.0,300000.0
+Pharmacy,71,KIET Group of Institutions: KIET Group of Pharmacy,Uttar Pradesh,Ghaziabad,45.73,2023-24,PG [2 Year Program(s)],,76.0,70.0,600000.0
+Pharmacy,71,KIET Group of Institutions: KIET Group of Pharmacy,Uttar Pradesh,Ghaziabad,45.73,2023-24,UG [4 Years Program(s)],,172.0,102.0,764000.0
+Pharmacy,72,Anurag University,Telangana,Hyderabad,45.19,2023-24,PG [2 Year Program(s)],,29.0,22.0,420000.0
+Pharmacy,72,Anurag University,Telangana,Hyderabad,45.19,2023-24,PG [3 Year Program(s)],,9.0,5.0,410000.0
+Pharmacy,72,Anurag University,Telangana,Hyderabad,45.19,2023-24,PG [6 Year Program(s)],,30.0,18.0,420000.0
+Pharmacy,72,Anurag University,Telangana,Hyderabad,45.19,2023-24,UG [4 Years Program(s)],,89.0,17.0,420000.0
+Pharmacy,73,"Kumaun University, Nainital",Uttarakhand,Nainital,45.06,2023-24,PG [2 Year Program(s)],,36.0,30.0,400000.0
+Pharmacy,73,"Kumaun University, Nainital",Uttarakhand,Nainital,45.06,2023-24,UG [4 Years Program(s)],,38.0,4.0,250000.0
+Pharmacy,74,Sri Venkateshwara College of Pharmacy,Andhra Pradesh,Chittoor,44.52,2023-24,PG [2 Year Program(s)],,20.0,19.0,575000.0
+Pharmacy,74,Sri Venkateshwara College of Pharmacy,Andhra Pradesh,Chittoor,44.52,2023-24,PG [6 Year Program(s)],,25.0,23.0,570000.0
+Pharmacy,74,Sri Venkateshwara College of Pharmacy,Andhra Pradesh,Chittoor,44.52,2023-24,UG [4 Years Program(s)],,102.0,63.0,520000.0
+Pharmacy,75,Uttaranchal University,Uttarakhand,Dehradun,44.35,2023-24,UG [4 Years Program(s)],,96.0,0.0,0.0
+Pharmacy,76,Assam University-Silchar,Assam,Silchar,44.24,2023-24,PG [2 Year Program(s)],,0.0,0.0,0.0
+Pharmacy,76,Assam University-Silchar,Assam,Silchar,44.24,2023-24,UG [4 Years Program(s)],,46.0,29.0,300000.0
+Pharmacy,77,Nandha College of Pharmacy-Erode,Tamil Nadu,Erode,44.2,2023-24,PG [2 Year Program(s)],,54.0,50.0,367500.0
+Pharmacy,77,Nandha College of Pharmacy-Erode,Tamil Nadu,Erode,44.2,2023-24,PG [6 Year Program(s)],,26.0,22.0,497000.0
+Pharmacy,77,Nandha College of Pharmacy-Erode,Tamil Nadu,Erode,44.2,2023-24,UG [4 Years Program(s)],,94.0,79.0,327000.0
+Pharmacy,78,"Bharati Vidyapeeth College of Pharmacy, Kolhapur",Maharashtra,Kolhapur,43.95,2023-24,PG [2 Year Program(s)],,88.0,58.0,600000.0
+Pharmacy,78,"Bharati Vidyapeeth College of Pharmacy, Kolhapur",Maharashtra,Kolhapur,43.95,2023-24,UG [4 Years Program(s)],,152.0,6.0,360000.0
+Pharmacy,79,"NIMS University, Jaipur",Rajasthan,Jaipur,43.92,2023-24,PG [2 Year Program(s)],,21.0,18.0,650000.0
+Pharmacy,79,"NIMS University, Jaipur",Rajasthan,Jaipur,43.92,2023-24,PG [3 Year Program(s)],,10.0,9.0,710000.0
+Pharmacy,79,"NIMS University, Jaipur",Rajasthan,Jaipur,43.92,2023-24,PG [6 Year Program(s)],,28.0,23.0,1150000.0
+Pharmacy,79,"NIMS University, Jaipur",Rajasthan,Jaipur,43.92,2023-24,UG [4 Years Program(s)],,59.0,17.0,625000.0
+Pharmacy,80,Sri Adichunchanagiri College of Pharmacy,Karnataka,B G Nagar,43.87,2023-24,PG [2 Year Program(s)],,79.0,69.0,470000.0
+Pharmacy,80,Sri Adichunchanagiri College of Pharmacy,Karnataka,B G Nagar,43.87,2023-24,PG [6 Year Program(s)],,30.0,24.0,440000.0
+Pharmacy,80,Sri Adichunchanagiri College of Pharmacy,Karnataka,B G Nagar,43.87,2023-24,UG [4 Years Program(s)],,105.0,26.0,370000.0
+Pharmacy,81,"Amar Shaheed Baba Ajit Singh Jujhar Singh Memorial College of Pharmacy, BELA",Punjab,Bela,43.75,2023-24,PG [2 Year Program(s)],,37.0,32.0,550000.0
+Pharmacy,81,"Amar Shaheed Baba Ajit Singh Jujhar Singh Memorial College of Pharmacy, BELA",Punjab,Bela,43.75,2023-24,UG [4 Years Program(s)],,54.0,12.0,482000.0
+Pharmacy,82,Acharya and B M Reddy College of Pharmacy-Bengaluru,Karnataka,Bengaluru,43.74,2023-24,PG [2 Year Program(s)],,54.0,49.0,520000.0
+Pharmacy,82,Acharya and B M Reddy College of Pharmacy-Bengaluru,Karnataka,Bengaluru,43.74,2023-24,PG [3 Year Program(s)],,10.0,7.0,475000.0
+Pharmacy,82,Acharya and B M Reddy College of Pharmacy-Bengaluru,Karnataka,Bengaluru,43.74,2023-24,PG [6 Year Program(s)],,29.0,23.0,475000.0
+Pharmacy,82,Acharya and B M Reddy College of Pharmacy-Bengaluru,Karnataka,Bengaluru,43.74,2023-24,UG [4 Years Program(s)],,96.0,43.0,425000.0
+Pharmacy,83,DIT University,Uttarakhand,Dehradun,43.54,2023-24,PG [2 Year Program(s)],,30.0,22.0,400000.0
+Pharmacy,83,Maulana Abul Kalam Azad University of Technology,West Bengal,Nadia,43.54,2023-24,PG [2 Year Program(s)],,27.0,23.0,250000.0
+Pharmacy,83,DIT University,Uttarakhand,Dehradun,43.54,2023-24,UG [4 Years Program(s)],,72.0,25.0,377000.0
+Pharmacy,85,Guru Nanak Institute of Pharmaceutical Science and Technology,West Bengal,Kolkata,43.23,2023-24,PG [2 Year Program(s)],,83.0,75.0,424000.0
+Pharmacy,85,Guru Nanak Institute of Pharmaceutical Science and Technology,West Bengal,Kolkata,43.23,2023-24,UG [4 Years Program(s)],,116.0,26.0,280000.0
+Pharmacy,86,"Mahatama Jyotiba Phule Rohikhand University, Bareilly",Uttar Pradesh,Bareilly,43.12,2023-24,PG [2 Year Program(s)],,26.0,23.0,671541.0
+Pharmacy,86,"Mahatama Jyotiba Phule Rohikhand University, Bareilly",Uttar Pradesh,Bareilly,43.12,2023-24,UG [4 Years Program(s)],,63.0,55.0,555671.0
+Pharmacy,87,"Sam Higginbottom Institute of Agriculture, Technology and Sciences",Uttar Pradesh,Prayagraj,43.11,2023-24,PG [2 Year Program(s)],,4.0,0.0,0.0
+Pharmacy,87,"Sam Higginbottom Institute of Agriculture, Technology and Sciences",Uttar Pradesh,Prayagraj,43.11,2023-24,UG [4 Years Program(s)],,47.0,1.0,300000.0
+Pharmacy,88,Y. B. Chavan College of Pharmacy,Maharashtra,Aurangabad,42.76,2023-24,PG [2 Year Program(s)],,54.0,42.0,320000.0
+Pharmacy,88,Y. B. Chavan College of Pharmacy,Maharashtra,Aurangabad,42.76,2023-24,UG [4 Years Program(s)],,78.0,27.0,284000.0
+Pharmacy,89,Goa College of Pharmacy,Goa,Panaji,42.7,2023-24,PG [2 Year Program(s)],,41.0,39.0,220000.0
+Pharmacy,89,Goa College of Pharmacy,Goa,Panaji,42.7,2023-24,UG [4 Years Program(s)],,74.0,38.0,168000.0
+Pharmacy,90,G. D. Goenka University,Haryana,Gurgaon,42.65,2023-24,PG [2 Year Program(s)],,43.0,38.0,450000.0
+Pharmacy,90,G. D. Goenka University,Haryana,Gurgaon,42.65,2023-24,UG [4 Years Program(s)],,76.0,42.0,350000.0
+Pharmacy,91,Krupanidhi College of Pharmacy,Karnataka,Bengaluru,42.63,2023-24,PG [2 Year Program(s)],,59.0,56.0,560000.0
+Pharmacy,91,Krupanidhi College of Pharmacy,Karnataka,Bengaluru,42.63,2023-24,PG [6 Year Program(s)],,28.0,27.0,575000.0
+Pharmacy,91,Krupanidhi College of Pharmacy,Karnataka,Bengaluru,42.63,2023-24,UG [4 Years Program(s)],,86.0,38.0,440000.0
+Pharmacy,92,P. E. Society's Modern College of Pharmacy,Maharashtra,Pune,42.58,2023-24,PG [2 Year Program(s)],,65.0,63.0,320000.0
+Pharmacy,92,P. E. Society's Modern College of Pharmacy,Maharashtra,Pune,42.58,2023-24,PG [6 Year Program(s)],,30.0,28.0,300000.0
+Pharmacy,92,P. E. Society's Modern College of Pharmacy,Maharashtra,Pune,42.58,2023-24,UG [4 Years Program(s)],,118.0,87.0,350000.0
+Pharmacy,93,IFTM University,Uttar Pradesh,Moradabad,42.4,2023-24,PG [2 Year Program(s)],,48.0,39.0,510960.0
+Pharmacy,93,IFTM University,Uttar Pradesh,Moradabad,42.4,2023-24,UG [4 Years Program(s)],,101.0,46.0,600000.0
+Pharmacy,94,"College of Pharmacy, Madras Medical College",Tamil Nadu,Chennai,42.34,2023-24,PG [2 Year Program(s)],,31.0,30.0,648000.0
+Pharmacy,94,"College of Pharmacy, Madras Medical College",Tamil Nadu,Chennai,42.34,2023-24,UG [4 Years Program(s)],,65.0,40.0,360000.0
+Pharmacy,95,IES Institute of Pharmacy,Madhya Pradesh,Bhopal,42.21,2023-24,UG [4 Years Program(s)],,96.0,53.0,350000.0
+Pharmacy,96,Arulmigu Kalasalingam College of Pharmacy,Tamil Nadu,Srivilliputtur,42.15,2023-24,PG [2 Year Program(s)],,17.0,10.0,325000.0
+Pharmacy,96,Arulmigu Kalasalingam College of Pharmacy,Tamil Nadu,Srivilliputtur,42.15,2023-24,PG [6 Year Program(s)],,30.0,17.0,300000.0
+Pharmacy,96,Arulmigu Kalasalingam College of Pharmacy,Tamil Nadu,Srivilliputtur,42.15,2023-24,UG [4 Years Program(s)],,59.0,34.0,288000.0
+Pharmacy,97,JIS University,West Bengal,Kolkata,41.67,2023-24,PG [2 Year Program(s)],,19.0,19.0,325600.0
+Pharmacy,97,JIS University,West Bengal,Kolkata,41.67,2023-24,UG [4 Years Program(s)],,108.0,56.0,210000.0
+Pharmacy,98,Ramanbhai Patel College of Pharmacy,Gujarat,Anand,41.56,2023-24,PG [2 Year Program(s)],,45.0,39.0,240000.0
+Pharmacy,98,Ramanbhai Patel College of Pharmacy,Gujarat,Anand,41.56,2023-24,UG [4 Years Program(s)],,103.0,5.0,180000.0
+Pharmacy,99,Vinayaka Mission's Research Foundation,Tamil Nadu,Salem,41.55,2023-24,PG [2 Year Program(s)],,17.0,17.0,426000.0
+Pharmacy,99,Vinayaka Mission's Research Foundation,Tamil Nadu,Salem,41.55,2023-24,PG [3 Year Program(s)],,4.0,4.0,472000.0
+Pharmacy,99,Vinayaka Mission's Research Foundation,Tamil Nadu,Salem,41.55,2023-24,PG [6 Year Program(s)],,21.0,19.0,480000.0
+Pharmacy,99,Vinayaka Mission's Research Foundation,Tamil Nadu,Salem,41.55,2023-24,UG [4 Years Program(s)],,96.0,68.0,300000.0
+Pharmacy,100,Glocal University,Uttar Pradesh,Saharanpur,41.48,2023-24,PG [2 Year Program(s)],,24.0,20.0,612000.0
+Pharmacy,100,Shree Guru Gobind Singh Tricentenary University,Haryana,Gurgaon,41.48,2023-24,PG [2 Year Program(s)],,48.0,41.0,490000.0
+Pharmacy,100,Shree Guru Gobind Singh Tricentenary University,Haryana,Gurgaon,41.48,2023-24,PG [3 Year Program(s)],,0.0,0.0,0.0
+Pharmacy,100,Shree Guru Gobind Singh Tricentenary University,Haryana,Gurgaon,41.48,2023-24,PG [6 Year Program(s)],,0.0,0.0,0.0
+Pharmacy,100,Shree Guru Gobind Singh Tricentenary University,Haryana,Gurgaon,41.48,2023-24,UG [4 Years Program(s)],,75.0,42.0,410000.0
+Pharmacy,100,Glocal University,Uttar Pradesh,Saharanpur,41.48,2023-24,UG [4 Years Program(s)],,98.0,9.0,241000.0
