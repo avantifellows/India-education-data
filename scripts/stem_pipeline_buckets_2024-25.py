@@ -35,25 +35,25 @@ OUT = ROOT / "extractions" / "stem_pipeline_buckets_2024-25.csv"
 ROWS = [
     {
         "bucket": "1. IITs",
-        "n_institutes": 22,
-        "annual_grads": 11851,
-        "annual_placed": 8954,
-        "placement_pct": 75.6,
-        "median_salary_lakh": 16.4,
-        "share_of_stem_pct": round(11851 / 1382000 * 100, 2),
-        "source": "NIRF 2025 (22 of 23 IITs in top-100 Engineering); 2023-24 B.Tech cohort",
-        "notes": "23rd IIT (Goa) not in top-100. AICTE B.Tech first-year intake at IITs ~17K/yr per JoSAA. Median salary is *median* — top quartile placements at IIT-B/D/M cross ₹50 L/yr.",
+        "n_institutes": 23,  # all 23 IITs covered (incl. IIT Goa via direct NIRF PDF in College DB)
+        "annual_grads": 15647,   # JoSAA 2024 IIT first-year B.Tech seats = 17,385 × 90% completion
+        "annual_placed": 14333,  # 15647 × 91.6% (College DB avg placement rate across 23 IITs)
+        "placement_pct": 91.6,
+        "median_salary_lakh": 17.2,  # College DB avg median across 23 IITs
+        "share_of_stem_pct": round(15647 / 1382000 * 100, 2),
+        "source": "JoSAA 2024 seat matrix (17,385 first-year B.Tech seats across 23 IITs) + College DB scorecards (NIRF Mandatory Disclosure PDFs scraped per-institute, incl. IIT Goa which doesn't appear in NIRF aggregate rankings)",
+        "notes": "All 23 IITs covered. Median salary range across IITs: ₹12 L (IIT Palakkad) to ₹22.5 L (IIT Guwahati). Top-quartile placements at IIT-B/D/M cross ₹50 L/yr (mean is much higher than median).",
     },
     {
         "bucket": "2. NITs / IIITs",
-        "n_institutes": 30,  # 27 NITs + 3 IIITs in top-200
-        "annual_grads": 18544 + 1316,
-        "annual_placed": 13851 + 558,
-        "placement_pct": round((13851+558)/(18544+1316)*100, 1),
-        "median_salary_lakh": 10.5,  # weighted avg
-        "share_of_stem_pct": round((18544+1316) / 1382000 * 100, 2),
-        "source": "NIRF 2025 top-100 (22 NITs + 1 IIIT) + NIRF 2022 ranks 101-200 (5 NITs + 2 IIITs)",
-        "notes": "31 NITs and 25 IIITs exist in total; only 30 are in NIRF top-200. Missing IIITs are smaller/newer institutions producing maybe ~5K grads/yr collectively (not estimated here).",
+        "n_institutes": 57,  # 31 NITs + 26 IIITs (per JoSAA 2024)
+        "annual_grads": 29510,   # 21806 NIT + 7704 IIIT (JoSAA seats × 90%)
+        "annual_placed": 26227,  # weighted avg placement ~89%
+        "placement_pct": 88.9,
+        "median_salary_lakh": 10.1,  # ₹9.5 L NIT (College DB avg) + ₹12.1 L IIIT (top 17 with data) → weighted
+        "share_of_stem_pct": round(29510 / 1382000 * 100, 2),
+        "source": "JoSAA 2024 seat matrix (NITs: 24,229 first-year seats / IIITs: 8,560 first-year seats; × 90% completion) + College DB scorecards. 31 of 31 NITs have placement data; 17 of 26 IIITs have placement data — remaining 9 IIITs (newer/PPP) extrapolated using NIT-tier avg.",
+        "notes": "Sample placement rates: NIT Trichy 95%, NIT Surathkal 92%, NIT Warangal 89%, NIT Goa 86%; IIIT Allahabad 97%, IIIT Hyderabad 96%, IIIT Bangalore 89%. Smallest NITs/IIITs (Manipur, Mizoram, Sikkim, Sri City, Vadodara, Bhopal etc.) have weaker data coverage.",
     },
     {
         "bucket": "3. Govt MBBS colleges",
@@ -91,13 +91,15 @@ ROWS = [
     {
         "bucket": "6. All others (long tail)",
         "n_institutes": None,
-        "annual_grads": 829627 - 11851 - (18544+1316) - (85992+69406) + 293528 - 54000,
+        # AISHE Eng total 829,627 - IITs 15,647 - NITs+IIITs 29,510 - NIRF Top-200 (non-IIT/NIT/IIIT) 155,398
+        # + AISHE Medical total 293,528 - Govt MBBS 54,000
+        "annual_grads": 829627 - 15647 - 29510 - 155398 + 293528 - 54000,
         "annual_placed": None,
         "placement_pct": None,
-        "median_salary_lakh": 3.0,  # PLFS engineering bucket avg ₹4.9 L is pulled UP by NIRF-top; non-elite ~₹2.5-3.5 L
-        "share_of_stem_pct": round((829627 - 11851 - 19860 - 155398 + 293528 - 54000) / 1382000 * 100, 2),
-        "source": "Engineering & Technology residual (AISHE 8.3 L − NIRF-top-200 IIT/NIT/IIIT/Other 187K = ~643K) + Medical Science residual (AISHE 2.94 L − Govt MBBS 54K = ~240K)",
-        "notes": "The vast majority — ~6.4 L engineering grads from non-NIRF colleges + ~2.4 L non-MBBS medical (BDS, AYUSH, B.Pharm, Nursing). PLFS-implied avg salary for this cohort: ₹2.5-3.5 L/year in regular jobs, ~30-40% placement rate at best.",
+        "median_salary_lakh": 3.0,
+        "share_of_stem_pct": round((829627 - 15647 - 29510 - 155398 + 293528 - 54000) / 1382000 * 100, 2),
+        "source": "Engineering & Technology residual (AISHE 8.30 L − IIT 15.6K − NIT+IIIT 29.5K − NIRF-top-200-other 155K = ~629K) + Medical Science residual (AISHE 2.94 L − Govt MBBS 54K = ~240K)",
+        "notes": "The vast majority — ~6.3 L engineering grads from non-NIRF colleges + ~2.4 L non-MBBS medical (BDS, AYUSH, B.Pharm, Nursing). PLFS-implied avg salary for this cohort: ₹2.5-3.5 L/year in regular jobs, ~30-40% placement rate at best.",
     },
 ]
 

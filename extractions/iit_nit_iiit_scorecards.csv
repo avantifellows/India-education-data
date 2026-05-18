@@ -1,0 +1,82 @@
+inst_type,institute_name,state,nirf_id,top_200_nirf,placement_rate_pct,median_salary_lakh,expected_salary_lakh,source_link,year_updated
+IIIT,Indian Institute Of Information Technology Allahabad,Uttar Pradesh,IR-E-U-0516,Yes,100.0,28.0,28.0,https://www.nirfindia.org/nirfpdfcdn/2023/pdf/Engineering/IR-E-U-0516.pdf,2023.0
+IIIT,Atal Bihari Vajpayee Indian Institute Of Information Technology And Management Gwalior,Madhya Pradesh,IR-E-U-0267,Yes,100.0,20.0,20.0,https://www.nirfindia.org/nirfpdfcdn/2023/pdf/Engineering/IR-E-U-0267.pdf,2023.0
+IIIT,Pandhi Dwarka Prasad Mishra Indian Institute Of Information Technology And Manufacturing Jabalpur,Madhya Pradesh,IR-E-U-0286,Yes,95.8,11.0,10.54,https://www.nirfindia.org/nirfpdfcdn/2023/pdf/Engineering/IR-E-U-0286.pdf,2023.0
+IIIT,Indian Institute Of Information Technology Design And Manufacturing Kancheepuram,Tamil Nadu,IR-E-U-0455,Yes,94.2,10.16,9.57,https://www.nirfindia.org/nirfpdfcdn/2023/pdf/Engineering/IR-E-U-0455.pdf,2023.0
+IIIT,Indian Institute Of Information Technology Design And Manufacturing Kurnool,Andhra Pradesh,IR-E-U-0863,No,94.2,10.16,9.57,https://old.iiitdm.ac.in/img/Others/nirf/NIRF_2023.pdf,2023.0
+IIIT,Indian Institute Of Information Technology Kottayam,Kerala,,No,93.2,9.0,8.38,https://www.iiitkottayam.ac.in/data/pdf/IIITK_nirf2025_engineering.pdf,
+IIIT,Indian Institute Of Information Technology Guwahati,Assam,IR-E-U-0795,Yes,91.8,14.0,12.85,https://www.nirfindia.org/nirfpdfcdn/2023/pdf/Engineering/IR-E-U-0795.pdf,2023.0
+IIIT,Indian Institute Of Information Technology Ranchi,Jharkhand,IR-E-U-0840,No,88.8,13.32,11.83,https://iiitranchi.ac.in/placement_records.aspx#,
+IIIT,Indian Institute Of Information Technology Nagpur,Maharashtra,,No,87.0,10.0,8.7,https://iiitn.ac.in/Downloads/NIRF/2024/Engineering_INDIAN%20INSTITUTE%20OF%20INFORMATION%20TECHNOLOGY%2C%20NAGPUR20240126-.pdf,
+IIIT,Indian Institute Of Information Technology Pune,Maharashtra,,No,86.2,11.0,9.49,https://www.iiitp.ac.in/sites/default/files/2025-02/INDIAN%20INSTITUTE%20OF%20INFORMATION%20TECHNOLOGY%2C%20PUNE20250214-Engineering.pdf,
+IIIT,Indian Institute Of Information Technology Kota,Rajasthan,IR-E-U-0799,No,83.0,12.47,10.35,https://tpcell.iiitkota.ac.in/,
+IIIT,Indian Institute Of Information Technology Una,Himachal Pradesh,,No,81.9,7.8,6.39,https://iiitu.ac.in/assets/nirf_eng_2025-CdURfKA9.pdf,
+IIIT,Indian Institute Of Information Technology Kalyani,West Bengal,,No,80.9,12.0,9.71,"https://iiitkalyani.ac.in/php/images/2025/INDIAN%20INSTITUTE%20OF%20INFORMATION%20TECHNOLOGY,%20KALYANI20250110-.pdf",
+IIIT,Indian Institute Of Information Technology Sonipat,Haryana,IR-E-U-0800,No,78.8,8.6,6.78,https://iiitsonepat.ac.in/placements,
+IIIT,Indian Institute Of Information Technology Dharwad,Karnataka,,No,77.0,7.5,5.78,https://iiitdwd.ac.in/docs/NIRF_Engineering_Report_2023.pdf,
+IIIT,Indian Institute Of Information Technology Senapati,Manipur,IR-E-U-0770,No,76.2,6.0,4.57,http://iiitmanipur.ac.in/pages/centerTnP/tnpStatus.php,
+IIIT,Indian Institute Of Information Technology Surat,Gujarat,,No,72.6,15.0,10.89,https://www.iiitsurat.ac.in/nirf.php?acadid=bmlyZl9lbmdpbmVlcmluZw==,
+IIIT,Indian Institute Of Information Technology Lucknow,Uttar Pradesh,IR-E-U-0801,No,,,0.0,Data not available,
+IIIT,Indian Institute Of Information Technology Bhagalpur,Bihar,IR-E-U-0953,No,,,0.0,Data not available,
+IIIT,Indian Institute Of Information Technology Vadodara,Gujarat,,No,,,0.0,Data not available,
+IIIT,Indian Institute Of Information Technology Bhopal,Madhya Pradesh,,No,,,0.0,Data not available,
+IIIT,Indian Institute Of Information Technology Dharwad,Karnataka,,,,,,,
+IIIT,Indian Institute Of Information Technology Sri City,Andhra Pradesh,,No,,,0.0,Data not available,
+IIIT,Indian Institute Of Information Technology Tiruchirappalli,Tamil Nadu,,No,,,0.0,Data not available,
+IIIT,Indian Institute Of Information Technology Agartala,Tripura,,No,,,0.0,Data not available,
+IIIT,Indian Institute Of Information Technology Raichur,Karnataka,,No,,,0.0,Data not available,
+IIIT,Indian Institute Of Information Technology Vadodara International Campus Diu,The Dadra and Nagar Haveli and Daman and Diu,,,,,,,
+IIT,Indian Institute Of Technology Delhi,Delhi,IR-E-I-1074,Yes,100.0,20.5,20.5,https://www.nirfindia.org/nirfpdfcdn/2023/pdf/Engineering/IR-E-I-1074.pdf,2023.0
+IIT,Indian Institute Of Technology Patna,Bihar,IR-E-U-0064,Yes,100.0,20.0,20.0,https://www.nirfindia.org/nirfpdfcdn/2023/pdf/Engineering/IR-E-U-0064.pdf,2023.0
+IIT,Indian Institute Of Technology Bombay,Maharashtra,IR-E-U-0306,Yes,100.0,18.8,18.8,https://www.nirfindia.org/nirfpdfcdn/2023/pdf/Engineering/IR-E-U-0306.pdf,2023.0
+IIT,Indian Institute Of Technology Roorkee,Uttarakhand,IR-E-U-0560,Yes,100.0,17.0,17.0,https://www.nirfindia.org/nirfpdfcdn/2023/pdf/Engineering/IR-E-U-0560.pdf,2023.0
+IIT,Indian Institute Of Technology Jodhpur,Rajasthan,IR-E-U-0395,Yes,100.0,15.0,15.0,https://www.nirfindia.org/nirfpdfcdn/2023/pdf/Engineering/IR-E-U-0395.pdf,2023.0
+IIT,Indian Institute Of Technology Kanpur,Uttar Pradesh,IR-E-I-1075,Yes,99.4,22.07,21.93,https://www.nirfindia.org/nirfpdfcdn/2023/pdf/Engineering/IR-E-I-1075.pdf,2023.0
+IIT,Indian Institute Of Technology Bhubaneswar,Odisha,IR-E-U-0355,Yes,98.7,15.0,14.81,https://www.nirfindia.org/nirfpdfcdn/2023/pdf/Engineering/IR-E-U-0355.pdf,2023.0
+IIT,Indian Institute Of Technology Mandi,Himachal Pradesh,IR-E-U-0184,Yes,96.9,21.0,20.35,https://www.nirfindia.org/nirfpdfcdn/2023/pdf/Engineering/IR-E-U-0184.pdf,2023.0
+IIT,Indian Institute Of Technology Guwahati,Assam,IR-E-U-0053,Yes,96.2,22.5,21.64,https://www.nirfindia.org/nirfpdfcdn/2023/pdf/Engineering/IR-E-U-0053.pdf,2023.0
+IIT,Indian Institute Of Technology (Banaras Hindu University) Varanasi,Uttar Pradesh,IR-E-U-0701,Yes,95.9,16.0,15.34,https://www.nirfindia.org/nirfpdfcdn/2023/pdf/Engineering/IR-E-U-0701.pdf,2023.0
+IIT,Indian Institute Of Technology Madras,Tamil Nadu,IR-E-U-0456,Yes,95.8,17.0,16.29,https://www.nirfindia.org/nirfpdfcdn/2023/pdf/Engineering/IR-E-U-0456.pdf,2023.0
+IIT,Indian Institute Of Technology Tirupati,Andhra Pradesh,IR-E-U-0844,Yes,94.0,12.1,11.38,https://www.nirfindia.org/nirfpdfcdn/2023/pdf/Engineering/IR-E-U-0844.pdf,2023.0
+IIT,Indian Institute Of Technology Kharagpur,West Bengal,IR-E-U-0573,Yes,93.8,18.85,17.68,https://www.nirfindia.org/nirfpdfcdn/2023/pdf/Engineering/IR-E-U-0573.pdf,2023.0
+IIT,Indian Institute Of Technology Goa,Goa,IR-E-U-0907,No,91.2,16.0,14.6,https://iitgoa.ac.in/wp-content/uploads/Indian-Institute-of-Technology-Goa20250326-NIRF.pdf,2023.0
+IIT,Indian Institute Of Technology Hyderabad,Telangana,IR-E-U-0013,Yes,91.0,21.0,19.11,https://www.iith.ac.in/assets/files/NIRF-Reports/Indian%20Institute%20of%20Technology%20Hyderabad-Engineering%202024.pdf,2024.0
+IIT,Indian Institute Of Technology (Indian School Of Mines) Dhanbad,Jharkhand,IR-E-U-0205,Yes,90.9,15.0,13.64,https://www.nirfindia.org/nirfpdfcdn/2023/pdf/Engineering/IR-E-U-0205.pdf,2023.0
+IIT,Indian Institute Of Technology Indore,Madhya Pradesh,IR-E-U-0273,Yes,90.1,18.5,16.67,https://www.nirfindia.org/nirfpdfcdn/2023/pdf/Engineering/IR-E-U-0273.pdf,2023.0
+IIT,Indian Institute Of Technology Bhilai,Chhattisgarh,IR-E-U-0946,Yes,87.1,14.0,12.19,https://www.iitbhilai.ac.in/index.php?pid=report_engineering_2024,2023.0
+IIT,Indian Institute Of Technology Ropar,Punjab,IR-E-U-0378,Yes,86.7,17.14,14.87,https://www.nirfindia.org/nirfpdfcdn/2023/pdf/Engineering/IR-E-U-0378.pdf,2023.0
+IIT,Indian Institute Of Technology Palakkad,Kerala,IR-E-U-0878,Yes,82.3,12.0,9.88,https://www.nirfindia.org/nirfpdfcdn/2023/pdf/Engineering/IR-E-U-0878.pdf,2023.0
+IIT,Indian Institute Of Technology Jammu,Jammu and Kashmir,IR-E-U-0906,Yes,79.5,16.0,12.72,https://iitjammu.ac.in/nirf/Indian%20Institute%20of%20Technology%20Jammu20250221.pdf,
+IIT,Indian Institute Of Technology Gandhinagar,Gujarat,IR-E-U-0139,Yes,69.9,14.17,9.91,https://www.nirfindia.org/nirfpdfcdn/2023/pdf/Engineering/IR-E-U-0139.pdf,2023.0
+IIT,Indian Institute Of Technology Dharwad,Karnataka,IR-E-U-0899,Yes,68.1,14.85,10.12,https://www.iitdh.ac.in/sites/default/files/2024-02/IIT%20Dharwad_NIRF%202024_Engineering_29_02_2024.pdf,2023.0
+NIT,National Institute Of Technology Jamshedpur,Jharkhand,IR-E-U-0207,Yes,100.0,9.5,9.5,https://www.nirfindia.org/nirfpdfcdn/2023/pdf/Engineering/IR-E-U-0207.pdf,2023.0
+NIT,National Institute Of Technology Mizoram,Mizoram,,Yes,100.0,7.35,7.35,https://www.nitmz.ac.in/uploaded_files/NIRF2023-2024_NIT_Mizoram.pdf,2023.0
+NIT,Visvesvaraya National Institute Of Technology Nagpur,Maharashtra,IR-E-U-0334,Yes,99.4,8.42,8.37,https://www.nirfindia.org/nirfpdfcdn/2023/pdf/Engineering/IR-E-U-0334.pdf,2023.0
+NIT,National Institute Of Technology Agartala,Tripura,IR-E-U-0493,Yes,99.4,7.0,6.96,https://www.nirfindia.org/nirfpdfcdn/2023/pdf/Engineering/IR-E-U-0493.pdf,2023.0
+NIT,National Institute Of Technology Durgapur,West Bengal,IR-E-U-0577,Yes,99.1,8.1,8.03,https://www.nirfindia.org/nirfpdfcdn/2023/pdf/Engineering/IR-E-U-0577.pdf,2023.0
+NIT,National Institute Of Technology Patna,Bihar,IR-E-U-0072,Yes,98.8,10.0,9.88,https://www.nirfindia.org/nirfpdfcdn/2023/pdf/Engineering/IR-E-U-0072.pdf,2023.0
+NIT,National Institute Of Technology Manipur,Manipur,IR-E-U-0613,Yes,98.7,7.5,7.41,https://www.nirfindia.org/nirfpdfcdn/2023/pdf/Engineering/IR-E-U-0613.pdf,2023.0
+NIT,National Institute Of Technology Nagaland,Nagaland,,Yes,98.1,9.0,8.83,https://www.nitnagaland.ac.in/templates/g5_helium/PDF/OTHERS/National_Institute_of_Technology_Nagaland20230120.pdf,2023.0
+NIT,National Institute Of Technology Calicut,Kerala,IR-E-U-0263,Yes,97.7,10.8,10.55,https://www.nirfindia.org/nirfpdfcdn/2023/pdf/Engineering/IR-E-U-0263.pdf,2023.0
+NIT,National Institute Of Technology Delhi,Delhi,IR-E-U-0622,Yes,96.0,14.75,14.15,https://www.nirfindia.org/nirfpdfcdn/2023/pdf/Engineering/IR-E-U-0622.pdf,2023.0
+NIT,Dr B R Ambedkar National Institute Of Technology Jalandhar,Punjab,IR-E-U-0374,Yes,96.0,8.91,8.56,https://www.nirfindia.org/nirfpdfcdn/2023/pdf/Engineering/IR-E-U-0374.pdf,2023.0
+NIT,Motilal Nehru National Institute Of Technology Allahabad,Uttar Pradesh,IR-E-U-0530,Yes,94.7,12.0,11.36,https://www.nirfindia.org/nirfpdfcdn/2023/pdf/Engineering/IR-E-U-0530.pdf,2023.0
+NIT,Sardar Vallabhbhai National Institute Of Technology Surat,Gujarat,IR-E-U-0149,Yes,94.0,8.01,7.53,https://www.nirfindia.org/nirfpdfcdn/2023/pdf/Engineering/IR-E-U-0149.pdf,2023.0
+NIT,National Institute Of Technology Silchar,Assam,IR-E-U-0055,Yes,93.8,11.0,10.31,https://www.nirfindia.org/nirfpdfcdn/2023/pdf/Engineering/IR-E-U-0055.pdf,2023.0
+NIT,National Institute Of Technology Kurukshetra,Haryana,IR-E-U-0172,Yes,92.0,11.0,10.12,https://www.nirfindia.org/nirfpdfcdn/2023/pdf/Engineering/IR-E-U-0172.pdf,2023.0
+NIT,National Institute Of Technology Rourkela,Odisha,IR-E-U-0357,Yes,91.8,10.0,9.18,https://www.nirfindia.org/nirfpdfcdn/2023/pdf/Engineering/IR-E-U-0357.pdf,2023.0
+NIT,National Institute Of Technology Karnataka Surathkal,Karnataka,IR-E-U-0237,Yes,91.2,12.84,11.71,https://www.nirfindia.org/nirfpdfcdn/2023/pdf/Engineering/IR-E-U-0237.pdf,2023.0
+NIT,National Institute Of Technology Srinagar,Jammu and Kashmir,IR-E-U-0197,Yes,89.3,8.33,7.44,https://www.nirfindia.org/nirfpdfcdn/2023/pdf/Engineering/IR-E-U-0197.pdf,2023.0
+NIT,National Institute Of Technology Uttarakhand,Uttarakhand,IR-E-U-0616,Yes,88.5,6.8,6.02,https://www.nirfindia.org/nirfpdfcdn/2023/pdf/Engineering/IR-E-U-0616.pdf,2023.0
+NIT,National Institute Of Technology Tiruchirappalli,Tamil Nadu,IR-E-U-0467,Yes,88.1,12.0,10.57,https://www.nirfindia.org/nirfpdfcdn/2023/pdf/Engineering/IR-E-U-0467.pdf,2023.0
+NIT,National Institute Of Technology Goa,Goa,IR-E-U-0620,Yes,86.0,8.0,6.88,https://www.nirfindia.org/nirfpdfcdn/2023/pdf/Engineering/IR-E-U-0620.pdf,2023.0
+NIT,National Institute Of Technology Raipur,Chhattisgarh,IR-E-U-0092,Yes,85.2,9.0,7.67,https://www.nirfindia.org/nirfpdfcdn/2023/pdf/Engineering/IR-E-U-0092.pdf,2023.0
+NIT,Malviya National Institute Of Technology Jaipur,Rajasthan,IR-E-U-0410,Yes,84.9,9.0,7.64,https://www.nirfindia.org/nirfpdfcdn/2023/pdf/Engineering/IR-E-U-0410.pdf,2023.0
+NIT,Maulana Azad National Institute Of Technology Bhopal,Madhya Pradesh,IR-E-U-0284,Yes,82.1,11.0,9.03,https://www.nirfindia.org/nirfpdfcdn/2023/pdf/Engineering/IR-E-U-0284.pdf,2023.0
+NIT,National Institute Of Technology Sikkim,Sikkim,IR-E-U-0614,Yes,81.8,8.0,6.55,https://www.nirfindia.org/nirfpdfcdn/2023/pdf/Engineering/IR-E-U-0614.pdf,2023.0
+NIT,National Institute Of Technology Puducherry,Puducherry,IR-E-U-0621,Yes,79.8,7.55,6.03,https://www.nirfindia.org/nirfpdfcdn/2023/pdf/Engineering/IR-E-U-0621.pdf,2023.0
+NIT,National Institute Of Technology Hamirpur,Himachal Pradesh,IR-E-U-0189,Yes,79.3,7.54,5.98,https://www.nirfindia.org/nirfpdfcdn/2023/pdf/Engineering/IR-E-U-0189.pdf,2023.0
+NIT,National Institute Of Technology Warangal,Telangana,IR-E-U-0025,Yes,79.2,15.92,12.61,https://www.nirfindia.org/nirfpdfcdn/2023/pdf/Engineering/IR-E-U-0025.pdf,2023.0
+NIT,National Institute Of Technology Andhra Pradesh,Andhra Pradesh,IR-E-U-0855,No,75.9,7.12,5.41,"https://nitandhra.ac.in/main/M.Tech/2023-24/NATIONAL%20INSTITUTE%20OF%20TECHNOLOGY,%20ANDHRA%20PRADESH20240123-%20OVERALL.pdf",2024.0
+NIT,National Institute Of Technology Arunachal Pradesh,Arunachal Pradesh,IR-E-U-0615,Yes,69.3,8.35,5.79,https://www.nirfindia.org/nirfpdfcdn/2023/pdf/Engineering/IR-E-U-0615.pdf,2023.0
+NIT,National Institute Of Technology Meghalaya,Meghalaya,IR-E-U-0619,Yes,64.1,9.45,6.06,https://www.nirfindia.org/nirfpdfcdn/2023/pdf/Engineering/IR-E-U-0619.pdf,2023.0
