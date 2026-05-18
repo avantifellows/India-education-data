@@ -48,7 +48,7 @@ The fit and projection are in `aishe_ug_discipline_extrapolated_2024-26.csv`. So
 
 ## Engineering UG female % — actual AICTE dashboard data 2012-22
 
-Pulled directly from `facilities.aicte-india.org` API (see `scripts/aicte_dashboard_pull_panel.py`, output in `extractions/aicte_dashboard_panel_2012-2023.csv`):
+Pulled directly from `facilities.aicte-india.org` API (see `scripts/aicte_dashboard_pull_panel.py`, output in `extractions/aicte_dashboard_panel_national_program_level.csv`):
 
 | Year | Approved Intake | Enrolled | Girls | Boys | Female % |
 |---|---:|---:|---:|---:|---:|
