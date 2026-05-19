@@ -117,18 +117,22 @@ Even within Engineering, however, the female share has been steadily climbing: f
 
 ## 4. The elite engineering and medical tier — 5-bucket split
 
-We grouped all STEM-track UG graduates into five buckets based on the publishing institute's tier, to see where the well-paid jobs actually go:
+We grouped all STEM-track UG graduates into five buckets based on the publishing institute's tier, with **median income at three life stages** — early career (24-29), mid-career (30-34), and senior (35-40). Income at graduation is from NIRF or government pay scales; the age-band progression is from PLFS Annual 2023-24 — Engineering grads grow ×1.27 by 30-34 and ×1.54 by 35-40 vs the 24-29 baseline; Medical grows ×1.21 / ×1.57; Graduate-non-technical grows ×1.29 / ×1.53. We apply Engineering multipliers to buckets 1, 2, 4 and Medical to bucket 3.
 
-| Bucket | Institutes | Annual grads | % of all UG | Employment % | Avg pay |
-|---|---:|---:|---:|---:|---:|
-| **1. IITs** | 23 | 15,647 | **0.20%** | **92%** | **₹17.2 L** |
-| **2. NITs / IIITs** | 57 | 29,510 | 0.38% | 89% | ₹10.1 L |
-| **3. Government MBBS** | 423 | 54,000 | 0.70% | **100%** | ₹7.0 L (Junior Resident start) |
-| **4. NIRF Top-200 Engineering** (non-IIT/NIT/IIIT) | 137 | 155,398 | 2.00% | 71% | ₹7.5 L |
-| **5. All other STEM** (non-elite engg + IT/Computer + non-MBBS medical) | thousands | **1,126,803** | **14.53%** | **36%** | **₹2.7 L** |
-| **STEM-track UG total** | | 1,381,358 | 17.81% | | |
-| Non-STEM UG (Arts/Sci/Com/Edu/Law/…) | | 6,372,865 | 82.19% | 28% | ~₹2.8 L |
-| **ALL UG graduates** | | **7,754,223** | **100%** | | |
+| Bucket | Inst. | Annual grads | % of all UG | Job % | Pay 24-29 | Pay 30-34 | Pay 35-40 |
+|---|---:|---:|---:|---:|---:|---:|---:|
+| **1. IITs** | 23 | 15,647 | **0.20%** | **92%** | **₹17.2 L** | **₹21.8 L** | **₹26.5 L** |
+| **2. NITs / IIITs** | 57 | 29,510 | 0.38% | 89% | ₹10.1 L | ₹12.8 L | ₹15.6 L |
+| **3. Govt MBBS** | 423 | 54,000 | 0.70% | **100%** | ₹7.0 L (JR) | ₹8.5 L | ₹11.0 L |
+| **4. NIRF Top-200 Eng** (non-IIT/NIT/IIIT) | 137 | 155,398 | 2.00% | 71% | ₹7.5 L | ₹9.5 L | ₹11.6 L |
+| **5. All other STEM** (non-elite engg + BCA/BSc-IT + non-MBBS medical) | many | **1,126,803** | **14.53%** | **36%** | **₹2.7 L** | ₹3.4 L | ₹4.2 L |
+| **STEM-track UG total** | | 1,381,358 | 17.81% | | | | |
+| Non-STEM UG (Arts/Sci/Com/Edu/Law/…) | | 6,372,865 | 82.19% | 28% | ₹2.6 L | ₹3.4 L | ₹4.0 L |
+| **ALL UG graduates** | | **7,754,223** | **100%** | | | | |
+
+**One thing to flag on bucket 3:** the PLFS Medical bucket pools MBBS doctors with nurses, AYUSH, B.Pharm, and BPT graduates, so the ₹8.5 L / ₹11.0 L progression *understates* the true MBBS path. Doctors who complete PG specialisation (most do, 3-5 years post-MBBS) earn ₹15-20 L at 30-34 and ₹20-30 L at 35-40 in government practice — substantially above the PLFS-derived numbers. We've kept the PLFS-multiplier figure for consistency with the other buckets but note this in `extractions/stem_pipeline_buckets_2024-25.csv`.
+
+**And on bucket 1 (IITs):** the IIT median grad's progression likely beats PLFS Engineering at the right tail too — FAANG/MBA tracks routinely 3-4× starting salary by mid-30s — but for the *median* IIT graduate (not the top 10% tail), PLFS Engineering is a reasonable approximation.
 
 A few things become uncomfortably clear:
 
