@@ -30,7 +30,7 @@ The story arc, from school through to "what comes out the other end":
 
 | Topic | Script(s) | Extraction CSVs | Notes |
 |---|---|---|---|
-| **AISHE 2021-22** — UG out-turn by state × level, by discipline, by social category | `aishe_2021-22_01_…`, `aishe_2021-22_02_…`, `aishe_2021-22_03a/b/c_…` (5 scripts) | `aishe_2021-22_outturn_*.csv` (4 files) + `aishe_2021-22_programme_to_discipline_mapping.csv` | [`aishe_2021-22_NOTES.md`](extractions/aishe_2021-22_NOTES.md) |
+| **AISHE 2021-22** — UG out-turn by state × level, by discipline, by social category | `aishe_2021-22_01_…`, `aishe_2021-22_02_…`, `aishe_2021-22_03a/b/c_…` (5 scripts) | `aishe_2021-22_outturn_*.csv` (4 files) + `aishe_2021-22_program_to_discipline_mapping.csv` | [`aishe_2021-22_NOTES.md`](extractions/aishe_2021-22_NOTES.md) |
 | **AISHE 2019-22 panel** — 3-year trend, linear extrapolation to 2025-26 | `aishe_panel_01_extract_ug_discipline_3year.py`, `aishe_panel_02_extrapolate_to_2025-26.py` | `aishe_ug_discipline_panel_2019-22.csv`, `aishe_ug_discipline_extrapolated_2024-26.csv` | See `higher_ed_capacity_2025-26_NOTES.md` |
 | **AICTE dashboard panels** — engineering/management/MCA/pharmacy intake + gender 2012-2023, at national / state / institution-type cuts | `aicte_dashboard_pull_panel.py` | `aicte_dashboard_panel_national_program_level.csv`, `…_state_program_level.csv`, `…_inst_type_program_level.csv` | Methodology in `higher_ed_capacity_2025-26_NOTES.md` |
 | **Higher-ed capacity AY 2025-26** — consolidated current-year view using AICTE + NMC + AISHE-extrapolated | `higher_ed_capacity_2025-26_consolidated.py` | `higher_ed_capacity_2025-26_consolidated.csv` | [`higher_ed_capacity_2025-26_NOTES.md`](extractions/higher_ed_capacity_2025-26_NOTES.md) |
@@ -59,8 +59,8 @@ python3 scripts/nas_2021_aggregate_national.py
 # AISHE pipeline (5 sequential scripts)
 python3 scripts/aishe_2021-22_01_state_level_outturn.py
 python3 scripts/aishe_2021-22_02_ug_discipline_outturn.py
-python3 scripts/aishe_2021-22_03a_programme_outturn_by_social_category.py
-python3 scripts/aishe_2021-22_03b_programme_to_discipline_mapping.py
+python3 scripts/aishe_2021-22_03a_program_outturn_by_social_category.py
+python3 scripts/aishe_2021-22_03b_program_to_discipline_mapping.py
 python3 scripts/aishe_2021-22_03c_outturn_discipline_by_social_category.py
 
 # AISHE 3-year panel + extrapolation
