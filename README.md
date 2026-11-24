@@ -47,7 +47,7 @@ The final 5-bucket file is the headline deliverable — it combines AISHE volume
 
 ## Regenerate end-to-end
 
-Dependencies: `python>=3.10`, `pdfplumber`, `openpyxl`. NVS PDFs (gitignored) need separate download — see [sources/SOURCES.md](sources/SOURCES.md). AICTE dashboard pull requires internet.
+Dependencies: `python>=3.10`, `pdfplumber`, `openpyxl`. Source PDFs over 1MB are in GCS, not git: run `python3 scripts/fetch_sources.py` (needs `gcloud` with read on `gs://avantifellows-external-data`), and see [sources/GCS_MANIFEST.csv](sources/GCS_MANIFEST.csv) for what each file is and what uses it. AICTE dashboard pull requires internet.
 
 ```bash
 # School pipeline
