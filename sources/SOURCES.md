@@ -1,6 +1,15 @@
 # Source PDFs — provenance and download URLs
 
-Every file in `sources/` is published by an Indian government body (MoE / CBSE / KVS / NVS / UGC). All are public; we re-host them in this repo for reproducibility, except the NVS annual reports which are too large for GitHub (each 83-160 MB, exceeding GitHub's 100 MB file limit). The NVS PDFs are gitignored — download fresh copies via the URLs below if you need them.
+Every file in `sources/` is published by an Indian government body (MoE / CBSE / KVS / NVS / UGC). All are public.
+
+**Large PDFs are not in git.** Every PDF over 1MB (the KVS, NVS, MoE, AICTE, AISHE, CBSE and UDISE+ reports) lives in `gs://avantifellows-external-data/<source>/raw/`. [`GCS_MANIFEST.csv`](GCS_MANIFEST.csv) has one row per file: its GCS URI, MD5, size, original URL, what it contains, and which script or BigQuery table uses it. Fetch them with:
+
+```bash
+python3 scripts/fetch_sources.py          # all, checksum-verified
+python3 scripts/fetch_sources.py kvs moe  # by filename prefix
+```
+
+The original URLs below stay as the provenance record. Government links rot, so GCS is the copy to rely on.
 
 ## UDISE+ (school enrolment)
 
