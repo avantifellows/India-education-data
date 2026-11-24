@@ -1,0 +1,27 @@
+# Root-level ignores. Pipeline-specific bulk-data ignores live in
+# education/.gitignore and plfs/.gitignore (paths relative to those dirs).
+
+# OS / editor noise
+.DS_Store
+*.swp
+*~
+.idea/
+.vscode/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+
+# Local Claude harness state
+.claude/
+
+# Temp / scratch
+/tmp/
+*.log
+
+# NAS upstream bulk we don't vendor (only csv_data is kept)
+education/sources/nas_2021_data/json_data/
+education/sources/nas_2021_data/.git/
